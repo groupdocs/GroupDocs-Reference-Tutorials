@@ -371,11 +371,11 @@ defaultContentLang = 'en'
     flag = "flag-tw"
     weight = 32
 	    [languages.zh-hant.menu]
-    	[[languagzh-hant.zh-hant.menu.main]]
+    	[[languags.zh-hant.menu.main]]
 			name = "GroupDocs.Viewer 教學課程"
 			url = "/zh-hantewer/zh-hant/"
 			weight = 10
-		[[languagzh-hant.zh-hant.menu.main]]
+		[[languags.zh-hant.menu.main]]
 			name = "GroupDocs.轉換教程"
 			url = "/conversion/zh-hant/"
 			weight = 20
