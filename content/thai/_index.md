@@ -13,7 +13,7 @@ url: /th/
 {{% /alert %}}
 
 ### บทช่วยสอน GroupDocs.Viewer
-- [GroupDocs.Viewer สำหรับ .NET บทช่วยสอน](./viewer/net/)
+- [GroupDocs.Viewer สำหรับ .NET บทช่วยสอน](../viewer/th/net/)
 
 
 ## GroupDocs.การแปลง
@@ -22,4 +22,4 @@ url: /th/
 {{% /alert %}}
 
 ### GroupDocs. บทช่วยสอนการแปลง
-- [GroupDocs.Conversion สำหรับ .NET บทช่วยสอน](./conversion/net/)
+- [GroupDocs.Conversion สำหรับ .NET บทช่วยสอน](../conversion/th/net/)

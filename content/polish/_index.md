@@ -13,7 +13,7 @@ Samouczki Groupdocs.Viewer zawierają kompleksowe instrukcje dotyczące wykorzys
 {{% /alert %}}
 
 ### Poradniki GroupDocs.Viewer
-- [GroupDocs.Viewer dla samouczków .NET](./viewer/net/)
+- [GroupDocs.Viewer dla samouczków .NET](../viewer/pl/net/)
 
 
 ## GroupDocs.Konwersja
@@ -22,4 +22,4 @@ Poradniki GroupDocs.Conversion oferują fachowe wskazówki dotyczące wykorzysta
 {{% /alert %}}
 
 ### Poradniki GroupDocs.Conversion
-- [GroupDocs.Conversion dla samouczków .NET](./conversion/net/)
+- [GroupDocs.Conversion dla samouczków .NET](../conversion/pl/net/)

@@ -13,7 +13,7 @@ url: /ru/
 {{% /alert %}}
 
 ### Учебные пособия по GroupDocs.Viewer
-- [GroupDocs.Viewer для учебных пособий по .NET](./viewer/net/)
+- [GroupDocs.Viewer для учебных пособий по .NET](../viewer/ru/net/)
 
 
 ## ГруппаДокс.Конверсия
@@ -22,4 +22,4 @@ url: /ru/
 {{% /alert %}}
 
 ### Учебные пособия по GroupDocs.Conversion
-- [Учебные пособия GroupDocs.Conversion для .NET](./conversion/net/)
+- [Учебные пособия GroupDocs.Conversion для .NET](../conversion/ru/net/)

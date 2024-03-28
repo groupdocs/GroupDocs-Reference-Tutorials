@@ -13,7 +13,7 @@ Los tutoriales de Groupdocs.Viewer brindan instrucciones completas para aprovech
 {{% /alert %}}
 
 ### Tutoriales de GroupDocs.Viewer
-- [Tutoriales de GroupDocs.Viewer para .NET](./viewer/net/)
+- [Tutoriales de GroupDocs.Viewer para .NET](../viewer/es/net/)
 
 
 ## GroupDocs.Conversión
@@ -22,4 +22,4 @@ Los tutoriales de GroupDocs.Conversion ofrecen orientación experta sobre cómo 
 {{% /alert %}}
 
 ### Tutoriales de GroupDocs.Conversion
-- [Tutoriales de GroupDocs.Conversion para .NET](./conversion/net/)
+- [Tutoriales de GroupDocs.Conversion para .NET](../conversion/es/net/)

@@ -13,7 +13,7 @@ Groupdocs.Viewer Tutorials ger omfattande instruktioner för hur du använder Gr
 {{% /alert %}}
 
 ### GroupDocs.Viewer självstudier
-- [GroupDocs.Viewer för .NET självstudier](./viewer/net/)
+- [GroupDocs.Viewer för .NET självstudier](../viewer/sv/net/)
 
 
 ## GroupDocs.Conversion
@@ -22,4 +22,4 @@ GroupDocs.Conversion Tutorials erbjuder expertvägledning om hur du använder Gr
 {{% /alert %}}
 
 ### GroupDocs.Conversion Tutorials
-- [Instruktioner för GroupDocs.Conversion för .NET](./conversion/net/)
+- [Instruktioner för GroupDocs.Conversion för .NET](../conversion/sv/net/)

@@ -13,7 +13,7 @@ Groupdocs.Viewer Eğitimleri, sorunsuz belge görüntüleme deneyimlerini kolayl
 {{% /alert %}}
 
 ### GroupDocs.Viewer Eğitimleri
-- [.NET Eğitimleri için GroupDocs.Viewer](./viewer/net/)
+- [.NET Eğitimleri için GroupDocs.Viewer](../viewer/tr/net/)
 
 
 ## GroupDocs.Conversion
@@ -22,4 +22,4 @@ GroupDocs.Conversion Eğitimleri, çok yönlü belge formatı dönüşümleri i�
 {{% /alert %}}
 
 ### GroupDocs.Dönüşüm Eğitimleri
-- [.NET Eğitimleri için GroupDocs.Conversion](./conversion/net/)
+- [.NET Eğitimleri için GroupDocs.Conversion](../conversion/tr/net/)

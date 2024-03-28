@@ -13,7 +13,7 @@ Hướng dẫn của Groupdocs.Viewer cung cấp hướng dẫn toàn diện đ�
 {{% /alert %}}
 
 ### Hướng dẫn về GroupDocs.Viewer
-- [Hướng dẫn GroupDocs.Viewer cho .NET](./viewer/net/)
+- [Hướng dẫn GroupDocs.Viewer cho .NET](../viewer/vi/net/)
 
 
 ## GroupDocs.Conversion
@@ -22,4 +22,4 @@ Hướng dẫn GroupDocs.Conversion cung cấp hướng dẫn chuyên môn về 
 {{% /alert %}}
 
 ### Hướng dẫn chuyển đổi GroupDocs.Conversion
-- [Hướng dẫn GroupDocs.Conversion for .NET](./conversion/net/)
+- [Hướng dẫn GroupDocs.Conversion for .NET](../conversion/vi/net/)
