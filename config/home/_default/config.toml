@@ -161,11 +161,11 @@ defaultContentLang = 'en'
     flag = "flag-se"
     weight = 18
 	    [languages.sv.menu]
-    	[[languagsv.sv.menu.main]]
+    	[[languages.sv.menu.main]]
 			name = "GroupDocs.Viewer Tutorials"
 			url = "/viewer/sv/"
 			weight = 10
-		[[languagsv.sv.menu.main]]
+		[[languages.sv.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/sv/"
 			weight = 20
@@ -176,11 +176,11 @@ defaultContentLang = 'en'
     flag = "flag-tr"
     weight = 19
 	    [languages.tr.menu]
-    	[[languagtr.tr.menu.main]]
+    	[[languages.tr.menu.main]]
 			name = "GroupDocs.Viewer Tutorials"
 			url = "/viewer/tr/"
 			weight = 10
-		[[languagtr.tr.menu.main]]
+		[[languages.tr.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/tr/"
 			weight = 20
@@ -191,11 +191,11 @@ defaultContentLang = 'en'
     flag = "flag-br"
     weight = 20
 	    [languages.pt.menu]
-    	[[languagpt.pt.menu.main]]
+    	[[languages.pt.menu.main]]
 			name = "GroupDocs.Viewer Tutorials"
 			url = "/viewer/pt/"
 			weight = 10
-		[[languagpt.pt.menu.main]]
+		[[languages.pt.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/pt/"
 			weight = 20
@@ -206,11 +206,11 @@ defaultContentLang = 'en'
     flag = "flag-kr"
     weight = 21
 	    [languages.ko.menu]
-    	[[languagko.ko.menu.main]]
+    	[[languages.ko.menu.main]]
 			name = "GroupDocs.Viewer Tutorials"
 			url = "/viewer/ko/"
 			weight = 10
-		[[languagko.ko.menu.main]]
+		[[languages.ko.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/ko/"
 			weight = 20
@@ -221,11 +221,11 @@ defaultContentLang = 'en'
     flag = "flag-vn"
     weight = 22
 	    [languages.vi.menu]
-    	[[languagvi.vi.menu.main]]
+    	[[languages.vi.menu.main]]
 			name = "GroupDocs.Viewer Tutorials"
 			url = "/viewer/vi/"
 			weight = 10
-		[[languagvi.vi.menu.main]]
+		[[languages.vi.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/vi/"
 			weight = 20
@@ -236,11 +236,11 @@ defaultContentLang = 'en'
     flag = "flag-id"
     weight = 23
 	    [languages.id.menu]
-    	[[languagid.id.menu.main]]
+    	[[languages.id.menu.main]]
 			name = "GroupDocs.idewer Tutorials"
 			url = "/idewer/id/"
 			weight = 10
-		[[languagid.id.menu.main]]
+		[[languages.id.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/id/"
 			weight = 20
@@ -251,11 +251,11 @@ defaultContentLang = 'en'
     flag = "flag-jp"
     weight = 24
 	    [languages.ja.menu]
-    	[[languagja.ja.menu.main]]
+    	[[languages.ja.menu.main]]
 			name = "GroupDocs.jaewer Tutorials"
 			url = "/jaewer/ja/"
 			weight = 10
-		[[languagja.ja.menu.main]]
+		[[languages.ja.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/ja/"
 			weight = 20
@@ -266,11 +266,11 @@ defaultContentLang = 'en'
     flag = "flag-pl"
     weight = 25
 	    [languages.pl.menu]
-    	[[languagpl.pl.menu.main]]
+    	[[languages.pl.menu.main]]
 			name = "GroupDocs.plewer Tutorials"
 			url = "/plewer/pl/"
 			weight = 10
-		[[languagpl.pl.menu.main]]
+		[[languages.pl.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/pl/"
 			weight = 20
@@ -281,11 +281,11 @@ defaultContentLang = 'en'
     flag = "flag-nl"
     weight = 26
 	    [languages.nl.menu]
-    	[[languagnl.nl.menu.main]]
+    	[[languages.nl.menu.main]]
 			name = "GroupDocs.nlewer Tutorials"
 			url = "/nlewer/nl/"
 			weight = 10
-		[[languagnl.nl.menu.main]]
+		[[languages.nl.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/nl/"
 			weight = 20
@@ -296,11 +296,11 @@ defaultContentLang = 'en'
     flag = "flag-hu"
     weight = 27
 	    [languages.hu.menu]
-    	[[languaghu.hu.menu.main]]
+    	[[languages.hu.menu.main]]
 			name = "GroupDocs.huewer Tutorials"
 			url = "/huewer/hu/"
 			weight = 10
-		[[languaghu.hu.menu.main]]
+		[[languages.hu.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/hu/"
 			weight = 20
@@ -311,11 +311,11 @@ defaultContentLang = 'en'
     flag = "flag-in"
     weight = 28
 	    [languages.hi.menu]
-    	[[languaghi.hi.menu.main]]
+    	[[languages.hi.menu.main]]
 			name = "GroupDocs.hiewer Tutorials"
 			url = "/hiewer/hi/"
 			weight = 10
-		[[languaghi.hi.menu.main]]
+		[[languages.hi.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/hi/"
 			weight = 20
@@ -326,11 +326,11 @@ defaultContentLang = 'en'
     flag = "flag-th"
     weight = 29
 	    [languages.th.menu]
-    	[[languagth.th.menu.main]]
+    	[[languages.th.menu.main]]
 			name = "GroupDocs.thewer Tutorials"
 			url = "/thewer/th/"
 			weight = 10
-		[[languagth.th.menu.main]]
+		[[languages.th.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/th/"
 			weight = 20
@@ -341,11 +341,11 @@ defaultContentLang = 'en'
     flag = "flag-gr"
     weight = 30
 	    [languages.el.menu]
-    	[[languagel.el.menu.main]]
+    	[[languages.el.menu.main]]
 			name = "GroupDocs.elewer Tutorials"
 			url = "/elewer/el/"
 			weight = 10
-		[[languagel.el.menu.main]]
+		[[languages.el.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/el/"
 			weight = 20
@@ -356,11 +356,11 @@ defaultContentLang = 'en'
     flag = "flag-cz"
     weight = 31
 	    [languages.cs.menu]
-    	[[languagcs.cs.menu.main]]
+    	[[languages.cs.menu.main]]
 			name = "GroupDocs.csewer Tutorials"
 			url = "/csewer/cs/"
 			weight = 10
-		[[languagcs.cs.menu.main]]
+		[[languages.cs.menu.main]]
 			name = "GroupDocs.Conversion Tutorials"
 			url = "/conversion/cs/"
 			weight = 20
