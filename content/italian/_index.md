@@ -23,3 +23,12 @@ I tutorial di GroupDocs.Conversion offrono una guida esperta su come sfruttare G
 
 ### Esercitazioni su GroupDocs.Conversion
 - [GroupDocs.Conversion per esercitazioni .NET](../conversion/it/net/)
+
+
+## GroupDocs.Annotazione
+{{% alert color="primary" %}}
+GroupDocs.Annotation è una soluzione completa per l'annotazione di documenti che consente agli utenti di annotare PDF, Microsoft Office e altri formati di documenti popolari in tempo reale. Offre una gamma di strumenti di annotazione tra cui evidenziazione del testo, commenti, disegno di forme e aggiunta di timbri.
+{{% /alert %}}
+
+### Esercitazioni su GroupDocs.Annotation
+- [GroupDocs.Annotation per esercitazioni .NET](../annotation/net/)

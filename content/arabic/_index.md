@@ -23,3 +23,12 @@ url: /ar/
 
 ### دروس GroupDocs.Conversion
 - [GroupDocs.Conversion لبرامج .NET التعليمية](../conversion/ar/net/)
+
+
+## GroupDocs.Annotation
+{{% alert color="primary" %}}
+GroupDocs.Annotation هو حل شامل للتعليقات التوضيحية للمستندات يسمح للمستخدمين بالتعليق على ملفات PDF وMicrosoft Office وتنسيقات المستندات الشائعة الأخرى في الوقت الفعلي. وهو يقدم مجموعة من أدوات التعليقات التوضيحية بما في ذلك تمييز النص والتعليق ورسم الأشكال وإضافة الطوابع.
+{{% /alert %}}
+
+### دروس GroupDocs.Annotation
+- [GroupDocs.Annotation  لبرامج .NET التعليمية](../annotation/net/)

@@ -23,3 +23,12 @@ GroupDocs.Conversion 자습서는 다양한 문서 형식 변환을 위해 Group
 
 ### GroupDocs.Conversion 자습서
 - [.NET 자습서용 GroupDocs.Conversion](../conversion/ko/net/)
+
+
+## GroupDocs.주석
+{{% alert color="primary" %}}
+GroupDocs.Annotation은 사용자가 PDF, Microsoft Office 및 기타 널리 사용되는 문서 형식에 실시간으로 주석을 달 수 있는 포괄적인 문서 주석 솔루션입니다. 텍스트 강조 표시, 주석 달기, 모양 그리기, 스탬프 추가 등 다양한 주석 도구를 제공합니다.
+{{% /alert %}}
+
+### GroupDocs.Annotation 튜토리얼
+- [.NET 튜토리얼용 GroupDocs.Annotation](../annotation/net/)

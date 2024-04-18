@@ -23,3 +23,12 @@ GroupDocs.Conversion 教學課程提供利用 GroupDocs.Conversion 進行多功�
 
 ### GroupDocs.轉換教程
 - [.NET 教學的 GroupDocs.Conversion](../conversion/zh-hant/net/)
+
+
+## GroupDocs.Annotation
+{{% alert color="primary" %}}
+GroupDocs.Annotation 是一個全面的文件註解解決方案，可讓使用者即時註解 PDF、Microsoft Office 和其他流行的文件格式。 它提供了一系列註釋工具，包括文字突出顯示、註釋、繪製形狀和添加圖章。
+{{% /alert %}}
+
+### GroupDocs.註解教程
+- [.NET 教學的 GroupDocs.Annotation](../annotation/net/)

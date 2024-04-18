@@ -23,3 +23,12 @@ GroupDocs.Conversion Tutorials bieden deskundige begeleiding bij het benutten va
 
 ### GroupDocs.Conversion-tutorials
 - [GroupDocs.Conversion voor .NET-zelfstudies](../conversion/nl/net/)
+
+
+## GroupDocs.Annotatie
+{{% alert color="primary" %}}
+GroupDocs.Annotation is een uitgebreide oplossing voor documentannotatie waarmee gebruikers in realtime aantekeningen kunnen maken in PDF-, Microsoft Office- en andere populaire documentformaten. Het biedt een reeks annotatiehulpmiddelen, waaronder tekstmarkering, commentaar, vormen tekenen en stempels toevoegen.
+{{% /alert %}}
+
+### GroupDocs.Annotatie-tutorials
+- [GroupDocs.Annotation voor .NET-zelfstudies](../annotation/net/)

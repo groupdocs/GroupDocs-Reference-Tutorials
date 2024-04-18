@@ -23,3 +23,12 @@ Tutorial GroupDocs.Conversion menawarkan panduan ahli dalam memanfaatkan GroupDo
 
 ### GroupDocs.Tutorial Konversi
 - [GroupDocs.Conversion untuk Tutorial .NET](../conversion/id/net/)
+
+
+## GroupDocs.Anotasi
+{{% alert color="primary" %}}
+GroupDocs.Annotation adalah solusi anotasi dokumen komprehensif yang memungkinkan pengguna membuat anotasi PDF, Microsoft Office, dan format dokumen populer lainnya secara real-time. Ini menawarkan berbagai alat anotasi termasuk penyorotan teks, komentar, menggambar bentuk, dan menambahkan stempel.
+{{% /alert %}}
+
+### GroupDocs.Tutorial Anotasi
+- [GroupDocs.Annotation untuk Tutorial .NET](../annotation/net/)

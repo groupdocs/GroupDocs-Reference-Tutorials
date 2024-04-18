@@ -23,3 +23,12 @@ GroupDocs.Conversion チュートリアルでは、GroupDocs.Conversion を活�
 
 ### GroupDocs.Conversion チュートリアル
 - [GroupDocs.Conversion for .NET チュートリアル](../conversion/ja/net/)
+
+
+## GroupDocs.Annotation
+{{% alert color="primary" %}}
+GroupDocs.Annotation は、ユーザーが PDF、Microsoft Office、およびその他の一般的なドキュメント形式にリアルタイムで注釈を付けることができる、包括的なドキュメント注釈ソリューションです。 テキストの強調表示、コメント、図形の描画、スタンプの追加など、さまざまな注釈ツールを提供します。
+{{% /alert %}}
+
+### GroupDocs.Annotation のチュートリアル
+- [.NET チュートリアル用の GroupDocs.Annotation](../annotation/net/)

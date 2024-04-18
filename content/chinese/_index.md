@@ -23,3 +23,12 @@ GroupDocs.Conversion 教程提供有关利用 GroupDocs.Conversion 进行多功�
 
 ### GroupDocs.转换教程
 - [.NET 教程的 GroupDocs.Conversion](../conversion/zh/net/)
+
+
+## GroupDocs.Annotation
+{{% alert color="primary" %}}
+GroupDocs.Annotation 是一个全面的文档注释解决方案，允许用户实时注释 PDF、Microsoft Office 和其他流行的文档格式。 它提供了一系列注释工具，包括文本突出显示、注释、绘制形状和添加图章。
+{{% /alert %}}
+
+### GroupDocs.注释教程
+- [.NET 教程的 GroupDocs.Annotation](../annotation/net/)

@@ -23,3 +23,12 @@ GroupDocs.Conversion Eğitimleri, çok yönlü belge formatı dönüşümleri i�
 
 ### GroupDocs.Dönüşüm Eğitimleri
 - [.NET Eğitimleri için GroupDocs.Conversion](../conversion/tr/net/)
+
+
+## GroupDocs.Annotation
+{{% alert color="primary" %}}
+GroupDocs.Annotation, kullanıcıların PDF, Microsoft Office ve diğer popüler belge formatlarına gerçek zamanlı olarak açıklama eklemesine olanak tanıyan kapsamlı bir belge açıklama çözümüdür. Metin vurgulama, yorum yapma, şekil çizme ve damga ekleme gibi çeşitli açıklama araçları sunar.
+{{% /alert %}}
+
+### GroupDocs.Ek Açıklama Eğitimleri
+- [.NET Eğitimleri için GroupDocs.Annotation](../annotation/net/)

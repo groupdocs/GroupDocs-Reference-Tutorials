@@ -23,3 +23,12 @@ GroupDocs.Conversion Tutorials erbjuder expertvägledning om hur du använder Gr
 
 ### GroupDocs.Conversion Tutorials
 - [Instruktioner för GroupDocs.Conversion för .NET](../conversion/sv/net/)
+
+
+## GroupDocs.Annotation
+{{% alert color="primary" %}}
+GroupDocs.Annotation är en omfattande lösning för dokumentkommentarer som tillåter användare att kommentera PDF, Microsoft Office och andra populära dokumentformat i realtid. Den erbjuder en rad anteckningsverktyg, inklusive textmarkering, kommentering, ritning av former och att lägga till stämplar.
+{{% /alert %}}
+
+### Handledningar för GroupDocs.Annotation
+- [GroupDocs.Annotation för .NET Tutorials](../annotation/net/)

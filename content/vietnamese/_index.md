@@ -23,3 +23,12 @@ Hướng dẫn GroupDocs.Conversion cung cấp hướng dẫn chuyên môn về 
 
 ### Hướng dẫn chuyển đổi GroupDocs.Conversion
 - [Hướng dẫn GroupDocs.Conversion for .NET](../conversion/vi/net/)
+
+
+## GroupDocs.Annotation
+{{% alert color="primary" %}}
+GroupDocs.Annotation là giải pháp chú thích tài liệu toàn diện cho phép người dùng chú thích PDF, Microsoft Office và các định dạng tài liệu phổ biến khác trong thời gian thực. Nó cung cấp một loạt các công cụ chú thích bao gồm đánh dấu văn bản, nhận xét, vẽ hình và thêm tem.
+{{% /alert %}}
+
+### Hướng dẫn GroupDocs.Annotation
+- [GroupDocs.Annotation cho hướng dẫn .NET](../annotation/net/)

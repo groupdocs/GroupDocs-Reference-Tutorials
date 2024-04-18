@@ -23,3 +23,12 @@ url: /el/
 
 ### GroupDocs.Conversion Tutorials
 - [GroupDocs.Conversion for .NET Tutorials](../conversion/el/net/)
+
+
+## GroupDocs.Annotation
+{{% alert color="primary" %}}
+Το GroupDocs.Annotation είναι μια ολοκληρωμένη λύση σχολιασμού εγγράφων που επιτρέπει στους χρήστες να σχολιάζουν PDF, Microsoft Office και άλλες δημοφιλείς μορφές εγγράφων σε πραγματικό χρόνο. Προσφέρει μια σειρά από εργαλεία σχολιασμού, όπως επισήμανση κειμένου, σχολιασμό, σχεδίαση σχημάτων και προσθήκη γραμματοσήμων.
+{{% /alert %}}
+
+### GroupDocs.Annotation Tutorials
+- [GroupDocs.Annotation για .NET Tutorials](../annotation/net/)

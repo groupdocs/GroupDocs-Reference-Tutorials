@@ -23,3 +23,12 @@ A GroupDocs.Conversion oktatóanyagok szakértői útmutatást nyújtanak a Grou
 
 ### GroupDocs.Conversion Tutorials
 - [GroupDocs.Conversion for .NET Tutorials](../conversion/hu/net/)
+
+
+## GroupDocs.Annotation
+{{% alert color="primary" %}}
+A GroupDocs.Annotation egy átfogó dokumentumjegyzet-megoldás, amely lehetővé teszi a felhasználók számára, hogy valós időben megjegyzéseket fűzzenek PDF, Microsoft Office és más népszerű dokumentumformátumokhoz. Számos megjegyzési eszközt kínál, beleértve a szövegkiemelést, a megjegyzéseket, az alakzatok rajzolását és a bélyegek hozzáadását.
+{{% /alert %}}
+
+### GroupDocs.Annotation oktatóanyagok
+- [GroupDocs.Annotation for .NET Tutorials](../annotation/net/)

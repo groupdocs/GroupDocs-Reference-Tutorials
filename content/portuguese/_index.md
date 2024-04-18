@@ -23,3 +23,12 @@ Os tutoriais do GroupDocs.Conversion oferecem orientação especializada sobre c
 
 ### Tutoriais de GroupDocs.Conversion
 - [Tutoriais do GroupDocs.Conversion para .NET](../conversion/pt/net/)
+
+
+## GroupDocs.Annotation
+{{% alert color="primary" %}}
+GroupDocs.Annotation é uma solução abrangente de anotação de documentos que permite aos usuários anotar PDF, Microsoft Office e outros formatos de documentos populares em tempo real. Ele oferece uma variedade de ferramentas de anotação, incluindo destaque de texto, comentários, desenho de formas e adição de carimbos.
+{{% /alert %}}
+
+### Tutoriais de GroupDocs.Annotation
+- [GroupDocs.Annotation para tutoriais .NET](../annotation/net/)

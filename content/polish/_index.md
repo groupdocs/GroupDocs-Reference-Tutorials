@@ -23,3 +23,12 @@ Poradniki GroupDocs.Conversion oferują fachowe wskazówki dotyczące wykorzysta
 
 ### Poradniki GroupDocs.Conversion
 - [GroupDocs.Conversion dla samouczków .NET](../conversion/pl/net/)
+
+
+## GroupDocs.Adnotacja
+{{% alert color="primary" %}}
+GroupDocs.Annotation to kompleksowe rozwiązanie do dodawania adnotacji do dokumentów, które umożliwia użytkownikom dodawanie adnotacji do dokumentów PDF, Microsoft Office i innych popularnych formatów dokumentów w czasie rzeczywistym. Oferuje szereg narzędzi do adnotacji, w tym wyróżnianie tekstu, komentowanie, rysowanie kształtów i dodawanie stempli.
+{{% /alert %}}
+
+### Poradniki dotyczące adnotacji GroupDocs
+- [GroupDocs.Adnotacja dla samouczków .NET](../annotation/net/)
