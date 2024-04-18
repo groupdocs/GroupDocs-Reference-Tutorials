@@ -25,6 +25,15 @@ Les didacticiels GroupDocs.Conversion offrent des conseils d'experts sur l'explo
 - [GroupDocs.Conversion pour les didacticiels .NET](../conversion/fr/net/)
 
 
+## GroupDocs.Comparison
+{{% alert color="primary" %}}
+GroupDocs.Comparison est une puissante API de comparaison de documents qui permet aux développeurs de comparer et de fusionner par programme divers formats de documents, notamment des documents Word, des PDF, des feuilles de calcul Excel, etc.
+{{% /alert %}}
+
+### Tutoriels GroupDocs.Comparison
+- [GroupDocs.Comparison pour les didacticiels .NET](../comparison/net/)
+
+
 ## GroupDocs.Annotation
 {{% alert color="primary" %}}
 GroupDocs.Annotation est une solution complète d'annotation de documents qui permet aux utilisateurs d'annoter des PDF, Microsoft Office et d'autres formats de documents populaires en temps réel. Il offre une gamme d'outils d'annotation, notamment la surbrillance de texte, les commentaires, le dessin de formes et l'ajout de tampons.

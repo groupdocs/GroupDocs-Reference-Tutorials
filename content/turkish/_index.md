@@ -25,6 +25,15 @@ GroupDocs.Conversion Eğitimleri, çok yönlü belge formatı dönüşümleri i�
 - [.NET Eğitimleri için GroupDocs.Conversion](../conversion/tr/net/)
 
 
+## GroupDocs.Comparison
+{{% alert color="primary" %}}
+GroupDocs.Comparison, geliştiricilerin Word belgeleri, PDF'ler, Excel elektronik tabloları ve daha fazlası dahil olmak üzere çeşitli belge formatlarını programlı olarak karşılaştırmasına ve birleştirmesine olanak tanıyan güçlü bir belge karşılaştırma API'sidir.
+{{% /alert %}}
+
+### GroupDocs.Karşılaştırma Eğitimleri
+- [.NET Dersleri için GroupDocs.Comparison](../comparison/net/)
+
+
 ## GroupDocs.Annotation
 {{% alert color="primary" %}}
 GroupDocs.Annotation, kullanıcıların PDF, Microsoft Office ve diğer popüler belge formatlarına gerçek zamanlı olarak açıklama eklemesine olanak tanıyan kapsamlı bir belge açıklama çözümüdür. Metin vurgulama, yorum yapma, şekil çizme ve damga ekleme gibi çeşitli açıklama araçları sunar.

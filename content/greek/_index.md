@@ -22,7 +22,16 @@ url: /el/
 {{% /alert %}}
 
 ### GroupDocs.Conversion Tutorials
-- [GroupDocs.Conversion for .NET Tutorials](../conversion/el/net/)
+- [GroupDocs.Conversion για .NET Tutorials](../conversion/el/net/)
+
+
+## GroupDocs.Comparison
+{{% alert color="primary" %}}
+Το GroupDocs.Comparison είναι ένα ισχυρό API σύγκρισης εγγράφων που επιτρέπει στους προγραμματιστές να συγκρίνουν και να συγχωνεύουν μέσω προγραμματισμού διάφορες μορφές εγγράφων, όπως έγγραφα Word, PDF, υπολογιστικά φύλλα Excel και άλλα.
+{{% /alert %}}
+
+### GroupDocs.Comparison Tutorials
+- [GroupDocs.Comparison για .NET Tutorials](../comparison/net/)
 
 
 ## GroupDocs.Annotation

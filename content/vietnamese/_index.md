@@ -25,6 +25,15 @@ Hướng dẫn GroupDocs.Conversion cung cấp hướng dẫn chuyên môn về 
 - [Hướng dẫn GroupDocs.Conversion for .NET](../conversion/vi/net/)
 
 
+## GroupDocs.Comparison
+{{% alert color="primary" %}}
+GroupDocs.Comparison là API so sánh tài liệu mạnh mẽ cho phép các nhà phát triển so sánh và hợp nhất các định dạng tài liệu khác nhau theo chương trình, bao gồm tài liệu Word, PDF, bảng tính Excel, v.v.
+{{% /alert %}}
+
+### Hướng dẫn GroupDocs.Comparison
+- [GroupDocs.Comparison cho các hướng dẫn .NET](../comparison/net/)
+
+
 ## GroupDocs.Annotation
 {{% alert color="primary" %}}
 GroupDocs.Annotation là giải pháp chú thích tài liệu toàn diện cho phép người dùng chú thích PDF, Microsoft Office và các định dạng tài liệu phổ biến khác trong thời gian thực. Nó cung cấp một loạt các công cụ chú thích bao gồm đánh dấu văn bản, nhận xét, vẽ hình và thêm tem.

@@ -25,6 +25,15 @@ GroupDocs.Conversion 자습서는 다양한 문서 형식 변환을 위해 Group
 - [.NET 자습서용 GroupDocs.Conversion](../conversion/ko/net/)
 
 
+## GroupDocs.비교
+{{% alert color="primary" %}}
+GroupDocs.Comparison은 개발자가 Word 문서, PDF, Excel 스프레드시트 등을 포함한 다양한 문서 형식을 프로그래밍 방식으로 비교하고 병합할 수 있는 강력한 문서 비교 API입니다.
+{{% /alert %}}
+
+### GroupDocs.비교 튜토리얼
+- [.NET 자습서용 GroupDocs.Comparison](../comparison/net/)
+
+
 ## GroupDocs.주석
 {{% alert color="primary" %}}
 GroupDocs.Annotation은 사용자가 PDF, Microsoft Office 및 기타 널리 사용되는 문서 형식에 실시간으로 주석을 달 수 있는 포괄적인 문서 주석 솔루션입니다. 텍스트 강조 표시, 주석 달기, 모양 그리기, 스탬프 추가 등 다양한 주석 도구를 제공합니다.

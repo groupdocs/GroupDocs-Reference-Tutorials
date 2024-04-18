@@ -25,6 +25,15 @@ GroupDocs.Conversion 教學課程提供利用 GroupDocs.Conversion 進行多功�
 - [.NET 教學的 GroupDocs.Conversion](../conversion/zh-hant/net/)
 
 
+## GroupDocs.比較
+{{% alert color="primary" %}}
+GroupDocs.Comparison 是一個強大的文件比較 API，允許開發人員以程式設計方式比較和合併各種文件格式，包括 Word 文件、PDF、Excel 電子表格等。
+{{% /alert %}}
+
+### GroupDocs.比較教程
+- [.NET 教學的 GroupDocs.Comparison](../comparison/net/)
+
+
 ## GroupDocs.Annotation
 {{% alert color="primary" %}}
 GroupDocs.Annotation 是一個全面的文件註解解決方案，可讓使用者即時註解 PDF、Microsoft Office 和其他流行的文件格式。 它提供了一系列註釋工具，包括文字突出顯示、註釋、繪製形狀和添加圖章。

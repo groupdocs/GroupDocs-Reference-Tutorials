@@ -25,6 +25,15 @@ Tutorial GroupDocs.Conversion menawarkan panduan ahli dalam memanfaatkan GroupDo
 - [GroupDocs.Conversion untuk Tutorial .NET](../conversion/id/net/)
 
 
+## GroupDocs.Perbandingan
+{{% alert color="primary" %}}
+GroupDocs.Comparison adalah API perbandingan dokumen canggih yang memungkinkan pengembang membandingkan dan menggabungkan berbagai format dokumen secara terprogram, termasuk dokumen Word, PDF, spreadsheet Excel, dan banyak lagi.
+{{% /alert %}}
+
+### GroupDocs.Tutorial Perbandingan
+- [GroupDocs.Perbandingan untuk Tutorial .NET](../comparison/net/)
+
+
 ## GroupDocs.Anotasi
 {{% alert color="primary" %}}
 GroupDocs.Annotation adalah solusi anotasi dokumen komprehensif yang memungkinkan pengguna membuat anotasi PDF, Microsoft Office, dan format dokumen populer lainnya secara real-time. Ini menawarkan berbagai alat anotasi termasuk penyorotan teks, komentar, menggambar bentuk, dan menambahkan stempel.

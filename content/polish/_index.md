@@ -25,6 +25,15 @@ Poradniki GroupDocs.Conversion oferują fachowe wskazówki dotyczące wykorzysta
 - [GroupDocs.Conversion dla samouczków .NET](../conversion/pl/net/)
 
 
+## Porównanie GroupDocs
+{{% alert color="primary" %}}
+GroupDocs.Comparison to potężny interfejs API do porównywania dokumentów, który umożliwia programistom programowe porównywanie i łączenie różnych formatów dokumentów, w tym dokumentów programu Word, plików PDF, arkuszy kalkulacyjnych programu Excel i innych.
+{{% /alert %}}
+
+### Poradniki porównawcze GroupDocs
+- [Porównanie GroupDocs dla samouczków .NET](../comparison/net/)
+
+
 ## GroupDocs.Adnotacja
 {{% alert color="primary" %}}
 GroupDocs.Annotation to kompleksowe rozwiązanie do dodawania adnotacji do dokumentów, które umożliwia użytkownikom dodawanie adnotacji do dokumentów PDF, Microsoft Office i innych popularnych formatów dokumentów w czasie rzeczywistym. Oferuje szereg narzędzi do adnotacji, w tym wyróżnianie tekstu, komentowanie, rysowanie kształtów i dodawanie stempli.
