@@ -238,7 +238,7 @@ defaultContentLang = 'en'
 	    [languages.id.menu]
     	[[languages.id.menu.main]]
 			name = "GroupDocs.Tutorial Penampil"
-			url = "/idewer/id/"
+			url = "/viewer/id/"
 			weight = 10
 		[[languages.id.menu.main]]
 			name = "GroupDocs.Tutorial Konversi"
@@ -253,7 +253,7 @@ defaultContentLang = 'en'
 	    [languages.ja.menu]
     	[[languages.ja.menu.main]]
 			name = "GroupDocs.Viewer のチュートリアル"
-			url = "/jaewer/ja/"
+			url = "/viewer/ja/"
 			weight = 10
 		[[languages.ja.menu.main]]
 			name = "GroupDocs.Conversion チュートリアル"
@@ -268,7 +268,7 @@ defaultContentLang = 'en'
 	    [languages.pl.menu]
     	[[languages.pl.menu.main]]
 			name = "Poradniki GroupDocs.Viewer"
-			url = "/plewer/pl/"
+			url = "/viewer/pl/"
 			weight = 10
 		[[languages.pl.menu.main]]
 			name = "Poradniki GroupDocs.Conversion"
@@ -283,10 +283,10 @@ defaultContentLang = 'en'
 	    [languages.nl.menu]
     	[[languages.nl.menu.main]]
 			name = "GroupDocs.Viewer-zelfstudies"
-			url = "/nlewer/nl/"
+			url = "/viewer/nl/"
 			weight = 10
 		[[languages.nl.menu.main]]
-			name = "GroupDocs.Conversion-tutorials"
+			name = "GroupDocs.Conversion-zelfstudies"
 			url = "/conversion/nl/"
 			weight = 20
   [languages.hu]
@@ -298,10 +298,10 @@ defaultContentLang = 'en'
 	    [languages.hu.menu]
     	[[languages.hu.menu.main]]
 			name = "GroupDocs.Viewer oktatóanyagok"
-			url = "/huewer/hu/"
+			url = "/viewer/hu/"
 			weight = 10
 		[[languages.hu.menu.main]]
-			name = "GroupDocs.Conversion Tutorials"
+			name = "GroupDocs.Conversion oktatóanyagok"
 			url = "/conversion/hu/"
 			weight = 20
   [languages.hi]
@@ -313,7 +313,7 @@ defaultContentLang = 'en'
 	    [languages.hi.menu]
     	[[languages.hi.menu.main]]
 			name = "GroupDocs.Viewer ट्यूटोरियल"
-			url = "/hiewer/hi/"
+			url = "/viewer/hi/"
 			weight = 10
 		[[languages.hi.menu.main]]
 			name = "GroupDocs.रूपांतरण ट्यूटोरियल"
@@ -328,7 +328,7 @@ defaultContentLang = 'en'
 	    [languages.th.menu]
     	[[languages.th.menu.main]]
 			name = "บทช่วยสอน GroupDocs.Viewer"
-			url = "/thewer/th/"
+			url = "/viewer/th/"
 			weight = 10
 		[[languages.th.menu.main]]
 			name = "GroupDocs. บทช่วยสอนการแปลง"
@@ -343,7 +343,7 @@ defaultContentLang = 'en'
 	    [languages.el.menu]
     	[[languages.el.menu.main]]
 			name = "Εκμάθηση GroupDocs.Viewer"
-			url = "/elewer/el/"
+			url = "/viewer/el/"
 			weight = 10
 		[[languages.el.menu.main]]
 			name = "GroupDocs.Conversion Οδηγοί"
@@ -358,7 +358,7 @@ defaultContentLang = 'en'
 	    [languages.cs.menu]
     	[[languages.cs.menu.main]]
 			name = "Výukové programy GroupDocs.Viewer"
-			url = "/csewer/cs/"
+			url = "/viewer/cs/"
 			weight = 10
 		[[languages.cs.menu.main]]
 			name = "GroupDocs.Konverzní výukové programy"
@@ -373,7 +373,7 @@ defaultContentLang = 'en'
 	    [languages.zh-hant.menu]
     	[[languags.zh-hant.menu.main]]
 			name = "GroupDocs.Viewer 教學課程"
-			url = "/zh-hantewer/zh-hant/"
+			url = "/viewer/zh-hant/"
 			weight = 10
 		[[languags.zh-hant.menu.main]]
 			name = "GroupDocs.轉換教程"
