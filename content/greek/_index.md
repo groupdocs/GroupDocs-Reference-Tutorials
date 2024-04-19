@@ -22,4 +22,22 @@ url: /el/
 {{% /alert %}}
 
 ### GroupDocs.Conversion Tutorials
-- [GroupDocs.Conversion for .NET Tutorials](../conversion/el/net/)
+- [GroupDocs.Conversion για .NET Tutorials](../conversion/el/net/)
+
+
+## GroupDocs.Comparison
+{{% alert color="primary" %}}
+Το GroupDocs.Comparison είναι ένα ισχυρό API σύγκρισης εγγράφων που επιτρέπει στους προγραμματιστές να συγκρίνουν και να συγχωνεύουν μέσω προγραμματισμού διάφορες μορφές εγγράφων, όπως έγγραφα Word, PDF, υπολογιστικά φύλλα Excel και άλλα.
+{{% /alert %}}
+
+### GroupDocs.Comparison Tutorials
+- [GroupDocs.Comparison για .NET Tutorials](../comparison/net/)
+
+
+## GroupDocs.Annotation
+{{% alert color="primary" %}}
+Το GroupDocs.Annotation είναι μια ολοκληρωμένη λύση σχολιασμού εγγράφων που επιτρέπει στους χρήστες να σχολιάζουν PDF, Microsoft Office και άλλες δημοφιλείς μορφές εγγράφων σε πραγματικό χρόνο. Προσφέρει μια σειρά από εργαλεία σχολιασμού, όπως επισήμανση κειμένου, σχολιασμό, σχεδίαση σχημάτων και προσθήκη γραμματοσήμων.
+{{% /alert %}}
+
+### GroupDocs.Annotation Tutorials
+- [GroupDocs.Annotation για .NET Tutorials](../annotation/net/)

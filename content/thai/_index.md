@@ -23,3 +23,21 @@ url: /th/
 
 ### GroupDocs. บทช่วยสอนการแปลง
 - [GroupDocs.Conversion สำหรับ .NET บทช่วยสอน](../conversion/th/net/)
+
+
+## GroupDocs.การเปรียบเทียบ
+{{% alert color="primary" %}}
+GroupDocs.Comparison เป็น API การเปรียบเทียบเอกสารที่มีประสิทธิภาพ ซึ่งช่วยให้นักพัฒนาสามารถเปรียบเทียบและผสานรูปแบบเอกสารต่างๆ ได้โดยทางโปรแกรม รวมถึงเอกสาร Word, PDF, สเปรดชีต Excel และอื่นๆ
+{{% /alert %}}
+
+### GroupDocs.บทช่วยสอนการเปรียบเทียบ
+- [GroupDocs.Comparison สำหรับบทช่วยสอน .NET](../comparison/net/)
+
+
+## GroupDocs.คำอธิบายประกอบ
+{{% alert color="primary" %}}
+GroupDocs.Annotation เป็นโซลูชันคำอธิบายประกอบเอกสารที่ครอบคลุมซึ่งช่วยให้ผู้ใช้สามารถใส่คำอธิบายประกอบ PDF, Microsoft Office และรูปแบบเอกสารยอดนิยมอื่นๆ แบบเรียลไทม์ มีเครื่องมือคำอธิบายประกอบมากมาย เช่น การเน้นข้อความ การแสดงความคิดเห็น การวาดรูปทรง และการใส่แสตมป์
+{{% /alert %}}
+
+### GroupDocs.บทช่วยสอนคำอธิบายประกอบ
+- [GroupDocs.Annotation สำหรับบทช่วยสอน .NET](../annotation/net/)

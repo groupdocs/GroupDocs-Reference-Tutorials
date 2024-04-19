@@ -23,3 +23,21 @@ Výukové programy GroupDocs.Conversion nabízejí odborné rady ohledně využi
 
 ### GroupDocs.Konverzní výukové programy
 - [GroupDocs.Conversion for .NET výukové programy](../conversion/cs/net/)
+
+
+## GroupDocs.Comparison
+{{% alert color="primary" %}}
+GroupDocs.Comparison je výkonné rozhraní API pro porovnávání dokumentů, které umožňuje vývojářům programově porovnávat a spojovat různé formáty dokumentů, včetně dokumentů Word, PDF, tabulek Excelu a dalších.
+{{% /alert %}}
+
+### GroupDocs.Comparison výukové programy
+- [GroupDocs.Comparison pro .NET výukové programy](../comparison/net/)
+
+
+## GroupDocs.Anotace
+{{% alert color="primary" %}}
+GroupDocs.Annotation je komplexní řešení anotací dokumentů, které uživatelům umožňuje anotovat PDF, Microsoft Office a další oblíbené formáty dokumentů v reálném čase. Nabízí řadu nástrojů pro poznámky včetně zvýrazňování textu, komentování, kreslení tvarů a přidávání razítek.
+{{% /alert %}}
+
+### GroupDocs.Výukové programy pro anotace
+- [GroupDocs.Annotation pro výukové programy .NET](../annotation/net/)
