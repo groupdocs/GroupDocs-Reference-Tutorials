@@ -31,7 +31,7 @@ GroupDocs.Comparison 是一個強大的文件比較 API，允許開發人員以�
 {{% /alert %}}
 
 ### GroupDocs.比較教程
-- [.NET 教學的 GroupDocs.Comparison](../comparison/net/)
+- [.NET 教學的 GroupDocs.Comparison](../comparison/zh-hant/net/)
 
 
 ## GroupDocs.Annotation
@@ -40,4 +40,13 @@ GroupDocs.Annotation 是一個全面的文件註解解決方案，可讓使用�
 {{% /alert %}}
 
 ### GroupDocs.註解教程
-- [.NET 教學的 GroupDocs.Annotation](../annotation/net/)
+- [.NET 教學的 GroupDocs.Annotation](../annotation/zh-hant/net/)
+
+
+## 群組文件.簽名
+{{% alert color="primary" %}}
+GroupDocs.Signature 是一種多功能電子簽名解決方案，使用戶能夠在線上對文件進行數位簽署。 它提供了一種安全有效的方法來為各種文件格式添加簽名，確保文件的完整性和真實性。 GroupDocs.Signature 支援多種簽章類型，包括文字、圖像和數位簽章。
+{{% /alert %}}
+
+### GroupDocs.Signature 教程
+- [.NET 教學的 GroupDocs.Signature](../signature/zh-hant/net/)

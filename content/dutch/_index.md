@@ -31,7 +31,7 @@ GroupDocs.Comparison is een krachtige API voor documentvergelijking waarmee ontw
 {{% /alert %}}
 
 ### GroupDocs.Vergelijkingshandleidingen
-- [GroupDocs.Vergelijking voor .NET-zelfstudies](../comparison/net/)
+- [GroupDocs.Vergelijking voor .NET-zelfstudies](../comparison/nl/net/)
 
 
 ## GroupDocs.Annotatie
@@ -40,4 +40,13 @@ GroupDocs.Annotation is een uitgebreide oplossing voor documentannotatie waarmee
 {{% /alert %}}
 
 ### GroupDocs.Annotatie-tutorials
-- [GroupDocs.Annotation voor .NET-zelfstudies](../annotation/net/)
+- [GroupDocs.Annotation voor .NET-zelfstudies](../annotation/nl/net/)
+
+
+## Groepsdocumenten.Handtekening
+{{% alert color="primary" %}}
+GroupDocs.Signature is een veelzijdige oplossing voor elektronische handtekeningen waarmee gebruikers documenten online digitaal kunnen ondertekenen. Het biedt een veilige en efficiënte manier om handtekeningen toe te voegen aan verschillende bestandsformaten, waardoor de documentintegriteit en authenticiteit wordt gegarandeerd. GroupDocs.Signature ondersteunt een reeks handtekeningtypen, waaronder tekst-, afbeelding- en digitale handtekeningen.
+{{% /alert %}}
+
+### GroupDocs.Signature-tutorials
+- [GroupDocs.Signature voor .NET-zelfstudies](../signature/nl/net/)

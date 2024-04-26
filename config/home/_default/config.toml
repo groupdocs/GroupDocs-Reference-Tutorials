@@ -57,6 +57,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Annotation Tutorials"
 			url = "/annotation/"
 			weight = 40
+		[[languages.en.menu.main]]
+			name = "GroupDocs.Signature Tutorials"
+			url = "/signature/"
+			weight = 50
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -80,6 +84,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Аннотации Учебные пособия"
 			url = "/annotation/ru/"
 			weight = 40	
+		[[languages.ru.menu.main]]
+			name = "Учебные пособия по GroupDocs.Signature"
+			url = "/signature/ru/"
+			weight = 50	
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -103,6 +111,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.注释教程"
 			url = "/annotation/zh/"
 			weight = 40
+		[[languages.zh.menu.main]]
+			name = "GroupDocs.Signature 教程"
+			url = "/signature/zh/"
+			weight = 50
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -126,6 +138,10 @@ defaultContentLang = 'en'
 			name = "دروس GroupDocs.Annotation"
 			url = "/annotation/ar/"
 			weight = 40
+		[[languages.ar.menu.main]]
+			name = "دروس GroupDocs.Signature"
+			url = "/signature/ar/"
+			weight = 50
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -149,6 +165,10 @@ defaultContentLang = 'en'
 			name = "Tutoriels GroupDocs.Annotation"
 			url = "/annotation/fr/"
 			weight = 40
+		[[languages.fr.menu.main]]
+			name = "Tutoriels GroupDocs.Signature"
+			url = "/signature/fr/"
+			weight = 50
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -172,6 +192,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Annotation-Tutorials"
 			url = "/annotation/de/"
 			weight = 40
+		[[languages.de.menu.main]]
+			name = "GroupDocs.Signature-Tutorials"
+			url = "/signature/de/"
+			weight = 50
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -195,6 +219,10 @@ defaultContentLang = 'en'
 			name = "Esercitazioni su GroupDocs.Annotation"
 			url = "/annotation/it/"
 			weight = 40
+		[[languages.it.menu.main]]
+			name = "Esercitazioni su GroupDocs.Signature"
+			url = "/signature/it/"
+			weight = 50
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -218,6 +246,10 @@ defaultContentLang = 'en'
 			name = "Tutoriales de GroupDocs.Annotation"
 			url = "/annotation/es/"
 			weight = 40
+		[[languages.es.menu.main]]
+			name = "Tutoriales de GroupDocs.Signature"
+			url = "/signature/es/"
+			weight = 50
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -241,6 +273,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Annotation självstudier"
 			url = "/annotation/sv/"
 			weight = 40
+		[[languages.sv.menu.main]]
+			name = "GroupDocs.Signature självstudier"
+			url = "/signature/sv/"
+			weight = 50
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -264,6 +300,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Annotation Eğitimleri"
 			url = "/annotation/tr/"
 			weight = 40
+		[[languages.tr.menu.main]]
+			name = "GroupDocs.Signature Eğitimleri"
+			url = "/signature/tr/"
+			weight = 50
   [languages.pt]
     contentDir = 'content/portuguese'
     languageName = "Português"
@@ -287,6 +327,10 @@ defaultContentLang = 'en'
 			name = "Tutoriais de GroupDocs.Annotation"
 			url = "/annotation/pt/"
 			weight = 40
+		[[languages.pt.menu.main]]
+			name = "Tutoriais de GroupDocs.Signature"
+			url = "/signature/pt/"
+			weight = 50
   [languages.ko]
     contentDir = 'content/korean'
     languageName = "한국인"
@@ -310,6 +354,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Annotation 튜토리얼"
 			url = "/annotation/ko/"
 			weight = 40
+		[[languages.ko.menu.main]]
+			name = "GroupDocs.Signature 튜토리얼"
+			url = "/signature/ko/"
+			weight = 50
   [languages.vi]
     contentDir = 'content/vietnamese'
     languageName = "Tiếng Việt"
@@ -333,6 +381,10 @@ defaultContentLang = 'en'
 			name = "Hướng dẫn chuyển đổi GroupDocs.Annotation"
 			url = "/annotation/vi/"
 			weight = 40
+		[[languages.vi.menu.main]]
+			name = "Hướng dẫn chuyển đổi GroupDocs.Signature"
+			url = "/signature/vi/"
+			weight = 50
   [languages.id]
     contentDir = 'content/indonesian'
     languageName = "Indonesian"
@@ -356,6 +408,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Tutorial Anotasi"
 			url = "/annotation/id/"
 			weight = 40
+		[[languages.id.menu.main]]
+			name = "GroupDocs.Tutorial Tanda Tangan"
+			url = "/signature/id/"
+			weight = 50
   [languages.ja]
     contentDir = 'content/japanese'
     languageName = "日本語"
@@ -379,6 +435,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Annotation チュートリアル"
 			url = "/annotation/ja/"
 			weight = 40
+		[[languages.ja.menu.main]]
+			name = "GroupDocs.Signature チュートリアル"
+			url = "/signature/ja/"
+			weight = 50
   [languages.pl]
     contentDir = 'content/polish'
     languageName = "Polski"
@@ -402,6 +462,10 @@ defaultContentLang = 'en'
 			name = "Poradniki GroupDocs.Annotation"
 			url = "/annotation/pl/"
 			weight = 40
+		[[languages.pl.menu.main]]
+			name = "Poradniki GroupDocs.Signature"
+			url = "/signature/pl/"
+			weight = 50
   [languages.nl]
     contentDir = 'content/dutch'
     languageName = "Nederlands"
@@ -425,6 +489,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Annotation-zelfstudies"
 			url = "/annotation/nl/"
 			weight = 40
+		[[languages.nl.menu.main]]
+			name = "GroupDocs.Signature-zelfstudies"
+			url = "/signature/nl/"
+			weight = 50
   [languages.hu]
     contentDir = 'content/hungarian'
     languageName = "Magyar"
@@ -448,6 +516,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Annotation oktatóanyagok"
 			url = "/annotation/hu/"
 			weight = 40
+		[[languages.hu.menu.main]]
+			name = "GroupDocs.Signature oktatóanyagok"
+			url = "/signature/hu/"
+			weight = 50
   [languages.hi]
     contentDir = 'content/hindi'
     languageName = "हिन्दी"
@@ -471,6 +543,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.एनोटेशन ट्यूटोरियल"
 			url = "/annotation/hi/"
 			weight = 40
+		[[languages.hi.menu.main]]
+			name = "GroupDocs.हस्ताक्षर ट्यूटोरियल"
+			url = "/signature/hi/"
+			weight = 50
   [languages.th]
     contentDir = 'content/thai'
     languageName = "ไทย"
@@ -494,6 +570,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.บทช่วยสอนคำอธิบายประกอบ"
 			url = "/annotation/th/"
 			weight = 40
+		[[languages.th.menu.main]]
+			name = "GroupDocs.Signature บทช่วยสอน"
+			url = "/signature/th/"
+			weight = 50
   [languages.el]
     contentDir = 'content/greek'
     languageName = "Ελληνικά"
@@ -517,6 +597,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Annotation Οδηγοί"
 			url = "/annotation/el/"
 			weight = 40
+		[[languages.el.menu.main]]
+			name = "GroupDocs.Signature Οδηγοί"
+			url = "/signature/el/"
+			weight = 50
   [languages.cs]
     contentDir = 'content/czech'
     languageName = "čeština"
@@ -540,6 +624,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Výukové programy pro anotace"
 			url = "/annotation/cs/"
 			weight = 40
+		[[languages.cs.menu.main]]
+			name = "Výukové programy GroupDocs.Signature"
+			url = "/signature/cs/"
+			weight = 50
   [languages.zh-hant]
     contentDir = 'content/hongkong'
     languageName = "繁體中文"
@@ -563,6 +651,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.註解教程"
 			url = "/annotation/zh-hant/"
 			weight = 40
+		[[languags.zh-hant.menu.main]]
+			name = "GroupDocs.Signature 教程"
+			url = "/signature/zh-hant/"
+			weight = 50
 	
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 

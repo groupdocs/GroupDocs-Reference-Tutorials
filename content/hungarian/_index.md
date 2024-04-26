@@ -31,7 +31,7 @@ A GroupDocs.Comparison egy hatékony dokumentum-összehasonlító API, amely leh
 {{% /alert %}}
 
 ### GroupDocs.Comparison Tutorials
-- [GroupDocs.Comparison for .NET Tutorials](../comparison/net/)
+- [GroupDocs.Comparison for .NET Tutorials](../comparison/hu/net/)
 
 
 ## GroupDocs.Annotation
@@ -40,4 +40,13 @@ A GroupDocs.Annotation egy átfogó dokumentumjegyzet-megoldás, amely lehetőv�
 {{% /alert %}}
 
 ### GroupDocs.Annotation oktatóanyagok
-- [GroupDocs.Annotation for .NET Tutorials](../annotation/net/)
+- [GroupDocs.Annotation for .NET Tutorials](../annotation/hu/net/)
+
+
+## GroupDocs.Aláírás
+{{% alert color="primary" %}}
+A GroupDocs.Signature egy sokoldalú elektronikus aláírási megoldás, amely lehetővé teszi a felhasználók számára a dokumentumok online digitális aláírását. Biztonságos és hatékony módja annak, hogy aláírásokat adjon a különböző fájlformátumokhoz, biztosítva a dokumentumok integritását és hitelességét. A GroupDocs.Signature számos aláírástípust támogat, beleértve a szöveges, képi és digitális aláírásokat.
+{{% /alert %}}
+
+### GroupDocs.Signature oktatóanyagok
+- [GroupDocs.Signature for .NET Tutorials](../signature/hu/net/)

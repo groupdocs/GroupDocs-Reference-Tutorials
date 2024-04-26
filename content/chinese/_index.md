@@ -31,7 +31,7 @@ GroupDocs.Comparison 是一个功能强大的文档比较 API，允许开发人�
 {{% /alert %}}
 
 ### GroupDocs.比较教程
-- [.NET 教程的 GroupDocs.Comparison](../comparison/net/)
+- [.NET 教程的 GroupDocs.Comparison](../comparison/zh/net/)
 
 
 ## GroupDocs.Annotation
@@ -40,4 +40,13 @@ GroupDocs.Annotation 是一个全面的文档注释解决方案，允许用户�
 {{% /alert %}}
 
 ### GroupDocs.注释教程
-- [.NET 教程的 GroupDocs.Annotation](../annotation/net/)
+- [.NET 教程的 GroupDocs.Annotation](../annotation/zh/net/)
+
+
+## 组文档.签名
+{{% alert color="primary" %}}
+GroupDocs.Signature 是一种多功能电子签名解决方案，使用户能够在线对文档进行数字签名。 它提供了一种安全有效的方法来向各种文件格式添加签名，确保文档的完整性和真实性。 GroupDocs.Signature 支持多种签名类型，包括文本、图像和数字签名。
+{{% /alert %}}
+
+### GroupDocs.Signature 教程
+- [.NET 教程的 GroupDocs.Signature](../signature/zh/net/)

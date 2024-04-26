@@ -31,7 +31,7 @@ url: /el/
 {{% /alert %}}
 
 ### GroupDocs.Comparison Tutorials
-- [GroupDocs.Comparison για .NET Tutorials](../comparison/net/)
+- [GroupDocs.Comparison για .NET Tutorials](../comparison/el/net/)
 
 
 ## GroupDocs.Annotation
@@ -40,4 +40,13 @@ url: /el/
 {{% /alert %}}
 
 ### GroupDocs.Annotation Tutorials
-- [GroupDocs.Annotation για .NET Tutorials](../annotation/net/)
+- [GroupDocs.Annotation για .NET Tutorials](../annotation/el/net/)
+
+
+## GroupDocs.Υπογραφή
+{{% alert color="primary" %}}
+Το GroupDocs.Signature είναι μια ευέλικτη λύση ηλεκτρονικής υπογραφής που επιτρέπει στους χρήστες να υπογράφουν ψηφιακά έγγραφα στο διαδίκτυο. Παρέχει έναν ασφαλή και αποτελεσματικό τρόπο προσθήκης υπογραφών σε διάφορες μορφές αρχείων, διασφαλίζοντας την ακεραιότητα και την αυθεντικότητα των εγγράφων. Το GroupDocs.Signature υποστηρίζει μια σειρά τύπων υπογραφών, όπως κείμενο, εικόνα και ψηφιακές υπογραφές.
+{{% /alert %}}
+
+### GroupDocs.Signature Tutorials
+- [GroupDocs.Signature για .NET Tutorials](../signature/el/net/)
