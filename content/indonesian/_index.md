@@ -31,7 +31,7 @@ GroupDocs.Comparison adalah API perbandingan dokumen canggih yang memungkinkan p
 {{% /alert %}}
 
 ### GroupDocs.Tutorial Perbandingan
-- [GroupDocs.Perbandingan untuk Tutorial .NET](../comparison/net/)
+- [GroupDocs.Perbandingan untuk Tutorial .NET](../comparison/id/net/)
 
 
 ## GroupDocs.Anotasi
@@ -40,4 +40,14 @@ GroupDocs.Annotation adalah solusi anotasi dokumen komprehensif yang memungkinka
 {{% /alert %}}
 
 ### GroupDocs.Tutorial Anotasi
-- [GroupDocs.Annotation untuk Tutorial .NET](../annotation/net/)
+- [GroupDocs.Annotation untuk Tutorial .NET](../annotation/id/id/net/)
+
+
+## GroupDocs.Tanda Tangan
+{{% alert color="primary" %}}
+GroupDocs.Signature adalah solusi tanda tangan elektronik serbaguna yang memungkinkan pengguna menandatangani dokumen secara digital secara online. Ini memberikan cara yang aman dan efisien untuk menambahkan tanda tangan ke berbagai format file, memastikan integritas dan keaslian dokumen. GroupDocs.Signature mendukung berbagai jenis tanda tangan, termasuk teks, gambar, dan tanda tangan digital.
+
+{{% /alert %}}
+
+### GroupDocs.Tutorial Tanda Tangan
+- [GroupDocs.Signature untuk Tutorial .NET](../signature/id/net/)

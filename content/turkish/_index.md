@@ -31,7 +31,7 @@ GroupDocs.Comparison, geliştiricilerin Word belgeleri, PDF'ler, Excel elektroni
 {{% /alert %}}
 
 ### GroupDocs.Karşılaştırma Eğitimleri
-- [.NET Dersleri için GroupDocs.Comparison](../comparison/net/)
+- [.NET Dersleri için GroupDocs.Comparison](../comparison/tr/net/)
 
 
 ## GroupDocs.Annotation
@@ -40,4 +40,13 @@ GroupDocs.Annotation, kullanıcıların PDF, Microsoft Office ve diğer popüler
 {{% /alert %}}
 
 ### GroupDocs.Ek Açıklama Eğitimleri
-- [.NET Eğitimleri için GroupDocs.Annotation](../annotation/net/)
+- [.NET Eğitimleri için GroupDocs.Annotation](../annotation/tr/net/)
+
+
+## GroupDocs.Signature
+{{% alert color="primary" %}}
+GroupDocs.Signature, kullanıcıların belgeleri çevrimiçi olarak dijital olarak imzalamasına olanak tanıyan çok yönlü bir elektronik imza çözümüdür. Çeşitli dosya formatlarına imza eklemenin güvenli ve etkili bir yolunu sağlayarak belgenin bütünlüğünü ve orijinalliğini sağlar. GroupDocs.Signature, metin, resim ve dijital imzalar dahil olmak üzere çeşitli imza türlerini destekler.
+{{% /alert %}}
+
+### GroupDocs.İmza Eğitimleri
+- [.NET Eğitimleri için GroupDocs.Signature](../signature/tr/net/)

@@ -31,7 +31,7 @@ GroupDocs.Comparison は、開発者が Word ドキュメント、PDF、Excel �
 {{% /alert %}}
 
 ### GroupDocs.Comparison チュートリアル
-- [.NET チュートリアルの GroupDocs.Comparison](../comparison/net/)
+- [.NET チュートリアルの GroupDocs.Comparison](../comparison/ja/net/)
 
 
 ## GroupDocs.Annotation
@@ -40,4 +40,13 @@ GroupDocs.Annotation は、ユーザーが PDF、Microsoft Office、およびそ
 {{% /alert %}}
 
 ### GroupDocs.Annotation のチュートリアル
-- [.NET チュートリアル用の GroupDocs.Annotation](../annotation/net/)
+- [.NET チュートリアル用の GroupDocs.Annotation](../annotation/ja/net/)
+
+
+## GroupDocs.Signature
+{{% alert color="primary" %}}
+GroupDocs.Signature は、ユーザーがオンラインでドキュメントにデジタル署名できるようにする多用途の電子署名ソリューションです。 これは、さまざまなファイル形式に署名を追加するための安全かつ効率的な方法を提供し、ドキュメントの整合性と信頼性を保証します。 GroupDocs.Signature は、テキスト、画像、デジタル署名など、さまざまな署名タイプをサポートしています。
+{{% /alert %}}
+
+### GroupDocs.Signature のチュートリアル
+- [GroupDocs.Signature for .NET チュートリアル](../signature/ja/net/)

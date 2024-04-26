@@ -31,7 +31,7 @@ GroupDocs.Comparison عبارة عن واجهة برمجة تطبيقات قوي
 {{% /alert %}}
 
 ### دروس GroupDocs.Comparison
-- [GroupDocs.Comparison لبرامج .NET التعليمية](../comparison/net/)
+- [GroupDocs.Comparison لبرامج .NET التعليمية](../comparison/ar/net/)
 
 
 ## GroupDocs.Annotation
@@ -40,4 +40,13 @@ GroupDocs.Annotation هو حل شامل للتعليقات التوضيحية ل
 {{% /alert %}}
 
 ### دروس GroupDocs.Annotation
-- [GroupDocs.Annotation  لبرامج .NET التعليمية](../annotation/net/)
+- [GroupDocs.Annotation  لبرامج .NET التعليمية](../annotation/ar/net/)
+
+
+## GroupDocs.Signature
+{{% alert color="primary" %}}
+يعد GroupDocs.Signature حلاً متعدد الاستخدامات للتوقيع الإلكتروني يمكّن المستخدمين من توقيع المستندات رقميًا عبر الإنترنت. فهو يوفر طريقة آمنة وفعالة لإضافة التوقيعات إلى تنسيقات الملفات المختلفة، مما يضمن سلامة المستندات وأصالتها. يدعم GroupDocs.Signature مجموعة من أنواع التوقيع، بما في ذلك التوقيعات النصية والصورة والتوقيعات الرقمية.
+{{% /alert %}}
+
+### دروس GroupDocs.Signature
+- [GroupDocs.Signature  لبرامج .NET التعليمية](../signature/ar/net/)

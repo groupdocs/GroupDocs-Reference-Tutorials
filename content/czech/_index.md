@@ -31,7 +31,7 @@ GroupDocs.Comparison je výkonné rozhraní API pro porovnávání dokumentů, k
 {{% /alert %}}
 
 ### GroupDocs.Comparison výukové programy
-- [GroupDocs.Comparison pro .NET výukové programy](../comparison/net/)
+- [GroupDocs.Comparison pro .NET výukové programy](../comparison/cs/net/)
 
 
 ## GroupDocs.Anotace
@@ -40,4 +40,14 @@ GroupDocs.Annotation je komplexní řešení anotací dokumentů, které uživat
 {{% /alert %}}
 
 ### GroupDocs.Výukové programy pro anotace
-- [GroupDocs.Annotation pro výukové programy .NET](../annotation/net/)
+- [GroupDocs.Annotation pro výukové programy .NET](../annotation/cs/net/)
+
+
+## GroupDocs.Signature
+{{% alert color="primary" %}}
+GroupDocs.Signature je všestranné řešení elektronického podpisu, které uživatelům umožňuje digitálně podepisovat dokumenty online. Poskytuje bezpečný a efektivní způsob přidávání podpisů do různých formátů souborů a zajišťuje integritu a autenticitu dokumentu. GroupDocs.Signature podporuje řadu typů podpisů, včetně textových, obrazových a digitálních podpisů.
+{{% /alert %}}
+
+### Výukové programy GroupDocs.Signature
+
+- [GroupDocs.Signature pro .NET výukové programy](../signature/cs/net/)

@@ -31,7 +31,7 @@ GroupDocs.Comparison là API so sánh tài liệu mạnh mẽ cho phép các nh�
 {{% /alert %}}
 
 ### Hướng dẫn GroupDocs.Comparison
-- [GroupDocs.Comparison cho các hướng dẫn .NET](../comparison/net/)
+- [GroupDocs.Comparison cho các hướng dẫn .NET](../comparison/vi/net/)
 
 
 ## GroupDocs.Annotation
@@ -40,4 +40,13 @@ GroupDocs.Annotation là giải pháp chú thích tài liệu toàn diện cho p
 {{% /alert %}}
 
 ### Hướng dẫn GroupDocs.Annotation
-- [GroupDocs.Annotation cho hướng dẫn .NET](../annotation/net/)
+- [GroupDocs.Annotation cho hướng dẫn .NET](../annotation/vi/net/)
+
+
+## GroupDocs.Signature
+{{% alert color="primary" %}}
+GroupDocs.Signature là một giải pháp chữ ký điện tử linh hoạt cho phép người dùng ký điện tử các tài liệu trực tuyến. Nó cung cấp một cách an toàn và hiệu quả để thêm chữ ký vào các định dạng tệp khác nhau, đảm bảo tính toàn vẹn và xác thực của tài liệu. GroupDocs.Signature hỗ trợ nhiều loại chữ ký, bao gồm chữ ký văn bản, hình ảnh và chữ ký số.
+{{% /alert %}}
+
+### Hướng dẫn về GroupDocs.Signature
+- [Hướng dẫn GroupDocs.Signature cho .NET](../signature/vi/net/)

@@ -31,7 +31,7 @@ GroupDocs.Comparison ist eine leistungsstarke Dokumentenvergleichs-API, die es E
 {{% /alert %}}
 
 ### GroupDocs.Comparison-Tutorials
-- [GroupDocs.Comparison für .NET-Tutorials](../comparison/net/)
+- [GroupDocs.Comparison für .NET-Tutorials](../comparison/de/net/)
 
 
 ## GroupDocs.Annotation
@@ -40,4 +40,13 @@ GroupDocs.Annotation ist eine umfassende Dokumentanmerkungslösung, mit der Benu
 {{% /alert %}}
 
 ### GroupDocs.Annotation-Tutorials
-- [GroupDocs.Annotation für .NET-Tutorials](../annotation/net/)
+- [GroupDocs.Annotation für .NET-Tutorials](../annotation/de/net/)
+
+
+## GroupDocs.Signature
+{{% alert color="primary" %}}
+GroupDocs.Signature ist eine vielseitige elektronische Signaturlösung, die es Benutzern ermöglicht, Dokumente online digital zu signieren. Es bietet eine sichere und effiziente Möglichkeit, Signaturen zu verschiedenen Dateiformaten hinzuzufügen und so die Integrität und Authentizität von Dokumenten sicherzustellen. GroupDocs.Signature unterstützt eine Reihe von Signaturtypen, darunter Text-, Bild- und digitale Signaturen.
+{{% /alert %}}
+
+### GroupDocs.Signature-Tutorials
+- [GroupDocs.Signature für .NET-Tutorials](../signature/de/net/)
