@@ -51,3 +51,12 @@ GroupDocs.Signature adalah solusi tanda tangan elektronik serbaguna yang memungk
 
 ### GroupDocs.Tutorial Tanda Tangan
 - [GroupDocs.Signature untuk Tutorial .NET](../signature/id/net/)
+
+
+## GroupDocs.Metadata
+{{% alert color="primary" %}}
+GroupDocs.Metadata adalah pustaka .NET dan Java untuk bekerja dengan metadata yang terkait dengan berbagai format file, termasuk dokumen, gambar, audio, dan video. Ini memungkinkan pengguna untuk membaca, mengedit, menghapus, dan membandingkan properti metadata seperti penulis, tanggal pembuatan, tag, dan banyak lagi. Pustaka ini mendukung berbagai format file, menjadikannya alat serbaguna untuk mengelola metadata dalam berbagai jenis file.
+{{% /alert %}}
+
+### GroupDocs.Tutorial Metadata
+- [GroupDocs.Metadata untuk Tutorial .NET](../metadata/id/net/)

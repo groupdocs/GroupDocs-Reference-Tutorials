@@ -50,3 +50,12 @@ GroupDocs.Signature là một giải pháp chữ ký điện tử linh hoạt ch
 
 ### Hướng dẫn về GroupDocs.Signature
 - [Hướng dẫn GroupDocs.Signature cho .NET](../signature/vi/net/)
+
+
+## GroupDocs.Metadata
+{{% alert color="primary" %}}
+GroupDocs.Metadata là thư viện .NET và Java để làm việc với siêu dữ liệu được liên kết với các định dạng tệp khác nhau, bao gồm tài liệu, hình ảnh, âm thanh và video. Nó cho phép người dùng đọc, chỉnh sửa, xóa và so sánh các thuộc tính siêu dữ liệu như tác giả, ngày tạo, thẻ, v.v. Thư viện hỗ trợ nhiều định dạng tệp, khiến nó trở thành một công cụ linh hoạt để quản lý siêu dữ liệu trong các loại tệp khác nhau.
+{{% /alert %}}
+
+### Hướng dẫn về GroupDocs.Metadata
+- [Hướng dẫn GroupDocs.Metadata cho .NET](../metadata/vi/net/)

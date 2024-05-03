@@ -50,3 +50,12 @@ A GroupDocs.Signature egy sokoldalú elektronikus aláírási megoldás, amely l
 
 ### GroupDocs.Signature oktatóanyagok
 - [GroupDocs.Signature for .NET Tutorials](../signature/hu/net/)
+
+
+## GroupDocs.Metadata
+{{% alert color="primary" %}}
+A GroupDocs.Metadata egy .NET- és Java-könyvtár, amely különféle fájlformátumokhoz, köztük dokumentumokhoz, képekhez, hangokhoz és videókhoz kapcsolódó metaadatok kezeléséhez használható. Lehetővé teszi a felhasználók számára a metaadat-tulajdonságok, például a szerző, a létrehozás dátuma, a címkék és egyebek olvasását, szerkesztését, eltávolítását és összehasonlítását. A könyvtár a fájlformátumok széles skáláját támogatja, így sokoldalú eszköz a különböző típusú fájlok metaadatainak kezelésére.
+{{% /alert %}}
+
+### GroupDocs.Metadata oktatóanyagok
+- [GroupDocs.Metadata .NET oktatóanyagokhoz](../metadata/hu/net/)

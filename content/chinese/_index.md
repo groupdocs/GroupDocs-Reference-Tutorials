@@ -50,3 +50,12 @@ GroupDocs.Signature 是一种多功能电子签名解决方案，使用户能够
 
 ### GroupDocs.Signature 教程
 - [.NET 教程的 GroupDocs.Signature](../signature/zh/net/)
+
+
+## 组文档元数据
+{{% alert color="primary" %}}
+GroupDocs.Metadata 是一个 .NET 和 Java 库，用于处理与各种文件格式（包括文档、图像、音频和视频）相关的元数据。 它使用户能够读取、编辑、删除和比较元数据属性，例如作者、创建日期、标签等。 该库支持多种文件格式，使其成为管理不同类型文件中的元数据的多功能工具。
+{{% /alert %}}
+
+### GroupDocs.元数据教程
+- [.NET 教程的 GroupDocs.Metadata](../metadata/zh/net/)

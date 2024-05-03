@@ -50,3 +50,12 @@ GroupDocs.Signature는 사용자가 온라인으로 문서에 디지털 서명�
 
 ### GroupDocs.Signature 튜토리얼
 - [.NET 튜토리얼용 GroupDocs.Signature](../signature/ko/net/)
+
+
+## GroupDocs.메타데이터
+{{% alert color="primary" %}}
+GroupDocs.Metadata는 문서, 이미지, 오디오, 비디오를 비롯한 다양한 파일 형식과 관련된 메타데이터 작업을 위한 .NET 및 Java 라이브러리입니다. 이를 통해 사용자는 작성자, 생성 날짜, 태그 등과 같은 메타데이터 속성을 읽고, 편집하고, 제거하고, 비교할 수 있습니다. 라이브러리는 다양한 파일 형식을 지원하므로 다양한 유형의 파일 내에서 메타데이터를 관리하기 위한 다목적 도구입니다.
+{{% /alert %}}
+
+### GroupDocs.메타데이터 자습서
+- [.NET 튜토리얼용 GroupDocs.Metadata](../metadata/ko/net/)
