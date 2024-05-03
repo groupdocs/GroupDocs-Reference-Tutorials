@@ -51,3 +51,12 @@ GroupDocs.Signature je všestranné řešení elektronického podpisu, které u�
 ### Výukové programy GroupDocs.Signature
 
 - [GroupDocs.Signature pro .NET výukové programy](../signature/cs/net/)
+
+
+## GroupDocs.Metadata
+{{% alert color="primary" %}}
+GroupDocs.Metadata je knihovna .NET a Java pro práci s metadaty spojenými s různými formáty souborů, včetně dokumentů, obrázků, zvuku a videa. Umožňuje uživatelům číst, upravovat, odstraňovat a porovnávat vlastnosti metadat, jako je autor, datum vytvoření, značky a další. Knihovna podporuje širokou škálu formátů souborů, což z ní činí všestranný nástroj pro správu metadat v rámci různých typů souborů.
+{{% /alert %}}
+
+### Výukové programy GroupDocs.Metadata
+- [GroupDocs.Metadata pro .NET výukové programy](../metadata/cs/net/)

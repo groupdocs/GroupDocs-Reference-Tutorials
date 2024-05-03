@@ -50,3 +50,12 @@ GroupDocs.Signature, kullanıcıların belgeleri çevrimiçi olarak dijital olar
 
 ### GroupDocs.İmza Eğitimleri
 - [.NET Eğitimleri için GroupDocs.Signature](../signature/tr/net/)
+
+
+## GroupDocs.Metadata
+{{% alert color="primary" %}}
+GroupDocs.Metadata; belgeler, resimler, ses ve video dahil olmak üzere çeşitli dosya formatlarıyla ilişkili meta verilerle çalışmaya yönelik bir .NET ve Java kitaplığıdır. Kullanıcıların yazar, oluşturulma tarihi, etiketler ve daha fazlası gibi meta veri özelliklerini okumasına, düzenlemesine, kaldırmasına ve karşılaştırmasına olanak tanır. Kitaplık çok çeşitli dosya formatlarını destekler ve bu da onu farklı dosya türlerindeki meta verileri yönetmek için çok yönlü bir araç haline getirir.
+{{% /alert %}}
+
+### GroupDocs.Meta Veri Eğitimleri
+- [.NET Eğitimleri için GroupDocs.Metadata](../metadata/tr/net/)

@@ -50,3 +50,12 @@ GroupDocs.Signature 是一種多功能電子簽名解決方案，使用戶能夠
 
 ### GroupDocs.Signature 教程
 - [.NET 教學的 GroupDocs.Signature](../signature/zh-hant/net/)
+
+
+## 群組文件元數據
+{{% alert color="primary" %}}
+GroupDocs.Metadata 是一個 .NET 和 Java 程式庫，用於處理與各種文件格式（包括文件、圖像、音訊和視訊）相關的元資料。 它使用戶能夠讀取、編輯、刪除和比較元資料屬性，例如作者、建立日期、標籤等。 該程式庫支援多種文件格式，使其成為管理不同類型文件中的元資料的多功能工具。
+{{% /alert %}}
+
+### GroupDocs.元資料教程
+- [.NET 教學的 GroupDocs.Metadata](../metadata/zh-hant/net/)

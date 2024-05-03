@@ -61,6 +61,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature Tutorials"
 			url = "/signature/"
 			weight = 50
+		[[languages.en.menu.main]]
+			name = "GroupDocs.Metadata Tutorials"
+			url = "/metadata/"
+			weight = 60
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -88,6 +92,10 @@ defaultContentLang = 'en'
 			name = "Учебные пособия по GroupDocs.Signature"
 			url = "/signature/ru/"
 			weight = 50	
+		[[languages.ru.menu.main]]
+			name = "Учебные пособия по GroupDocs.Metadata"
+			url = "/metadata/ru/"
+			weight = 60	
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -115,6 +123,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature 教程"
 			url = "/signature/zh/"
 			weight = 50
+		[[languages.zh.menu.main]]
+			name = "GroupDocs.Metadata 教程"
+			url = "/metadata/zh/"
+			weight = 60
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -142,6 +154,10 @@ defaultContentLang = 'en'
 			name = "دروس GroupDocs.Signature"
 			url = "/signature/ar/"
 			weight = 50
+		[[languages.ar.menu.main]]
+			name = "دروس GroupDocs.Metadata"
+			url = "/metadata/ar/"
+			weight = 60
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -169,6 +185,10 @@ defaultContentLang = 'en'
 			name = "Tutoriels GroupDocs.Signature"
 			url = "/signature/fr/"
 			weight = 50
+		[[languages.fr.menu.main]]
+			name = "Tutoriels GroupDocs.Metadata"
+			url = "/metadata/fr/"
+			weight = 60
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -196,6 +216,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature-Tutorials"
 			url = "/signature/de/"
 			weight = 50
+		[[languages.de.menu.main]]
+			name = "GroupDocs.Metadata-Tutorials"
+			url = "/metadata/de/"
+			weight = 60
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -223,6 +247,10 @@ defaultContentLang = 'en'
 			name = "Esercitazioni su GroupDocs.Signature"
 			url = "/signature/it/"
 			weight = 50
+		[[languages.it.menu.main]]
+			name = "Esercitazioni su GroupDocs.Metadata"
+			url = "/metadata/it/"
+			weight = 60
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -250,6 +278,10 @@ defaultContentLang = 'en'
 			name = "Tutoriales de GroupDocs.Signature"
 			url = "/signature/es/"
 			weight = 50
+		[[languages.es.menu.main]]
+			name = "Tutoriales de GroupDocs.Metadata"
+			url = "/metadata/es/"
+			weight = 60
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -277,6 +309,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature självstudier"
 			url = "/signature/sv/"
 			weight = 50
+		[[languages.sv.menu.main]]
+			name = "GroupDocs.Metadata självstudier"
+			url = "/metadata/sv/"
+			weight = 60
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -304,6 +340,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature Eğitimleri"
 			url = "/signature/tr/"
 			weight = 50
+		[[languages.tr.menu.main]]
+			name = "GroupDocs.Metadata Eğitimleri"
+			url = "/metadata/tr/"
+			weight = 60
   [languages.pt]
     contentDir = 'content/portuguese'
     languageName = "Português"
@@ -331,6 +371,10 @@ defaultContentLang = 'en'
 			name = "Tutoriais de GroupDocs.Signature"
 			url = "/signature/pt/"
 			weight = 50
+		[[languages.pt.menu.main]]
+			name = "Tutoriais de GroupDocs.Metadata"
+			url = "/metadata/pt/"
+			weight = 60
   [languages.ko]
     contentDir = 'content/korean'
     languageName = "한국인"
@@ -358,6 +402,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature 튜토리얼"
 			url = "/signature/ko/"
 			weight = 50
+		[[languages.ko.menu.main]]
+			name = "GroupDocs.Metadata 튜토리얼"
+			url = "/metadata/ko/"
+			weight = 60
   [languages.vi]
     contentDir = 'content/vietnamese'
     languageName = "Tiếng Việt"
@@ -385,6 +433,10 @@ defaultContentLang = 'en'
 			name = "Hướng dẫn chuyển đổi GroupDocs.Signature"
 			url = "/signature/vi/"
 			weight = 50
+		[[languages.vi.menu.main]]
+			name = "Hướng dẫn chuyển đổi GroupDocs.Metadata"
+			url = "/metadata/vi/"
+			weight = 60
   [languages.id]
     contentDir = 'content/indonesian'
     languageName = "Indonesian"
@@ -412,6 +464,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Tutorial Tanda Tangan"
 			url = "/signature/id/"
 			weight = 50
+		[[languages.id.menu.main]]
+			name = "GroupDocs.Tutorial Metadata"
+			url = "/metadata/id/"
+			weight = 60
   [languages.ja]
     contentDir = 'content/japanese'
     languageName = "日本語"
@@ -439,6 +495,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature チュートリアル"
 			url = "/signature/ja/"
 			weight = 50
+		[[languages.ja.menu.main]]
+			name = "GroupDocs.Metadata チュートリアル"
+			url = "/metadata/ja/"
+			weight = 60
   [languages.pl]
     contentDir = 'content/polish'
     languageName = "Polski"
@@ -466,6 +526,10 @@ defaultContentLang = 'en'
 			name = "Poradniki GroupDocs.Signature"
 			url = "/signature/pl/"
 			weight = 50
+		[[languages.pl.menu.main]]
+			name = "Poradniki GroupDocs.Metadata"
+			url = "/metadata/pl/"
+			weight = 60
   [languages.nl]
     contentDir = 'content/dutch'
     languageName = "Nederlands"
@@ -493,6 +557,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature-zelfstudies"
 			url = "/signature/nl/"
 			weight = 50
+		[[languages.nl.menu.main]]
+			name = "GroupDocs.Metadata-zelfstudies"
+			url = "/metadata/nl/"
+			weight = 60
   [languages.hu]
     contentDir = 'content/hungarian'
     languageName = "Magyar"
@@ -520,6 +588,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature oktatóanyagok"
 			url = "/signature/hu/"
 			weight = 50
+		[[languages.hu.menu.main]]
+			name = "GroupDocs.Metadata oktatóanyagok"
+			url = "/metadata/hu/"
+			weight = 60
   [languages.hi]
     contentDir = 'content/hindi'
     languageName = "हिन्दी"
@@ -547,6 +619,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.हस्ताक्षर ट्यूटोरियल"
 			url = "/signature/hi/"
 			weight = 50
+		[[languages.hi.menu.main]]
+			name = "GroupDocs.मेटाडेटा ट्यूटोरियल"
+			url = "/metadata/hi/"
+			weight = 60
   [languages.th]
     contentDir = 'content/thai'
     languageName = "ไทย"
@@ -574,6 +650,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature บทช่วยสอน"
 			url = "/signature/th/"
 			weight = 50
+		[[languages.th.menu.main]]
+			name = "GroupDocs.Metadata บทช่วยสอน"
+			url = "/metadata/th/"
+			weight = 60
   [languages.el]
     contentDir = 'content/greek'
     languageName = "Ελληνικά"
@@ -601,6 +681,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature Οδηγοί"
 			url = "/signature/el/"
 			weight = 50
+		[[languages.el.menu.main]]
+			name = "GroupDocs.Metadata Οδηγοί"
+			url = "/metadata/el/"
+			weight = 60
   [languages.cs]
     contentDir = 'content/czech'
     languageName = "čeština"
@@ -628,6 +712,10 @@ defaultContentLang = 'en'
 			name = "Výukové programy GroupDocs.Signature"
 			url = "/signature/cs/"
 			weight = 50
+		[[languages.cs.menu.main]]
+			name = "Výukové programy GroupDocs.Metadata"
+			url = "/metadata/cs/"
+			weight = 60
   [languages.zh-hant]
     contentDir = 'content/hongkong'
     languageName = "繁體中文"
@@ -655,6 +743,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Signature 教程"
 			url = "/signature/zh-hant/"
 			weight = 50
+		[[languags.zh-hant.menu.main]]
+			name = "GroupDocs.Metadata 教程"
+			url = "/metadata/zh-hant/"
+			weight = 60
 	
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 

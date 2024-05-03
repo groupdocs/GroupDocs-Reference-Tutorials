@@ -50,3 +50,12 @@ GroupDocs.Signature es una solución de firma electrónica versátil que permite
 
 ### Tutoriales de GroupDocs.Signature
 - [Tutoriales de GroupDocs.Signature para .NET](../signature/es/net/)
+
+
+## GroupDocs.Metadatos
+{{% alert color="primary" %}}
+GroupDocs.Metadata es una biblioteca .NET y Java para trabajar con metadatos asociados con varios formatos de archivos, incluidos documentos, imágenes, audio y video. Permite a los usuarios leer, editar, eliminar y comparar propiedades de metadatos como autor, fecha de creación, etiquetas y más. La biblioteca admite una amplia gama de formatos de archivo, lo que la convierte en una herramienta versátil para administrar metadatos dentro de diferentes tipos de archivos.
+{{% /alert %}}
+
+### Tutoriales de GroupDocs.Metadata
+- [Tutoriales de GroupDocs.Metadata para .NET](../metadata/es/net/)
