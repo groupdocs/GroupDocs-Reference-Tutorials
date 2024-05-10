@@ -60,3 +60,12 @@ GroupDocs.Metadata je knihovna .NET a Java pro práci s metadaty spojenými s r�
 
 ### Výukové programy GroupDocs.Metadata
 - [GroupDocs.Metadata pro .NET výukové programy](../metadata/cs/net/)
+
+
+## GroupDocs.Merger
+{{% alert color="primary" %}}
+GroupDocs.Merger je všestranné rozhraní API pro manipulaci s dokumenty, které umožňuje vývojářům programově slučovat, rozdělovat, extrahovat a manipulovat se stránkami v různých formátech dokumentů. Podporuje oblíbené formáty jako PDF, Microsoft Word, Excel, PowerPoint a další.
+{{% /alert %}}
+
+### Výukové programy GroupDocs.Merger
+- [GroupDocs.Merger pro .NET výukové programy](../merger/cs/net/)

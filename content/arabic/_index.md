@@ -59,3 +59,12 @@ GroupDocs.Metadata عبارة عن مكتبة .NET وJava للعمل مع بيا
 
 ### دروس GroupDocs.Metadata
 - [GroupDocs.Metadata  لبرامج .NET التعليمية](../metadata/ar/net/)
+
+
+## GroupDocs.Merger
+{{% alert color="primary" %}}
+GroupDocs.Merger عبارة عن واجهة برمجة تطبيقات متعددة الاستخدامات لمعالجة المستندات تسمح للمطورين بدمج الصفحات وتقسيمها واستخراجها ومعالجتها ضمن تنسيقات المستندات المختلفة برمجيًا. وهو يدعم التنسيقات الشائعة مثل PDF وMicrosoft Word وExcel وPowerPoint والمزيد.
+{{% /alert %}}
+
+### دروس GroupDocs.Merger
+- [GroupDocs.Merger  لبرامج .NET التعليمية](../merger/ar/net/)

@@ -59,3 +59,12 @@ GroupDocs.Metadata は、ドキュメント、画像、オーディオ、ビデ�
 
 ### GroupDocs.Metadata のチュートリアル
 - [GroupDocs.Metadata for .NET チュートリアル](../metadata/ja/net/)
+
+
+## GroupDocs.Merger
+{{% alert color="primary" %}}
+GroupDocs.Merger は、開発者がさまざまなドキュメント形式内のページをプログラムでマージ、分割、抽出、操作できるようにする多用途のドキュメント操作 API です。 PDF、Microsoft Word、Excel、PowerPoint などの一般的な形式をサポートしています。
+{{% /alert %}}
+
+### GroupDocs.Merger チュートリアル
+- [GroupDocs.Merger for .NET チュートリアル](../merger/ja/net/)

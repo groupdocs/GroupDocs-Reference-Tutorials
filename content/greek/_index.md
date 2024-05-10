@@ -59,3 +59,12 @@ url: /el/
 
 ### GroupDocs.Metadata Tutorials
 - [GroupDocs.Metadata για .NET Tutorials](../metadata/el/net/)
+
+
+## GroupDocs.Merger
+{{% alert color="primary" %}}
+Το GroupDocs.Merger είναι ένα ευέλικτο API χειρισμού εγγράφων που επιτρέπει στους προγραμματιστές να συγχωνεύουν, να διαχωρίζουν, να εξάγουν και να χειρίζονται σελίδες σε διάφορες μορφές εγγράφων μέσω προγραμματισμού. Υποστηρίζει δημοφιλείς μορφές όπως PDF, Microsoft Word, Excel, PowerPoint και άλλα.
+{{% /alert %}}
+
+### GroupDocs.Merger Tutorials
+- [GroupDocs.Merger για .NET Tutorials](../merger/el/net/)
