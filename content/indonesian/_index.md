@@ -60,3 +60,12 @@ GroupDocs.Metadata adalah pustaka .NET dan Java untuk bekerja dengan metadata ya
 
 ### GroupDocs.Tutorial Metadata
 - [GroupDocs.Metadata untuk Tutorial .NET](../metadata/id/net/)
+
+
+## GroupDocs.Penggabungan
+{{% alert color="primary" %}}
+GroupDocs.Merger adalah API manipulasi dokumen serbaguna yang memungkinkan pengembang menggabungkan, membagi, mengekstrak, dan memanipulasi halaman dalam berbagai format dokumen secara terprogram. Ini mendukung format populer seperti PDF, Microsoft Word, Excel, PowerPoint, dan banyak lagi.
+{{% /alert %}}
+
+### GroupDocs.Tutorial Penggabungan
+- [GroupDocs.Merger untuk Tutorial .NET](../merger/id/net/)

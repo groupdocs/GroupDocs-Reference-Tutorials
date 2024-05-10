@@ -59,3 +59,12 @@ GroupDocs.Metadata ist eine .NET- und Java-Bibliothek für die Arbeit mit Metada
 
 ### GroupDocs.Metadata-Tutorials
 - [GroupDocs.Metadata für .NET-Tutorials](../metadata/de/net/)
+
+
+## GroupDocs.Merger
+{{% alert color="primary" %}}
+GroupDocs.Merger ist eine vielseitige Dokumentbearbeitungs-API, die es Entwicklern ermöglicht, Seiten in verschiedenen Dokumentformaten programmgesteuert zusammenzuführen, aufzuteilen, zu extrahieren und zu bearbeiten. Es unterstützt gängige Formate wie PDF, Microsoft Word, Excel, PowerPoint und mehr.
+{{% /alert %}}
+
+### GroupDocs.Merger-Tutorials
+- [GroupDocs.Merger für .NET-Tutorials](../merger/de/net/)

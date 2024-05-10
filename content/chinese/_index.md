@@ -59,3 +59,12 @@ GroupDocs.Metadata 是一个 .NET 和 Java 库，用于处理与各种文件格�
 
 ### GroupDocs.元数据教程
 - [.NET 教程的 GroupDocs.Metadata](../metadata/zh/net/)
+
+
+## GroupDocs.合并
+{{% alert color="primary" %}}
+GroupDocs.Merger 是一种多功能文档操作 API，允许开发人员以编程方式合并、拆分、提取和操作各种文档格式的页面。 它支持 PDF、Microsoft Word、Excel、PowerPoint 等流行格式。
+{{% /alert %}}
+
+### GroupDocs.合并教程
+- [.NET 教程的 GroupDocs.Merger](../merger/zh/net/)

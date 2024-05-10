@@ -59,3 +59,12 @@ GroupDocs.Metadata 是一個 .NET 和 Java 程式庫，用於處理與各種文�
 
 ### GroupDocs.元資料教程
 - [.NET 教學的 GroupDocs.Metadata](../metadata/zh-hant/net/)
+
+
+## GroupDocs.合併
+{{% alert color="primary" %}}
+GroupDocs.Merger 是一種多功能文件操作 API，可讓開發人員以程式設計方式合併、分割、擷取和操作各種文件格式的頁面。 它支援 PDF、Microsoft Word、Excel、PowerPoint 等流行格式。
+{{% /alert %}}
+
+### GroupDocs.合併教程
+- [.NET 教學的 GroupDocs.Merger](../merger/zh-hant/net/)

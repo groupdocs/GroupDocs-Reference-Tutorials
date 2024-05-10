@@ -59,3 +59,12 @@ A GroupDocs.Metadata egy .NET- és Java-könyvtár, amely különféle fájlform
 
 ### GroupDocs.Metadata oktatóanyagok
 - [GroupDocs.Metadata .NET oktatóanyagokhoz](../metadata/hu/net/)
+
+
+## GroupDocs.Merger
+{{% alert color="primary" %}}
+A GroupDocs.Merger egy sokoldalú dokumentum-manipulációs API, amely lehetővé teszi a fejlesztők számára, hogy programozottan egyesítsék, feloszthassák, kivonják és kezeljék az oldalakat a különböző dokumentumformátumokon belül. Támogatja az olyan népszerű formátumokat, mint a PDF, Microsoft Word, Excel, PowerPoint stb.
+{{% /alert %}}
+
+### GroupDocs.Merger oktatóanyagok
+- [GroupDocs.Merger for .NET Tutorials](../merger/hu/net/)

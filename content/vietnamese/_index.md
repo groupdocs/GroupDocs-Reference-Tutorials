@@ -59,3 +59,12 @@ GroupDocs.Metadata là thư viện .NET và Java để làm việc với siêu d
 
 ### Hướng dẫn về GroupDocs.Metadata
 - [Hướng dẫn GroupDocs.Metadata cho .NET](../metadata/vi/net/)
+
+
+## GroupDocs.Merger
+{{% alert color="primary" %}}
+GroupDocs.Merger là một API thao tác tài liệu linh hoạt cho phép các nhà phát triển hợp nhất, phân tách, trích xuất và thao tác các trang trong các định dạng tài liệu khác nhau theo chương trình. Nó hỗ trợ các định dạng phổ biến như PDF, Microsoft Word, Excel, PowerPoint, v.v.
+{{% /alert %}}
+
+### Hướng dẫn về GroupDocs.Merger
+- [Hướng dẫn GroupDocs.Merger cho .NET](../merger/vi/net/)

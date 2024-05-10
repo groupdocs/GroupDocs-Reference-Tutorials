@@ -59,3 +59,12 @@ GroupDocs.Metadata; belgeler, resimler, ses ve video dahil olmak üzere çeşitl
 
 ### GroupDocs.Meta Veri Eğitimleri
 - [.NET Eğitimleri için GroupDocs.Metadata](../metadata/tr/net/)
+
+
+## GroupDocs.Merger
+{{% alert color="primary" %}}
+GroupDocs.Merger, geliştiricilerin çeşitli belge formatlarındaki sayfaları programlı olarak birleştirmesine, bölmesine, ayıklamasına ve değiştirmesine olanak tanıyan çok yönlü bir belge işleme API'sidir. PDF, Microsoft Word, Excel, PowerPoint ve daha fazlası gibi popüler formatları destekler.
+{{% /alert %}}
+
+### GroupDocs.Birleşme Eğitimleri
+- [.NET Eğitimleri için GroupDocs.Merger](../merger/tr/net/)

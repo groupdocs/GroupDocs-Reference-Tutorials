@@ -59,3 +59,12 @@ GroupDocs.Metadata는 문서, 이미지, 오디오, 비디오를 비롯한 다�
 
 ### GroupDocs.메타데이터 자습서
 - [.NET 튜토리얼용 GroupDocs.Metadata](../metadata/ko/net/)
+
+
+## GroupDocs.Merger
+{{% alert color="primary" %}}
+GroupDocs.Merger는 개발자가 다양한 문서 형식 내의 페이지를 프로그래밍 방식으로 병합, 분할, 추출 및 조작할 수 있는 다목적 문서 조작 API입니다. PDF, Microsoft Word, Excel, PowerPoint 등과 같은 널리 사용되는 형식을 지원합니다.
+{{% /alert %}}
+
+### GroupDocs.Merger 튜토리얼
+- [.NET 자습서용 GroupDocs.Merger](../merger/ko/net/)

@@ -65,6 +65,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata Tutorials"
 			url = "/metadata/"
 			weight = 60
+		[[languages.en.menu.main]]
+			name = "GroupDocs.Merger Tutorials"
+			url = "/merger/"
+			weight = 70
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -96,6 +100,10 @@ defaultContentLang = 'en'
 			name = "Учебные пособия по GroupDocs.Metadata"
 			url = "/metadata/ru/"
 			weight = 60	
+		[[languages.ru.menu.main]]
+			name = "Учебные пособия по GroupDocs.Merger"
+			url = "/merger/ru/"
+			weight = 70
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -127,6 +135,14 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata 教程"
 			url = "/metadata/zh/"
 			weight = 60
+		[[languages.zh.menu.main]]
+			name = "GroupDocs.Metadata 教程"
+			url = "/metadata/zh/"
+			weight = 60
+		[[languages.zh.menu.main]]
+			name = "GroupDocs.Merger 教程"
+			url = "/merger/zh/"
+			weight = 70
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -158,6 +174,10 @@ defaultContentLang = 'en'
 			name = "دروس GroupDocs.Metadata"
 			url = "/metadata/ar/"
 			weight = 60
+		[[languages.ar.menu.main]]
+			name = "دروس GroupDocs.Merger"
+			url = "/merger/ar/"
+			weight = 70
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -189,6 +209,10 @@ defaultContentLang = 'en'
 			name = "Tutoriels GroupDocs.Metadata"
 			url = "/metadata/fr/"
 			weight = 60
+		[[languages.fr.menu.main]]
+			name = "Tutoriels GroupDocs.Merger"
+			url = "/merger/fr/"
+			weight = 70
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -220,6 +244,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata-Tutorials"
 			url = "/metadata/de/"
 			weight = 60
+		[[languages.de.menu.main]]
+			name = "GroupDocs.Merger-Tutorials"
+			url = "/merger/de/"
+			weight = 70
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -251,6 +279,10 @@ defaultContentLang = 'en'
 			name = "Esercitazioni su GroupDocs.Metadata"
 			url = "/metadata/it/"
 			weight = 60
+		[[languages.it.menu.main]]
+			name = "Esercitazioni su GroupDocs.Merger"
+			url = "/merger/it/"
+			weight = 70
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -282,6 +314,10 @@ defaultContentLang = 'en'
 			name = "Tutoriales de GroupDocs.Metadata"
 			url = "/metadata/es/"
 			weight = 60
+		[[languages.es.menu.main]]
+			name = "Tutoriales de GroupDocs.Merger"
+			url = "/merger/es/"
+			weight = 70
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -313,6 +349,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata självstudier"
 			url = "/metadata/sv/"
 			weight = 60
+		[[languages.sv.menu.main]]
+			name = "GroupDocs.Merger självstudier"
+			url = "/merger/sv/"
+			weight = 70
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -344,6 +384,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata Eğitimleri"
 			url = "/metadata/tr/"
 			weight = 60
+		[[languages.tr.menu.main]]
+			name = "GroupDocs.Merger Eğitimleri"
+			url = "/merger/tr/"
+			weight = 70
   [languages.pt]
     contentDir = 'content/portuguese'
     languageName = "Português"
@@ -375,6 +419,10 @@ defaultContentLang = 'en'
 			name = "Tutoriais de GroupDocs.Metadata"
 			url = "/metadata/pt/"
 			weight = 60
+		[[languages.pt.menu.main]]
+			name = "Tutoriais de GroupDocs.Merger"
+			url = "/merger/pt/"
+			weight = 70
   [languages.ko]
     contentDir = 'content/korean'
     languageName = "한국인"
@@ -406,6 +454,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata 튜토리얼"
 			url = "/metadata/ko/"
 			weight = 60
+		[[languages.ko.menu.main]]
+			name = "GroupDocs.Merger 튜토리얼"
+			url = "/merger/ko/"
+			weight = 70
   [languages.vi]
     contentDir = 'content/vietnamese'
     languageName = "Tiếng Việt"
@@ -437,6 +489,10 @@ defaultContentLang = 'en'
 			name = "Hướng dẫn chuyển đổi GroupDocs.Metadata"
 			url = "/metadata/vi/"
 			weight = 60
+		[[languages.vi.menu.main]]
+			name = "Hướng dẫn chuyển đổi GroupDocs.Merger"
+			url = "/merger/vi/"
+			weight = 70
   [languages.id]
     contentDir = 'content/indonesian'
     languageName = "Indonesian"
@@ -468,6 +524,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Tutorial Metadata"
 			url = "/metadata/id/"
 			weight = 60
+		[[languages.id.menu.main]]
+			name = "GroupDocs.Tutorial Merger"
+			url = "/merger/id/"
+			weight = 70
   [languages.ja]
     contentDir = 'content/japanese'
     languageName = "日本語"
@@ -499,6 +559,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata チュートリアル"
 			url = "/metadata/ja/"
 			weight = 60
+		[[languages.ja.menu.main]]
+			name = "GroupDocs.Merger チュートリアル"
+			url = "/merger/ja/"
+			weight = 70
   [languages.pl]
     contentDir = 'content/polish'
     languageName = "Polski"
@@ -530,6 +594,10 @@ defaultContentLang = 'en'
 			name = "Poradniki GroupDocs.Metadata"
 			url = "/metadata/pl/"
 			weight = 60
+		[[languages.pl.menu.main]]
+			name = "Poradniki GroupDocs.Merger"
+			url = "/merger/pl/"
+			weight = 70
   [languages.nl]
     contentDir = 'content/dutch'
     languageName = "Nederlands"
@@ -561,6 +629,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata-zelfstudies"
 			url = "/metadata/nl/"
 			weight = 60
+		[[languages.nl.menu.main]]
+			name = "GroupDocs.Merger-zelfstudies"
+			url = "/merger/nl/"
+			weight = 70
   [languages.hu]
     contentDir = 'content/hungarian'
     languageName = "Magyar"
@@ -592,6 +664,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata oktatóanyagok"
 			url = "/metadata/hu/"
 			weight = 60
+		[[languages.hu.menu.main]]
+			name = "GroupDocs.Merger oktatóanyagok"
+			url = "/merger/hu/"
+			weight = 70
   [languages.hi]
     contentDir = 'content/hindi'
     languageName = "हिन्दी"
@@ -623,6 +699,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.मेटाडेटा ट्यूटोरियल"
 			url = "/metadata/hi/"
 			weight = 60
+		[[languages.hi.menu.main]]
+			name = "GroupDocs.विलय ट्यूटोरियल"
+			url = "/merger/hi/"
+			weight = 70
   [languages.th]
     contentDir = 'content/thai'
     languageName = "ไทย"
@@ -654,6 +734,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata บทช่วยสอน"
 			url = "/metadata/th/"
 			weight = 60
+		[[languages.th.menu.main]]
+			name = "GroupDocs.Merger บทช่วยสอน"
+			url = "/merger/th/"
+			weight = 70
   [languages.el]
     contentDir = 'content/greek'
     languageName = "Ελληνικά"
@@ -685,6 +769,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata Οδηγοί"
 			url = "/metadata/el/"
 			weight = 60
+		[[languages.el.menu.main]]
+			name = "GroupDocs.Merger Οδηγοί"
+			url = "/merger/el/"
+			weight = 70
   [languages.cs]
     contentDir = 'content/czech'
     languageName = "čeština"
@@ -716,6 +804,10 @@ defaultContentLang = 'en'
 			name = "Výukové programy GroupDocs.Metadata"
 			url = "/metadata/cs/"
 			weight = 60
+		[[languages.cs.menu.main]]
+			name = "Výukové programy GroupDocs.Merger"
+			url = "/merger/cs/"
+			weight = 70
   [languages.zh-hant]
     contentDir = 'content/hongkong'
     languageName = "繁體中文"
@@ -747,6 +839,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Metadata 教程"
 			url = "/metadata/zh-hant/"
 			weight = 60
+		[[languags.zh-hant.menu.main]]
+			name = "GroupDocs.Merger 教程"
+			url = "/merger/zh-hant/"
+			weight = 70
 	
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 
