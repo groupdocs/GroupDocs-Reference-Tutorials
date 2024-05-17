@@ -68,3 +68,12 @@ GroupDocs.Merger 是一种多功能文档操作 API，允许开发人员以编�
 
 ### GroupDocs.合并教程
 - [.NET 教程的 GroupDocs.Merger](../merger/zh/net/)
+
+
+## GroupDocs.Parser
+{{% alert color="primary" %}}
+GroupDocs.Parser 是一种多功能文档解析 API，旨在从各种文件格式（包括 PDF、Microsoft Office 文档、电子邮件、图像等）中提取文本和元数据。 它为开发人员提供了一种以编程方式访问和分析文档内容的简单方法，支持文本提取、结构化数据检索和内容索引等任务。
+{{% /alert %}}
+
+### GroupDocs.Parser 教程
+- [.NET 教程的 GroupDocs.Parser](../parser/zh/net/)

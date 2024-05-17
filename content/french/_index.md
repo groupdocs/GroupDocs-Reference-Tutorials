@@ -68,3 +68,12 @@ GroupDocs.Merger est une API polyvalente de manipulation de documents qui permet
 
 ### Tutoriels GroupDocs.Merger
 - [GroupDocs.Merger pour les didacticiels .NET](../merger/fr/net/)
+
+
+## GroupDocs.Parser
+{{% alert color="primary" %}}
+GroupDocs.Parser est une API d'analyse de documents polyvalente conçue pour extraire du texte et des métadonnées de divers formats de fichiers, notamment PDF, documents Microsoft Office, e-mails, images, etc. Il offre aux développeurs un moyen simple d'accéder et d'analyser par programme le contenu des documents, permettant des tâches telles que l'extraction de texte, la récupération de données structurées et l'indexation de contenu.
+{{% /alert %}}
+
+### Tutoriels GroupDocs.Parser
+- [GroupDocs.Parser pour les didacticiels .NET](../parser/fr/net/)

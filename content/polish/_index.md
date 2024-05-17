@@ -68,3 +68,12 @@ GroupDocs.Merger to wszechstronny interfejs API do manipulacji dokumentami, któ
 
 ### Poradniki GroupDocs.Merger
 - [GroupDocs.Merger dla samouczków .NET](../merger/pl/net/)
+
+
+## GroupDocs.Parser
+{{% alert color="primary" %}}
+GroupDocs.Parser to wszechstronny interfejs API do analizowania dokumentów, przeznaczony do wyodrębniania tekstu i metadanych z różnych formatów plików, w tym plików PDF, dokumentów Microsoft Office, wiadomości e-mail, obrazów i innych. Zapewnia programistom prosty sposób programowego dostępu i analizowania zawartości dokumentów, umożliwiając wykonywanie takich zadań, jak wyodrębnianie tekstu, pobieranie danych strukturalnych i indeksowanie treści.
+{{% /alert %}}
+
+### Poradniki GroupDocs.Parser
+- [GroupDocs.Parser dla samouczków .NET](../parser/pl/net/)

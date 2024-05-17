@@ -69,6 +69,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger Tutorials"
 			url = "/merger/"
 			weight = 70
+		[[languages.en.menu.main]]
+			name = "GroupDocs.Parser Tutorials"
+			url = "/parser/"
+			weight = 80
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -104,6 +108,10 @@ defaultContentLang = 'en'
 			name = "Учебные пособия по GroupDocs.Merger"
 			url = "/merger/ru/"
 			weight = 70
+		[[languages.ru.menu.main]]
+			name = "Учебные пособия по GroupDocs.Parser"
+			url = "/parser/ru/"
+			weight = 80
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -143,6 +151,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger 教程"
 			url = "/merger/zh/"
 			weight = 70
+		[[languages.zh.menu.main]]
+			name = "GroupDocs.Parser 教程"
+			url = "/parser/zh/"
+			weight = 80
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -178,6 +190,10 @@ defaultContentLang = 'en'
 			name = "دروس GroupDocs.Merger"
 			url = "/merger/ar/"
 			weight = 70
+		[[languages.ar.menu.main]]
+			name = "دروس GroupDocs.Parser"
+			url = "/parser/ar/"
+			weight = 80
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -213,6 +229,10 @@ defaultContentLang = 'en'
 			name = "Tutoriels GroupDocs.Merger"
 			url = "/merger/fr/"
 			weight = 70
+		[[languages.fr.menu.main]]
+			name = "Tutoriels GroupDocs.Parser"
+			url = "/parser/fr/"
+			weight = 80
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -248,6 +268,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger-Tutorials"
 			url = "/merger/de/"
 			weight = 70
+		[[languages.de.menu.main]]
+			name = "GroupDocs.Parser-Tutorials"
+			url = "/parser/de/"
+			weight = 80
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -283,6 +307,10 @@ defaultContentLang = 'en'
 			name = "Esercitazioni su GroupDocs.Merger"
 			url = "/merger/it/"
 			weight = 70
+		[[languages.it.menu.main]]
+			name = "Esercitazioni su GroupDocs.Parser"
+			url = "/parser/it/"
+			weight = 80
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -318,6 +346,10 @@ defaultContentLang = 'en'
 			name = "Tutoriales de GroupDocs.Merger"
 			url = "/merger/es/"
 			weight = 70
+		[[languages.es.menu.main]]
+			name = "Tutoriales de GroupDocs.Parser"
+			url = "/parser/es/"
+			weight = 80
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -353,6 +385,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger självstudier"
 			url = "/merger/sv/"
 			weight = 70
+		[[languages.sv.menu.main]]
+			name = "GroupDocs.Parser självstudier"
+			url = "/parser/sv/"
+			weight = 80
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -388,6 +424,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger Eğitimleri"
 			url = "/merger/tr/"
 			weight = 70
+		[[languages.tr.menu.main]]
+			name = "GroupDocs.Parser Eğitimleri"
+			url = "/parser/tr/"
+			weight = 80
   [languages.pt]
     contentDir = 'content/portuguese'
     languageName = "Português"
@@ -423,6 +463,10 @@ defaultContentLang = 'en'
 			name = "Tutoriais de GroupDocs.Merger"
 			url = "/merger/pt/"
 			weight = 70
+		[[languages.pt.menu.main]]
+			name = "Tutoriais de GroupDocs.Parser"
+			url = "/parser/pt/"
+			weight = 80
   [languages.ko]
     contentDir = 'content/korean'
     languageName = "한국인"
@@ -458,6 +502,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger 튜토리얼"
 			url = "/merger/ko/"
 			weight = 70
+		[[languages.ko.menu.main]]
+			name = "GroupDocs.Parser 튜토리얼"
+			url = "/parser/ko/"
+			weight = 80
   [languages.vi]
     contentDir = 'content/vietnamese'
     languageName = "Tiếng Việt"
@@ -493,6 +541,10 @@ defaultContentLang = 'en'
 			name = "Hướng dẫn chuyển đổi GroupDocs.Merger"
 			url = "/merger/vi/"
 			weight = 70
+		[[languages.vi.menu.main]]
+			name = "Hướng dẫn chuyển đổi GroupDocs.Parser"
+			url = "/parser/vi/"
+			weight = 80
   [languages.id]
     contentDir = 'content/indonesian'
     languageName = "Indonesian"
@@ -528,6 +580,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Tutorial Merger"
 			url = "/merger/id/"
 			weight = 70
+		[[languages.id.menu.main]]
+			name = "GroupDocs.Tutorial Parser"
+			url = "/parser/id/"
+			weight = 80
   [languages.ja]
     contentDir = 'content/japanese'
     languageName = "日本語"
@@ -563,6 +619,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger チュートリアル"
 			url = "/merger/ja/"
 			weight = 70
+		[[languages.ja.menu.main]]
+			name = "GroupDocs.Parser チュートリアル"
+			url = "/parser/ja/"
+			weight = 80
   [languages.pl]
     contentDir = 'content/polish'
     languageName = "Polski"
@@ -598,6 +658,10 @@ defaultContentLang = 'en'
 			name = "Poradniki GroupDocs.Merger"
 			url = "/merger/pl/"
 			weight = 70
+		[[languages.pl.menu.main]]
+			name = "Poradniki GroupDocs.Parser"
+			url = "/parser/pl/"
+			weight = 80
   [languages.nl]
     contentDir = 'content/dutch'
     languageName = "Nederlands"
@@ -633,6 +697,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger-zelfstudies"
 			url = "/merger/nl/"
 			weight = 70
+		[[languages.nl.menu.main]]
+			name = "GroupDocs.Parser-zelfstudies"
+			url = "/parser/nl/"
+			weight = 80
   [languages.hu]
     contentDir = 'content/hungarian'
     languageName = "Magyar"
@@ -668,6 +736,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger oktatóanyagok"
 			url = "/merger/hu/"
 			weight = 70
+		[[languages.hu.menu.main]]
+			name = "GroupDocs.Parser oktatóanyagok"
+			url = "/parser/hu/"
+			weight = 80
   [languages.hi]
     contentDir = 'content/hindi'
     languageName = "हिन्दी"
@@ -703,6 +775,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.विलय ट्यूटोरियल"
 			url = "/merger/hi/"
 			weight = 70
+		[[languages.hi.menu.main]]
+			name = "GroupDocs.Parser ट्यूटोरियल"
+			url = "/parser/hi/"
+			weight = 80
   [languages.th]
     contentDir = 'content/thai'
     languageName = "ไทย"
@@ -738,6 +814,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger บทช่วยสอน"
 			url = "/merger/th/"
 			weight = 70
+		[[languages.th.menu.main]]
+			name = "GroupDocs.Parser บทช่วยสอน"
+			url = "/parser/th/"
+			weight = 80
   [languages.el]
     contentDir = 'content/greek'
     languageName = "Ελληνικά"
@@ -773,6 +853,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger Οδηγοί"
 			url = "/merger/el/"
 			weight = 70
+		[[languages.el.menu.main]]
+			name = "GroupDocs.Parser Οδηγοί"
+			url = "/parser/el/"
+			weight = 80
   [languages.cs]
     contentDir = 'content/czech'
     languageName = "čeština"
@@ -808,6 +892,10 @@ defaultContentLang = 'en'
 			name = "Výukové programy GroupDocs.Merger"
 			url = "/merger/cs/"
 			weight = 70
+		[[languages.cs.menu.main]]
+			name = "Výukové programy GroupDocs.Parser"
+			url = "/parser/cs/"
+			weight = 80
   [languages.zh-hant]
     contentDir = 'content/hongkong'
     languageName = "繁體中文"
@@ -843,6 +931,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Merger 教程"
 			url = "/merger/zh-hant/"
 			weight = 70
+		[[languags.zh-hant.menu.main]]
+			name = "GroupDocs.Parser 教學課程"
+			url = "/parser/zh-hant/"
+			weight = 80
 	
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 

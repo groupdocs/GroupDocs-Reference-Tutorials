@@ -68,3 +68,12 @@ GroupDocs.Merger, geliştiricilerin çeşitli belge formatlarındaki sayfaları 
 
 ### GroupDocs.Birleşme Eğitimleri
 - [.NET Eğitimleri için GroupDocs.Merger](../merger/tr/net/)
+
+
+## GroupDocs.Parser
+{{% alert color="primary" %}}
+GroupDocs.Parser, PDF, Microsoft Office belgeleri, e-postalar, resimler ve daha fazlasını içeren çeşitli dosya biçimlerinden metin ve meta verileri çıkarmak için tasarlanmış çok yönlü bir belge ayrıştırma API'sidir. Geliştiricilere belgelerdeki içeriğe programlı olarak erişmeleri ve bunları analiz etmeleri için basit bir yol sağlayarak metin çıkarma, yapılandırılmış veri alma ve içerik indeksleme gibi görevleri mümkün kılar.
+{{% /alert %}}
+
+### GroupDocs.Parser Eğitimleri
+- [.NET Eğitimleri için GroupDocs.Parser](../parser/tr/net/)

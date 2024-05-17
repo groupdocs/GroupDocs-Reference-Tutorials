@@ -68,3 +68,12 @@ url: /el/
 
 ### GroupDocs.Merger Tutorials
 - [GroupDocs.Merger για .NET Tutorials](../merger/el/net/)
+
+
+## GroupDocs.Parser
+{{% alert color="primary" %}}
+Το GroupDocs.Parser είναι ένα ευέλικτο API ανάλυσης εγγράφων που έχει σχεδιαστεί για την εξαγωγή κειμένου και μεταδεδομένων από διάφορες μορφές αρχείων, όπως PDF, έγγραφα του Microsoft Office, μηνύματα ηλεκτρονικού ταχυδρομείου, εικόνες και άλλα. Παρέχει στους προγραμματιστές έναν απλό τρόπο πρόσβασης μέσω προγραμματισμού και ανάλυσης περιεχομένου εντός εγγράφων, επιτρέποντας εργασίες όπως εξαγωγή κειμένου, δομημένη ανάκτηση δεδομένων και δημιουργία ευρετηρίου περιεχομένου.
+{{% /alert %}}
+
+### GroupDocs.Parser Tutorials
+- [GroupDocs.Parser για .NET Tutorials](../parser/el/net/)

@@ -68,3 +68,12 @@ GroupDocs.Merger는 개발자가 다양한 문서 형식 내의 페이지를 프
 
 ### GroupDocs.Merger 튜토리얼
 - [.NET 자습서용 GroupDocs.Merger](../merger/ko/net/)
+
+
+## GroupDocs.Parser
+{{% alert color="primary" %}}
+GroupDocs.Parser는 PDF, Microsoft Office 문서, 이메일, 이미지 등을 포함한 다양한 파일 형식에서 텍스트와 메타데이터를 추출하도록 설계된 다목적 문서 구문 분석 API입니다. 개발자는 프로그래밍 방식으로 문서 내의 콘텐츠에 액세스하고 분석하여 텍스트 추출, 구조화된 데이터 검색, 콘텐츠 인덱싱과 같은 작업을 수행할 수 있는 간단한 방법을 제공합니다.
+{{% /alert %}}
+
+### GroupDocs.Parser 자습서
+- [.NET 자습서용 GroupDocs.Parser](../parser/ko/net/)

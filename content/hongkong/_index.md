@@ -68,3 +68,12 @@ GroupDocs.Merger 是一種多功能文件操作 API，可讓開發人員以程�
 
 ### GroupDocs.合併教程
 - [.NET 教學的 GroupDocs.Merger](../merger/zh-hant/net/)
+
+
+## GroupDocs.Parser
+{{% alert color="primary" %}}
+GroupDocs.Parser 是一種多功能文件解析 API，旨在從各種文件格式（包括 PDF、Microsoft Office 文件、電子郵件、圖像等）中提取文字和元資料。 它為開發人員提供了一種以程式設計方式存取和分析文件內容的簡單方法，支援文字擷取、結構化資料檢索和內容索引等任務。
+{{% /alert %}}
+
+### GroupDocs.Parser 教學課程
+- [.NET 教學的 GroupDocs.Parser](../parser/zh-hant/net/)

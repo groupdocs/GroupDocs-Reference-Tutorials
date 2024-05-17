@@ -69,3 +69,12 @@ GroupDocs.Merger je všestranné rozhraní API pro manipulaci s dokumenty, kter�
 
 ### Výukové programy GroupDocs.Merger
 - [GroupDocs.Merger pro .NET výukové programy](../merger/cs/net/)
+
+
+## GroupDocs.Parser
+{{% alert color="primary" %}}
+GroupDocs.Parser je všestranné rozhraní API pro analýzu dokumentů navržené k extrahování textu a metadat z různých formátů souborů včetně PDF, dokumentů Microsoft Office, e-mailů, obrázků a dalších. Poskytuje vývojářům jednoduchý způsob, jak programově přistupovat k obsahu v dokumentech a analyzovat jej, což umožňuje úkoly, jako je extrakce textu, načítání strukturovaných dat a indexování obsahu.
+{{% /alert %}}
+
+### Výukové programy GroupDocs.Parser
+- [GroupDocs.Parser pro .NET výukové programy](../parser/cs/net/)

@@ -68,3 +68,12 @@ GroupDocs.Merger è un'API versatile per la manipolazione dei documenti che cons
 
 ### Esercitazioni su GroupDocs.Merger
 - [GroupDocs.Merger per esercitazioni .NET](../merger/it/net/)
+
+
+## GroupDocs.Parser
+{{% alert color="primary" %}}
+GroupDocs.Parser è un'API versatile per l'analisi dei documenti progettata per estrarre testo e metadati da vari formati di file tra cui PDF, documenti Microsoft Office, e-mail, immagini e altro. Fornisce agli sviluppatori un modo semplice per accedere e analizzare in modo programmatico i contenuti all'interno dei documenti, consentendo attività come l'estrazione del testo, il recupero dei dati strutturati e l'indicizzazione dei contenuti.
+{{% /alert %}}
+
+### Esercitazioni su GroupDocs.Parser
+- [GroupDocs.Parser per esercitazioni .NET](../parser/it/net/)

@@ -68,3 +68,12 @@ GroupDocs.Merger là một API thao tác tài liệu linh hoạt cho phép các 
 
 ### Hướng dẫn về GroupDocs.Merger
 - [Hướng dẫn GroupDocs.Merger cho .NET](../merger/vi/net/)
+
+
+## GroupDocs.Parser
+{{% alert color="primary" %}}
+GroupDocs.Parser là API phân tích tài liệu linh hoạt được thiết kế để trích xuất văn bản và siêu dữ liệu từ các định dạng tệp khác nhau bao gồm PDF, tài liệu Microsoft Office, email, hình ảnh, v.v. Nó cung cấp cho các nhà phát triển một cách đơn giản để truy cập và phân tích nội dung trong tài liệu theo chương trình, cho phép thực hiện các tác vụ như trích xuất văn bản, truy xuất dữ liệu có cấu trúc và lập chỉ mục nội dung.
+{{% /alert %}}
+
+### Hướng dẫn về GroupDocs.Parser
+- [Hướng dẫn GroupDocs.Parser cho .NET](../parser/vi/net/)
