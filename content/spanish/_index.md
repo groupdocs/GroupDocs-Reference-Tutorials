@@ -1,4 +1,4 @@
----
+# ---
 title: Tutoriales y fragmentos de código
 additionalTitle: Referencias de la API de GroupDocs
 description: Tutoriales y fragmentos de código de productos GroupDocs como GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion y otros productos.
@@ -77,3 +77,12 @@ GroupDocs.Parser es una API de análisis de documentos versátil diseñada para 
 
 ### Tutoriales de GroupDocs.Parser
 - [Tutoriales de GroupDocs.Parser para .NET](../parser/es/net/)
+
+
+## GroupDocs.Editor
+{{% alert color="primary" %}}
+GroupDocs.Editor es una solución de edición de documentos versátil que permite a los usuarios editar fácilmente una amplia gama de formatos de documentos, incluidos Word, Excel, PowerPoint, PDF y HTML, directamente dentro de sus aplicaciones. Proporciona una interfaz fácil de usar y una API sólida para una integración perfecta, lo que permite la edición, conversión y manipulación de documentos en tiempo real sin necesidad de software adicional.
+{{% /alert %}}
+
+### Tutoriales de GroupDocs.Editor
+- [Tutoriales de GroupDocs.Editor para .NET](../editor/es/net/)

@@ -78,3 +78,12 @@ GroupDocs.Parser adalah API penguraian dokumen serbaguna yang dirancang untuk me
 
 ### GroupDocs.Tutorial Parser
 - [GroupDocs.Parser untuk Tutorial .NET](../parser/id/net/)
+
+
+## GroupDocs.Editor
+{{% alert color="primary" %}}
+GroupDocs.Editor adalah solusi pengeditan dokumen serbaguna yang memungkinkan pengguna dengan mudah mengedit berbagai format dokumen, termasuk Word, Excel, PowerPoint, PDF, dan HTML, langsung dalam aplikasi mereka. Ini menyediakan antarmuka yang ramah pengguna dan API yang kuat untuk integrasi yang mulus, memungkinkan pengeditan, konversi, dan manipulasi dokumen secara real-time tanpa memerlukan perangkat lunak tambahan.
+{{% /alert %}}
+
+### GroupDocs.Tutorial Editor
+- [GroupDocs.Editor untuk Tutorial .NET](../editor/id/net/)

@@ -77,3 +77,12 @@ GroupDocs.Parser, PDF, Microsoft Office belgeleri, e-postalar, resimler ve daha 
 
 ### GroupDocs.Parser Eğitimleri
 - [.NET Eğitimleri için GroupDocs.Parser](../parser/tr/net/)
+
+
+## GroupDocs.Editör
+{{% alert color="primary" %}}
+GroupDocs.Editor, kullanıcıların Word, Excel, PowerPoint, PDF ve HTML dahil olmak üzere çok çeşitli belge formatlarını doğrudan uygulamaları içerisinde kolayca düzenlemelerine olanak tanıyan çok yönlü bir belge düzenleme çözümüdür. Sorunsuz entegrasyon için kullanıcı dostu bir arayüz ve sağlam bir API sunarak, ek yazılıma ihtiyaç duymadan belgelerin gerçek zamanlı olarak düzenlenmesine, dönüştürülmesine ve işlenmesine olanak tanır.
+{{% /alert %}}
+
+### GroupDocs.Editör Eğitimleri
+- [.NET Eğitimleri için GroupDocs.Editor](../editor/tr/net/)

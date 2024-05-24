@@ -78,3 +78,12 @@ GroupDocs.Parser je všestranné rozhraní API pro analýzu dokumentů navržen�
 
 ### Výukové programy GroupDocs.Parser
 - [GroupDocs.Parser pro .NET výukové programy](../parser/cs/net/)
+
+
+## GroupDocs.Editor
+{{% alert color="primary" %}}
+GroupDocs.Editor je všestranné řešení pro úpravy dokumentů, které uživatelům umožňuje snadno upravovat širokou škálu formátů dokumentů, včetně Wordu, Excelu, PowerPointu, PDF a HTML, přímo v jejich aplikacích. Poskytuje uživatelsky přívětivé rozhraní a robustní rozhraní API pro bezproblémovou integraci, umožňující úpravy, konverzi a manipulaci s dokumenty v reálném čase bez potřeby dalšího softwaru.
+{{% /alert %}}
+
+### Výukové programy GroupDocs.Editor
+- [GroupDocs.Editor pro .NET výukové programy](../editor/cs/net/)

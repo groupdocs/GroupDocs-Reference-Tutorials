@@ -77,3 +77,12 @@ GroupDocs.Parser to wszechstronny interfejs API do analizowania dokumentów, prz
 
 ### Poradniki GroupDocs.Parser
 - [GroupDocs.Parser dla samouczków .NET](../parser/pl/net/)
+
+
+## Edytor GroupDocs
+{{% alert color="primary" %}}
+GroupDocs.Editor to wszechstronne rozwiązanie do edycji dokumentów, które umożliwia użytkownikom łatwą edycję szerokiej gamy formatów dokumentów, w tym Word, Excel, PowerPoint, PDF i HTML, bezpośrednio w ich aplikacjach. Zapewnia przyjazny dla użytkownika interfejs i solidne API umożliwiające bezproblemową integrację, umożliwiając edycję, konwersję i manipulację dokumentami w czasie rzeczywistym bez potrzeby stosowania dodatkowego oprogramowania.
+{{% /alert %}}
+
+### Poradniki GroupDocs.Editor
+- [GroupDocs.Editor dla samouczków .NET](../editor/pl/net/)

@@ -77,3 +77,12 @@ GroupDocs.Parser 是一種多功能文件解析 API，旨在從各種文件格�
 
 ### GroupDocs.Parser 教學課程
 - [.NET 教學的 GroupDocs.Parser](../parser/zh-hant/net/)
+
+
+## 群組文檔編輯器
+{{% alert color="primary" %}}
+GroupDocs.Editor 是一款多功能文件編輯解決方案，使用戶能夠直接在其應用程式中輕鬆編輯各種文件格式，包括 Word、Excel、PowerPoint、PDF 和 HTML。 它提供了用戶友好的介面和強大的 API，可實現無縫集成，無需額外的軟體即可即時編輯、轉換和操作文件。
+{{% /alert %}}
+
+### GroupDocs.Editor 教程
+- [.NET 教學的 GroupDocs.Editor](../editor/zh-hant/net/)

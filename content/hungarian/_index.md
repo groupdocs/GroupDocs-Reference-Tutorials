@@ -77,3 +77,12 @@ A GroupDocs.Parser egy sokoldalú dokumentumelemző API, amelyet szövegek és m
 
 ### GroupDocs.Parser oktatóanyagok
 - [GroupDocs.Parser for .NET oktatóanyagok](../parser/hu/net/)
+
+
+## GroupDocs.Editor
+{{% alert color="primary" %}}
+A GroupDocs.Editor egy sokoldalú dokumentumszerkesztő megoldás, amely lehetővé teszi a felhasználók számára, hogy könnyedén szerkeszthessenek számos dokumentumformátumot, beleértve a Word, Excel, PowerPoint, PDF és HTML fájlokat, közvetlenül az alkalmazásaikban. Felhasználóbarát felületet és robusztus API-t biztosít a zökkenőmentes integráció érdekében, lehetővé téve a dokumentumok valós idejű szerkesztését, konvertálását és kezelését további szoftverek nélkül.
+{{% /alert %}}
+
+### GroupDocs.Editor oktatóanyagok
+- [GroupDocs.Editor for .NET oktatóanyagok](../editor/hu/net/)

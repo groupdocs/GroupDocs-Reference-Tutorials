@@ -77,3 +77,12 @@ GroupDocs.Parser là API phân tích tài liệu linh hoạt được thiết k�
 
 ### Hướng dẫn về GroupDocs.Parser
 - [Hướng dẫn GroupDocs.Parser cho .NET](../parser/vi/net/)
+
+
+## GroupDocs.Editor
+{{% alert color="primary" %}}
+GroupDocs.Editor là một giải pháp chỉnh sửa tài liệu linh hoạt cho phép người dùng dễ dàng chỉnh sửa nhiều định dạng tài liệu, bao gồm Word, Excel, PowerPoint, PDF và HTML, trực tiếp trong ứng dụng của họ. Nó cung cấp giao diện thân thiện với người dùng và API mạnh mẽ để tích hợp liền mạch, cho phép chỉnh sửa, chuyển đổi và thao tác tài liệu theo thời gian thực mà không cần phần mềm bổ sung.
+{{% /alert %}}
+
+### Hướng dẫn về GroupDocs.Editor
+- [GroupDocs.Editor cho Hướng dẫn .NET](../editor/vi/net/)

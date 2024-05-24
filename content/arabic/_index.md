@@ -40,7 +40,7 @@ GroupDocs.Annotation هو حل شامل للتعليقات التوضيحية ل
 {{% /alert %}}
 
 ### دروس GroupDocs.Annotation
-- [GroupDocs.Annotation  لبرامج .NET التعليمية](../annotation/ar/net/)
+- [GroupDocs.Annotation لبرامج .NET التعليمية](../annotation/ar/net/)
 
 
 ## GroupDocs.Signature
@@ -49,7 +49,7 @@ GroupDocs.Annotation هو حل شامل للتعليقات التوضيحية ل
 {{% /alert %}}
 
 ### دروس GroupDocs.Signature
-- [GroupDocs.Signature  لبرامج .NET التعليمية](../signature/ar/net/)
+- [GroupDocs.Signature لبرامج .NET التعليمية](../signature/ar/net/)
 
 
 ## GroupDocs.Metadata
@@ -58,7 +58,7 @@ GroupDocs.Metadata عبارة عن مكتبة .NET وJava للعمل مع بيا
 {{% /alert %}}
 
 ### دروس GroupDocs.Metadata
-- [GroupDocs.Metadata  لبرامج .NET التعليمية](../metadata/ar/net/)
+- [GroupDocs.Metadata لبرامج .NET التعليمية](../metadata/ar/net/)
 
 
 ## GroupDocs.Merger
@@ -67,7 +67,7 @@ GroupDocs.Merger عبارة عن واجهة برمجة تطبيقات متعدد
 {{% /alert %}}
 
 ### دروس GroupDocs.Merger
-- [GroupDocs.Merger  لبرامج .NET التعليمية](../merger/ar/net/)
+- [GroupDocs.Merger لبرامج .NET التعليمية](../merger/ar/net/)
 
 
 ## GroupDocs.Parser
@@ -76,4 +76,13 @@ GroupDocs.Parser عبارة عن واجهة برمجة تطبيقات متعدد
 {{% /alert %}}
 
 ### دروس GroupDocs.Parser
-- [GroupDocs.Parser  لبرامج .NET التعليمية](../parser/ar/net/)
+- [GroupDocs.Parser لبرامج .NET التعليمية](../parser/ar/net/)
+
+
+## GroupDocs.Editor
+{{% alert color="primary" %}}
+يعد GroupDocs.Editor حلاً متعدد الاستخدامات لتحرير المستندات يمكّن المستخدمين من تحرير مجموعة واسعة من تنسيقات المستندات بسهولة، بما في ذلك Word وExcel وPowerPoint وPDF وHTML، مباشرةً من خلال تطبيقاتهم. فهو يوفر واجهة سهلة الاستخدام وواجهة برمجة تطبيقات قوية للتكامل السلس، مما يسمح بتحرير المستندات وتحويلها ومعالجتها في الوقت الفعلي دون الحاجة إلى برامج إضافية.
+{{% /alert %}}
+
+### دروس GroupDocs.Editor
+- [GroupDocs.Editor لبرامج .NET التعليمية](../editor/ar/net/)
