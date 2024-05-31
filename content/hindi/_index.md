@@ -86,3 +86,12 @@ GroupDocs.Editor एक बहुमुखी दस्तावेज़ सं
 
 ### GroupDocs.Editor ट्यूटोरियल
 - [.NET ट्यूटोरियल के लिए GroupDocs.Editor](../editor/hi/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark एक शक्तिशाली सॉफ़्टवेयर टूल है जिसे विभिन्न दस्तावेज़ प्रारूपों में वॉटरमार्क जोड़ने, खोजने और प्रबंधित करने के लिए डिज़ाइन किया गया है। यह PDF, Word दस्तावेज़, Excel स्प्रेडशीट, PowerPoint प्रस्तुतियाँ और छवियों सहित फ़ाइल प्रकारों की एक विस्तृत श्रृंखला का समर्थन करता है। GroupDocs.Watermark के साथ, उपयोगकर्ता टेक्स्ट या छवि वॉटरमार्क लागू कर सकते हैं, मौजूदा वॉटरमार्क खोज सकते हैं और उन्हें संपादित या हटा सकते हैं।
+{{% /alert %}}
+
+### GroupDocs.Watermark ट्यूटोरियल
+- [.NET ट्यूटोरियल के लिए GroupDocs.Watermark](../watermark/hi/net/)

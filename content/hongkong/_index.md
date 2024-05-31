@@ -86,3 +86,12 @@ GroupDocs.Editor 是一款多功能文件編輯解決方案，使用戶能夠直
 
 ### GroupDocs.Editor 教程
 - [.NET 教學的 GroupDocs.Editor](../editor/zh-hant/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark 是一款功能強大的軟體工具，旨在新增、搜尋和管理各種文件格式的浮水印。它支援多種文件類型，包括 PDF、Word 文件、Excel 電子表格、PowerPoint 簡報和圖像。透過 GroupDocs.Watermark，使用者可以套用文字或影像浮水印、搜尋現有浮水印以及編輯或刪除它們。
+{{% /alert %}}
+
+### GroupDocs.Watermark 教學課程
+- [.NET 教學的 GroupDocs.Watermark](../watermark/zh-hant/net/)

@@ -86,3 +86,12 @@ GroupDocs.Editor เป็นโซลูชันการแก้ไขเอ
 
 ### บทช่วยสอน GroupDocs.Editor
 - [GroupDocs.Editor สำหรับบทช่วยสอน .NET](../editor/th/net/)
+
+
+## GroupDocs.ลายน้ำ
+{{% alert color="primary" %}}
+GroupDocs.Watermark เป็นเครื่องมือซอฟต์แวร์ที่มีประสิทธิภาพซึ่งออกแบบมาเพื่อเพิ่ม ค้นหา และจัดการลายน้ำในรูปแบบเอกสารต่างๆ รองรับไฟล์ได้หลากหลายประเภท รวมถึง PDF, เอกสาร Word, สเปรดชีต Excel, งานนำเสนอ PowerPoint และรูปภาพ ด้วย GroupDocs.Watermark ผู้ใช้สามารถใช้ลายน้ำข้อความหรือรูปภาพ ค้นหาลายน้ำที่มีอยู่ และแก้ไขหรือลบได้
+{{% /alert %}}
+
+### GroupDocs.บทช่วยสอนลายน้ำ
+- [GroupDocs.Watermark สำหรับ .NET บทช่วยสอน](../watermark/th/net/)

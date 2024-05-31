@@ -87,3 +87,12 @@ GroupDocs.Editor je všestranné řešení pro úpravy dokumentů, které uživa
 
 ### Výukové programy GroupDocs.Editor
 - [GroupDocs.Editor pro .NET výukové programy](../editor/cs/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark je výkonný softwarový nástroj určený pro přidávání, vyhledávání a správu vodoznaků v různých formátech dokumentů. Podporuje širokou škálu typů souborů, včetně PDF, dokumentů Word, tabulek Excel, prezentací PowerPoint a obrázků. Pomocí GroupDocs.Watermark mohou uživatelé používat textové nebo obrazové vodoznaky, vyhledávat existující vodoznaky a upravovat je nebo je odstraňovat.
+{{% /alert %}}
+
+### Výukové programy GroupDocs.Watermark
+- [GroupDocs.Watermark pro .NET výukové programy](../watermark/cs/net/)

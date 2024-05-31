@@ -86,3 +86,12 @@ GroupDocs.Editor is een veelzijdige oplossing voor documentbewerking waarmee geb
 
 ### GroupDocs.Editor-tutorials
 - [GroupDocs.Editor voor .NET-zelfstudies](../editor/nl/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark is een krachtige softwaretool die is ontworpen voor het toevoegen, zoeken en beheren van watermerken in verschillende documentformaten. Het ondersteunt een breed scala aan bestandstypen, waaronder PDF's, Word-documenten, Excel-spreadsheets, PowerPoint-presentaties en afbeeldingen. Met GroupDocs.Watermark kunnen gebruikers tekst- of afbeeldingswatermerken toepassen, naar bestaande watermerken zoeken en deze bewerken of verwijderen.
+{{% /alert %}}
+
+### GroupDocs.Watermark-tutorials
+- [GroupDocs.Watermark voor .NET-zelfstudies](../watermark/nl/net/)

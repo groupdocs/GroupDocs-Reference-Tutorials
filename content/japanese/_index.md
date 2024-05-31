@@ -86,3 +86,12 @@ GroupDocs.Editor は、ユーザーが Word、Excel、PowerPoint、PDF、HTML �
 
 ### GroupDocs.Editor チュートリアル
 - [.NET 用の GroupDocs.Editor チュートリアル](../editor/ja/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark は、さまざまなドキュメント形式で透かしを追加、検索、管理するために設計された強力なソフトウェア ツールです。PDF、Word ドキュメント、Excel スプレッドシート、PowerPoint プレゼンテーション、画像など、さまざまなファイル タイプをサポートしています。GroupDocs.Watermark を使用すると、テキストまたは画像の透かしを適用したり、既存の透かしを検索したり、編集または削除したりできます。
+{{% /alert %}}
+
+### GroupDocs.Watermark チュートリアル
+- [GroupDocs.Watermark for .NET チュートリアル](../watermark/ja/net/)

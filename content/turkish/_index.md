@@ -86,3 +86,12 @@ GroupDocs.Editor, kullanıcıların Word, Excel, PowerPoint, PDF ve HTML dahil o
 
 ### GroupDocs.Editör Eğitimleri
 - [.NET Eğitimleri için GroupDocs.Editor](../editor/tr/net/)
+
+
+## GroupDocs.Filigran
+{{% alert color="primary" %}}
+GroupDocs.Watermark, çeşitli belge formatlarındaki filigranları eklemek, aramak ve yönetmek için tasarlanmış güçlü bir yazılım aracıdır. PDF'ler, Word belgeleri, Excel elektronik tabloları, PowerPoint sunumları ve resimler dahil olmak üzere çok çeşitli dosya türlerini destekler. GroupDocs.Watermark ile kullanıcılar metin veya resim filigranları uygulayabilir, mevcut filigranları arayabilir ve bunları düzenleyebilir veya kaldırabilir.
+{{% /alert %}}
+
+### GroupDocs.Filigran Eğitimleri
+- [.NET Eğitimleri için GroupDocs.Watermark](../watermark/tr/net/)

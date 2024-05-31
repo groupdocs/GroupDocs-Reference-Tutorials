@@ -86,3 +86,12 @@ GroupDocs.Editor là một giải pháp chỉnh sửa tài liệu linh hoạt ch
 
 ### Hướng dẫn về GroupDocs.Editor
 - [GroupDocs.Editor cho Hướng dẫn .NET](../editor/vi/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark là một công cụ phần mềm mạnh mẽ được thiết kế để thêm, tìm kiếm và quản lý hình mờ ở nhiều định dạng tài liệu khác nhau. Nó hỗ trợ nhiều loại tệp, bao gồm PDF, tài liệu Word, bảng tính Excel, bản trình bày PowerPoint và hình ảnh. Với GroupDocs.Watermark, người dùng có thể áp dụng hình mờ văn bản hoặc hình ảnh, tìm kiếm hình mờ hiện có và chỉnh sửa hoặc xóa chúng.
+{{% /alert %}}
+
+### Hướng dẫn về GroupDocs.Watermark
+- [Hướng dẫn GroupDocs.Watermark cho .NET](../watermark/vi/net/)

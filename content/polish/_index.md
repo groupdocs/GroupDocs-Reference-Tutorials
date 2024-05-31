@@ -86,3 +86,12 @@ GroupDocs.Editor to wszechstronne rozwiązanie do edycji dokumentów, które umo
 
 ### Poradniki GroupDocs.Editor
 - [GroupDocs.Editor dla samouczków .NET](../editor/pl/net/)
+
+
+## GroupDocs.Znak wodny
+{{% alert color="primary" %}}
+GroupDocs.Watermark to potężne narzędzie programowe przeznaczone do dodawania, wyszukiwania i zarządzania znakami wodnymi w różnych formatach dokumentów. Obsługuje szeroką gamę typów plików, w tym pliki PDF, dokumenty Word, arkusze kalkulacyjne Excel, prezentacje PowerPoint i obrazy. Dzięki GroupDocs.Watermark użytkownicy mogą stosować tekstowe lub graficzne znaki wodne, wyszukiwać istniejące znaki wodne oraz je edytować lub usuwać.
+{{% /alert %}}
+
+### Poradniki GroupDocs.Watermark
+- [GroupDocs.Watermark dla samouczków .NET](../watermark/pl/net/)

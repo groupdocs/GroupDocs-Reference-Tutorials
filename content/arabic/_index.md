@@ -86,3 +86,12 @@ GroupDocs.Parser عبارة عن واجهة برمجة تطبيقات متعدد
 
 ### دروس GroupDocs.Editor
 - [GroupDocs.Editor لبرامج .NET التعليمية](../editor/ar/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark هي أداة برمجية قوية مصممة لإضافة العلامات المائية والبحث فيها وإدارتها في تنسيقات المستندات المختلفة. وهو يدعم مجموعة واسعة من أنواع الملفات، بما في ذلك ملفات PDF ومستندات Word وجداول بيانات Excel وعروض PowerPoint التقديمية والصور. باستخدام GroupDocs.Watermark، يمكن للمستخدمين تطبيق علامات مائية نصية أو صورية، والبحث عن العلامات المائية الموجودة، وتحريرها أو إزالتها.
+{{% /alert %}}
+
+### دروس GroupDocs.Watermark
+- [GroupDocs.Watermark لبرامج .NET التعليمية](../watermark/ar/net/)

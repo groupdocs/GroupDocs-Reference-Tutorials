@@ -86,3 +86,12 @@ GroupDocs.Editor 是一款多功能文档编辑解决方案，使用户能够直
 
 ### GroupDocs.Editor 教程
 - [.NET 教程的 GroupDocs.Editor](../editor/zh/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark 是一款功能强大的软件工具，专为添加、搜索和管理各种文档格式的水印而设计。它支持多种文件类型，包括 PDF、Word 文档、Excel 电子表格、PowerPoint 演示文稿和图像。使用 GroupDocs.Watermark，用户可以应用文本或图像水印、搜索现有水印以及编辑或删除它们。
+{{% /alert %}}
+
+### GroupDocs.Watermark 教程
+- [GroupDocs.Watermark for .NET 教程](../watermark/zh/net/)

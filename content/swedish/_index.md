@@ -86,3 +86,12 @@ GroupDocs.Editor är en mångsidig dokumentredigeringslösning som gör det möj
 
 ### GroupDocs.Editor Tutorials
 - [GroupDocs.Editor för .NET Tutorials](../editor/sv/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark är ett kraftfullt programvaruverktyg utformat för att lägga till, söka och hantera vattenstämplar i olika dokumentformat. Den stöder ett brett utbud av filtyper, inklusive PDF-filer, Word-dokument, Excel-kalkylblad, PowerPoint-presentationer och bilder. Med GroupDocs.Watermark kan användare använda text- eller bildvattenstämplar, söka efter befintliga vattenstämplar och redigera eller ta bort dem.
+{{% /alert %}}
+
+### GroupDocs.Watermark självstudier
+- [GroupDocs.Watermark för .NET självstudier](../watermark/sv/net/)

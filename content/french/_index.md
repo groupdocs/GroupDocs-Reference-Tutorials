@@ -86,3 +86,12 @@ GroupDocs.Editor est une solution d'édition de documents polyvalente qui permet
 
 ### Tutoriels GroupDocs.Editor
 - [GroupDocs.Editor pour les didacticiels .NET](../editor/fr/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark est un outil logiciel puissant conçu pour ajouter, rechercher et gérer des filigranes dans différents formats de documents. Il prend en charge un large éventail de types de fichiers, notamment les PDF, les documents Word, les feuilles de calcul Excel, les présentations PowerPoint et les images. Avec GroupDocs.Watermark, les utilisateurs peuvent appliquer des filigranes de texte ou d'image, rechercher des filigranes existants et les modifier ou les supprimer.
+{{% /alert %}}
+
+### Tutoriels GroupDocs.Watermark
+- [GroupDocs.Watermark pour les didacticiels .NET](../watermark/fr/net/)

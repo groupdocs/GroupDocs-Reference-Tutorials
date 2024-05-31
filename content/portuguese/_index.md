@@ -87,3 +87,12 @@ GroupDocs.Editor é uma solução versátil de edição de documentos que permit
 
 ### Tutoriais do GroupDocs.Editor
 - [Tutoriais do GroupDocs.Editor para .NET](../editor/pt/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark é uma ferramenta de software poderosa projetada para adicionar, pesquisar e gerenciar marcas d'água em vários formatos de documentos. Ele oferece suporte a uma ampla variedade de tipos de arquivos, incluindo PDFs, documentos do Word, planilhas do Excel, apresentações do PowerPoint e imagens. Com GroupDocs.Watermark, os usuários podem aplicar marcas d'água de texto ou imagem, pesquisar marcas d'água existentes e editá-las ou removê-las.
+{{% /alert %}}
+
+### Tutoriais GroupDocs.Watermark
+- [Tutoriais do GroupDocs.Watermark para .NET](../watermark/pt/net/)

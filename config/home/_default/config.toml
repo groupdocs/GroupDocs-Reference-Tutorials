@@ -77,6 +77,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor Tutorials"
 			url = "/editor/"
 			weight = 90
+		[[languages.en.menu.main]]
+			name = "GroupDocs.Watermark Tutorials"
+			url = "/watermark/"
+			weight = 100
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -120,6 +124,10 @@ defaultContentLang = 'en'
 			name = "Учебные пособия по GroupDocs.Editor"
 			url = "/editor/ru/"
 			weight = 90
+		[[languages.ru.menu.main]]
+			name = "Учебные пособия по GroupDocs.Watermark"
+			url = "/watermark/ru/"
+			weight = 100
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = "简体中文"
@@ -167,6 +175,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor 教程"
 			url = "/editor/zh/"
 			weight = 90
+		[[languages.zh.menu.main]]
+			name = "GroupDocs.Watermark 教程"
+			url = "/watermark/zh/"
+			weight = 100
   [languages.ar]
     contentDir = 'content/arabic'
     languageName = "عربي"
@@ -210,6 +222,10 @@ defaultContentLang = 'en'
 			name = "دروس GroupDocs.Editor"
 			url = "/editor/ar/"
 			weight = 90
+		[[languages.ar.menu.main]]
+			name = "دروس GroupDocs.Watermark"
+			url = "/watermark/ar/"
+			weight = 100
   [languages.fr]
     contentDir = 'content/french'
     languageName = "Français"
@@ -253,6 +269,10 @@ defaultContentLang = 'en'
 			name = "Tutoriels GroupDocs.Editor"
 			url = "/editor/fr/"
 			weight = 90
+		[[languages.fr.menu.main]]
+			name = "Tutoriels GroupDocs.Watermark"
+			url = "/watermark/fr/"
+			weight = 100
   [languages.de]
     contentDir = 'content/german'
     languageName = "Deutsch"
@@ -296,6 +316,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor-Tutorials"
 			url = "/editor/de/"
 			weight = 90
+		[[languages.de.menu.main]]
+			name = "GroupDocs.Watermark-Tutorials"
+			url = "/watermark/de/"
+			weight = 100
   [languages.it]
     contentDir = 'content/italian'
     languageName = "Italiano"
@@ -339,6 +363,10 @@ defaultContentLang = 'en'
 			name = "Esercitazioni su GroupDocs.Editor"
 			url = "/editor/it/"
 			weight = 90
+		[[languages.it.menu.main]]
+			name = "Esercitazioni su GroupDocs.Watermark"
+			url = "/watermark/it/"
+			weight = 100
   [languages.es]
     contentDir = 'content/spanish'
     languageName = "Español"
@@ -382,6 +410,10 @@ defaultContentLang = 'en'
 			name = "Tutoriales de GroupDocs.Editor"
 			url = "/editor/es/"
 			weight = 90
+		[[languages.es.menu.main]]
+			name = "Tutoriales de GroupDocs.Watermark"
+			url = "/watermark/es/"
+			weight = 100
   [languages.sv]
     contentDir = 'content/swedish'
     languageName = "Svenska"
@@ -425,6 +457,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor självstudier"
 			url = "/editor/sv/"
 			weight = 90
+		[[languages.sv.menu.main]]
+			name = "GroupDocs.Watermark självstudier"
+			url = "/watermark/sv/"
+			weight = 100
   [languages.tr]
     contentDir = 'content/turkish'
     languageName = "Türkçe"
@@ -468,6 +504,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor Eğitimleri"
 			url = "/editor/tr/"
 			weight = 90
+		[[languages.tr.menu.main]]
+			name = "GroupDocs.Watermark Eğitimleri"
+			url = "/watermark/tr/"
+			weight = 100
   [languages.pt]
     contentDir = 'content/portuguese'
     languageName = "Português"
@@ -511,6 +551,10 @@ defaultContentLang = 'en'
 			name = "Tutoriais de GroupDocs.Editor"
 			url = "/editor/pt/"
 			weight = 90
+		[[languages.pt.menu.main]]
+			name = "Tutoriais de GroupDocs.Watermark"
+			url = "/watermark/pt/"
+			weight = 100
   [languages.ko]
     contentDir = 'content/korean'
     languageName = "한국인"
@@ -554,6 +598,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor 튜토리얼"
 			url = "/editor/ko/"
 			weight = 90
+		[[languages.ko.menu.main]]
+			name = "GroupDocs.Watermark 튜토리얼"
+			url = "/watermark/ko/"
+			weight = 100
   [languages.vi]
     contentDir = 'content/vietnamese'
     languageName = "Tiếng Việt"
@@ -597,6 +645,10 @@ defaultContentLang = 'en'
 			name = "Hướng dẫn chuyển đổi GroupDocs.Editor"
 			url = "/editor/vi/"
 			weight = 90
+		[[languages.vi.menu.main]]
+			name = "Hướng dẫn chuyển đổi GroupDocs.Watermark"
+			url = "/watermark/vi/"
+			weight = 100
   [languages.id]
     contentDir = 'content/indonesian'
     languageName = "Indonesian"
@@ -640,6 +692,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Tutorial Editor"
 			url = "/editor/id/"
 			weight = 90
+		[[languages.id.menu.main]]
+			name = "GroupDocs.Tutorial Watermark"
+			url = "/watermark/id/"
+			weight = 100
   [languages.ja]
     contentDir = 'content/japanese'
     languageName = "日本語"
@@ -683,6 +739,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor チュートリアル"
 			url = "/editor/ja/"
 			weight = 90
+		[[languages.ja.menu.main]]
+			name = "GroupDocs.Watermark チュートリアル"
+			url = "/watermark/ja/"
+			weight = 100
   [languages.pl]
     contentDir = 'content/polish'
     languageName = "Polski"
@@ -726,6 +786,10 @@ defaultContentLang = 'en'
 			name = "Poradniki GroupDocs.Editor"
 			url = "/editor/pl/"
 			weight = 90
+		[[languages.pl.menu.main]]
+			name = "Poradniki GroupDocs.Watermark"
+			url = "/watermark/pl/"
+			weight = 100
   [languages.nl]
     contentDir = 'content/dutch'
     languageName = "Nederlands"
@@ -769,6 +833,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor-zelfstudies"
 			url = "/editor/nl/"
 			weight = 90
+		[[languages.nl.menu.main]]
+			name = "GroupDocs.Watermark-zelfstudies"
+			url = "/watermark/nl/"
+			weight = 100
   [languages.hu]
     contentDir = 'content/hungarian'
     languageName = "Magyar"
@@ -812,6 +880,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor oktatóanyagok"
 			url = "/editor/hu/"
 			weight = 90
+		[[languages.hu.menu.main]]
+			name = "GroupDocs.Watermark oktatóanyagok"
+			url = "/watermark/hu/"
+			weight = 100
   [languages.hi]
     contentDir = 'content/hindi'
     languageName = "हिन्दी"
@@ -855,6 +927,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor ट्यूटोरियल"
 			url = "/editor/hi/"
 			weight = 90
+		[[languages.hi.menu.main]]
+			name = "GroupDocs.Watermark ट्यूटोरियल"
+			url = "/watermark/hi/"
+			weight = 100
   [languages.th]
     contentDir = 'content/thai'
     languageName = "ไทย"
@@ -898,6 +974,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor บทช่วยสอน"
 			url = "/editor/th/"
 			weight = 90
+		[[languages.th.menu.main]]
+			name = "GroupDocs.Watermark บทช่วยสอน"
+			url = "/watermark/th/"
+			weight = 100
   [languages.el]
     contentDir = 'content/greek'
     languageName = "Ελληνικά"
@@ -941,6 +1021,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor Οδηγοί"
 			url = "/editor/el/"
 			weight = 90
+		[[languages.el.menu.main]]
+			name = "GroupDocs.Watermark Οδηγοί"
+			url = "/watermark/el/"
+			weight = 100
   [languages.cs]
     contentDir = 'content/czech'
     languageName = "čeština"
@@ -984,6 +1068,10 @@ defaultContentLang = 'en'
 			name = "Výukové programy GroupDocs.Editor"
 			url = "/editor/cs/"
 			weight = 90
+		[[languages.cs.menu.main]]
+			name = "Výukové programy GroupDocs.Watermark"
+			url = "/watermark/cs/"
+			weight = 100
   [languages.zh-hant]
     contentDir = 'content/hongkong'
     languageName = "繁體中文"
@@ -1027,6 +1115,10 @@ defaultContentLang = 'en'
 			name = "GroupDocs.Editor 教學課程"
 			url = "/editor/zh-hant/"
 			weight = 90
+		[[languags.zh-hant.menu.main]]
+			name = "GroupDocs.Watermark 教學課程"
+			url = "/watermark/zh-hant/"
+			weight = 100
 	
 ignoreFiles = ["(?i:readme.md)", '\.spin$']
 

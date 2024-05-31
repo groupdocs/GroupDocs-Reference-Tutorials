@@ -86,3 +86,12 @@ GroupDocs.Editor는 사용자가 응용 프로그램 내에서 직접 Word, Exce
 
 ### GroupDocs.Editor 튜토리얼
 - [.NET 튜토리얼용 GroupDocs.Editor](../editor/ko/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark는 다양한 문서 형식의 워터마크를 추가, 검색 및 관리하도록 설계된 강력한 소프트웨어 도구입니다. PDF, Word 문서, Excel 스프레드시트, PowerPoint 프리젠테이션 및 이미지를 포함한 광범위한 파일 형식을 지원합니다. GroupDocs.Watermark를 사용하면 사용자는 텍스트 또는 이미지 워터마크를 적용하고, 기존 워터마크를 검색하고, 편집하거나 제거할 수 있습니다.
+{{% /alert %}}
+
+### GroupDocs.Watermark 튜토리얼
+- [.NET 튜토리얼용 GroupDocs.Watermark](../watermark/ko/net/)

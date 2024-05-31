@@ -86,3 +86,12 @@ A GroupDocs.Editor egy sokoldalú dokumentumszerkesztő megoldás, amely lehető
 
 ### GroupDocs.Editor oktatóanyagok
 - [GroupDocs.Editor for .NET oktatóanyagok](../editor/hu/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+A GroupDocs.Watermark egy hatékony szoftvereszköz, amelyet vízjelek hozzáadására, keresésére és kezelésére terveztek különféle dokumentumformátumokban. A fájltípusok széles skáláját támogatja, beleértve a PDF-eket, Word-dokumentumokat, Excel-táblázatokat, PowerPoint-prezentációkat és képeket. A GroupDocs.Watermark segítségével a felhasználók szöveges vagy képi vízjeleket alkalmazhatnak, meglévő vízjeleket kereshetnek, és szerkeszthetik vagy eltávolíthatják azokat.
+{{% /alert %}}
+
+### GroupDocs.Watermark oktatóanyagok
+- [GroupDocs.Watermark for .NET oktatóanyagok](../watermark/hu/net/)

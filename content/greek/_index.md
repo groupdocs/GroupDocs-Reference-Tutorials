@@ -86,3 +86,12 @@ url: /el/
 
 ### GroupDocs.Editor Tutorials
 - [GroupDocs.Editor για .NET Tutorials](../editor/el/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+Το GroupDocs.Watermark είναι ένα ισχυρό εργαλείο λογισμικού σχεδιασμένο για την προσθήκη, αναζήτηση και διαχείριση υδατογραφημάτων σε διάφορες μορφές εγγράφων. Υποστηρίζει ένα ευρύ φάσμα τύπων αρχείων, όπως PDF, έγγραφα Word, υπολογιστικά φύλλα Excel, παρουσιάσεις PowerPoint και εικόνες. Με το GroupDocs.Watermark, οι χρήστες μπορούν να εφαρμόσουν υδατογραφήματα κειμένου ή εικόνας, να αναζητήσουν υπάρχοντα υδατογραφήματα και να τα επεξεργαστούν ή να τα αφαιρέσουν.
+{{% /alert %}}
+
+### GroupDocs.Watermark Tutorials
+- [GroupDocs.Watermark για .NET Tutorials](../watermark/el/net/)

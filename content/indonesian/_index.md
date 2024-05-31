@@ -87,3 +87,12 @@ GroupDocs.Editor adalah solusi pengeditan dokumen serbaguna yang memungkinkan pe
 
 ### GroupDocs.Tutorial Editor
 - [GroupDocs.Editor untuk Tutorial .NET](../editor/id/net/)
+
+
+## GroupDocs.Watermark
+{{% alert color="primary" %}}
+GroupDocs.Watermark adalah alat perangkat lunak canggih yang dirancang untuk menambahkan, mencari, dan mengelola tanda air dalam berbagai format dokumen. Ini mendukung berbagai jenis file, termasuk PDF, dokumen Word, spreadsheet Excel, presentasi PowerPoint, dan gambar. Dengan GroupDocs.Watermark, pengguna dapat menerapkan tanda air teks atau gambar, mencari tanda air yang ada, dan mengedit atau menghapusnya.
+{{% /alert %}}
+
+### GroupDocs.Tutorial Watermark
+- [GroupDocs.Watermark untuk Tutorial .NET](../watermark/id/net/)
