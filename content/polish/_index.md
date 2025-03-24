@@ -2,7 +2,6 @@
 title: Poradniki i fragmenty kodu
 additionalTitle: Referencje API GroupDocs
 description: Samouczki i fragmenty kodu produktów GroupDocs, takich jak GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion i inne produkty.
-type: docs
 weight: 10
 url: /pl/
 ---

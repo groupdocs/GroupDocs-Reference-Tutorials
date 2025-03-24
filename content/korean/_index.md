@@ -2,7 +2,6 @@
 title: 튜토리얼 및 코드 조각
 additionalTitle: GroupDocs API 참조
 description: GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion 및 기타 제품과 같은 GroupDocs 제품의 자습서 및 코드 조각입니다.
-type: docs
 weight: 10
 url: /ko/
 ---

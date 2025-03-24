@@ -2,7 +2,6 @@
 title: البرامج التعليمية ومقتطفات التعليمات البرمجية
 additionalTitle: مراجع واجهة برمجة تطبيقات GroupDocs
 description: البرامج التعليمية ومقتطفات التعليمات البرمجية لمنتجات GroupDocs مثل GroupDocs.Viewer وGroupDocs.Annotation وGroupDocs.Conversion ومنتجات أخرى.
-type: docs
 weight: 10
 url: /ar/
 ---

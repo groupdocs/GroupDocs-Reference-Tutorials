@@ -2,7 +2,6 @@
 title: Учебники и фрагменты кода
 additionalTitle: Ссылки на API GroupDocs
 description: Учебники и фрагменты кода продуктов GroupDocs, таких как GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion и других продуктов.
-type: docs
 weight: 10
 url: /ru/
 ---

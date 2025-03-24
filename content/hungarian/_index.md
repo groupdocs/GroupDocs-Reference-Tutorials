@@ -2,7 +2,6 @@
 title: Oktatóanyagok és kódrészletek
 additionalTitle: GroupDocs API referenciák
 description: A GroupDocs-termékek oktatóanyagai és kódrészletei, mint például a GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion és más termékek.
-type: docs
 weight: 10
 url: /hu/
 ---

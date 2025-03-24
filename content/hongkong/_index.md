@@ -2,7 +2,6 @@
 title: 教學和程式碼片段
 additionalTitle: GroupDocs API 參考
 description: GroupDocs 產品（例如 GroupDocs.Viewer、GroupDocs.Annotation、GroupDocs.Conversion 和其他產品）的教學和程式碼片段。
-type: docs
 weight: 10
 url: /zh-hant/
 ---

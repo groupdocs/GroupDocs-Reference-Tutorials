@@ -2,7 +2,6 @@
 title: Návody a úryvky kódu
 additionalTitle: Reference API GroupDocs
 description: Výukové programy a úryvky kódu produktů GroupDocs, jako jsou GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion a další produkty.
-type: docs
 weight: 10
 url: /cs/
 ---
