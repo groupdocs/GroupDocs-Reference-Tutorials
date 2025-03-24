@@ -2,7 +2,6 @@
 title: Tutoriales y fragmentos de código
 additionalTitle: Referencias de la API de GroupDocs
 description: Tutoriales y fragmentos de código de productos GroupDocs como GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion y otros productos.
-type: docs
 weight: 10
 url: /es/
 ---

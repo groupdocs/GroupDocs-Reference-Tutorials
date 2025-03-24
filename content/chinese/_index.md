@@ -2,7 +2,6 @@
 title: 教程和代码片段
 additionalTitle: GroupDocs API 参考
 description: GroupDocs 产品（例如 GroupDocs.Viewer、GroupDocs.Annotation、GroupDocs.Conversion 和其他产品）的教程和代码片段。
-type: docs
 weight: 10
 url: /zh/
 ---

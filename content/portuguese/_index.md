@@ -2,7 +2,6 @@
 title: Tutoriais e trechos de código
 additionalTitle: Referências da API GroupDocs
 description: Tutoriais e trechos de código de produtos GroupDocs, como GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion e outros produtos.
-type: docs
 weight: 10
 url: /pt/
 ---

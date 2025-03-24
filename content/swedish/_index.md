@@ -2,7 +2,6 @@
 title: Handledningar och kodsnuttar
 additionalTitle: GroupDocs API-referenser
 description: Handledningar och kodsnuttar för GroupDocs-produkter som GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion och andra produkter.
-type: docs
 weight: 10
 url: /sv/
 ---

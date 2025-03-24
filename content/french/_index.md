@@ -2,7 +2,6 @@
 title: Tutoriels et extraits de code
 additionalTitle: Références de l'API GroupDocs
 description: Didacticiels et extraits de code des produits GroupDocs tels que GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion et d'autres produits.
-type: docs
 weight: 10
 url: /fr/
 ---

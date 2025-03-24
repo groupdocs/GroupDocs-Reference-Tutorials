@@ -2,7 +2,6 @@
 title: Tutorial e frammenti di codice
 additionalTitle: Riferimenti API GroupDocs
 description: Tutorial e frammenti di codice dei prodotti GroupDocs come GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion e altri prodotti.
-type: docs
 weight: 10
 url: /it/
 ---

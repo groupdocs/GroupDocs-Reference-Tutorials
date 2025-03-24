@@ -2,7 +2,6 @@
 title: Öğreticiler ve Kod parçacıkları
 additionalTitle: GroupDocs API Referansları
 description: GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion ve diğer ürünler gibi GroupDocs Ürünlerine ilişkin eğitimler ve kod parçacıkları.
-type: docs
 weight: 10
 url: /tr/
 ---

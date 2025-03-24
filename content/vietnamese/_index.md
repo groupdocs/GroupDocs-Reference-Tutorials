@@ -2,7 +2,6 @@
 title: Hướng dẫn và đoạn mã
 additionalTitle: Tài liệu tham khảo API GroupDocs
 description: Hướng dẫn và đoạn mã của Sản phẩm GroupDocs như GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion và các sản phẩm khác.
-type: docs
 weight: 10
 url: /vi/
 ---

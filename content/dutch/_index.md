@@ -2,7 +2,6 @@
 title: Tutorials en codefragmenten
 additionalTitle: GroupDocs API-referenties
 description: Tutorials en codefragmenten van GroupDocs-producten zoals GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion en andere producten.
-type: docs
 weight: 10
 url: /nl/
 ---

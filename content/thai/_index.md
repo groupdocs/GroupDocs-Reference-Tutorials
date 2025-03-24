@@ -2,7 +2,6 @@
 title: บทช่วยสอนและตัวอย่างโค้ด
 additionalTitle: การอ้างอิง GroupDocs API
 description: บทช่วยสอนและตัวอย่างโค้ดของผลิตภัณฑ์ GroupDocs เช่น GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion และผลิตภัณฑ์อื่นๆ
-type: docs
 weight: 10
 url: /th/
 ---

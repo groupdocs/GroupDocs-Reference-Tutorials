@@ -2,7 +2,6 @@
 title: Εκμάθηση και αποσπάσματα κώδικα
 additionalTitle: Αναφορές API GroupDocs
 description: Οδηγοί εκμάθησης και αποσπάσματα κώδικα προϊόντων GroupDocs όπως GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion και άλλα προϊόντα.
-type: docs
 weight: 10
 url: /el/
 ---

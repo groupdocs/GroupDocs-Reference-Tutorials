@@ -2,7 +2,6 @@
 title: チュートリアルとコードスニペット
 additionalTitle: GroupDocs API リファレンス
 description: GroupDocs.Viewer、GroupDocs.Annotation、GroupDocs.Conversion、その他の製品などの GroupDocs 製品のチュートリアルとコード スニペット。
-type: docs
 weight: 10
 url: /ja/
 ---

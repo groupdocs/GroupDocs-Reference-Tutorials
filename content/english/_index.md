@@ -2,7 +2,6 @@
 title: Tutorials and Code-snippets
 additionalTitle: GroupDocs API References
 description: Tutorials and code-snippets of GroupDocs Products such as GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion, and other products.
-type: docs
 weight: 10
 url: /
 ---

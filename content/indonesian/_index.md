@@ -2,7 +2,6 @@
 title: Tutorial dan Cuplikan Kode
 additionalTitle: Referensi API GroupDocs
 description: Tutorial dan cuplikan kode Produk GroupDocs seperti GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion, dan produk lainnya.
-type: docs
 weight: 10
 url: /id/
 ---
