@@ -79,7 +79,7 @@ Implement electronic signatures with support for text, image, digital certificat
 {{% /alert %}}
 
 * [GroupDocs.Signature for .NET Tutorials](./signature/net/)
-* [GroupDocs.Signature for Java Tutorials](#)
+* [GroupDocs.Signature for Java Tutorials](./signature/java/)
 
 ---
 
@@ -92,7 +92,7 @@ Apply, find, and remove watermarks with support for text, image, and shape water
 {{% /alert %}}
 
 * [GroupDocs.Watermark for .NET Tutorials](./watermark/net/)
-* [GroupDocs.Watermark for Java Tutorials](#)
+* [GroupDocs.Watermark for Java Tutorials](./watermark/java/)
 
 ---
 
@@ -104,8 +104,8 @@ Apply, find, and remove watermarks with support for text, image, and shape water
 Securely redact sensitive information with support for text, metadata, and annotation redaction across multiple file formats for compliance requirements.
 {{% /alert %}}
 
-* [GroupDocs.Redaction for .NET Tutorials](#)
-* [GroupDocs.Redaction for Java Tutorials](#)
+* [GroupDocs.Redaction for .NET Tutorials](./redaction/net/)
+* [GroupDocs.Redaction for Java Tutorials](./redaction/java/)
 
 ---
 
@@ -161,7 +161,7 @@ Read, write, edit, and remove metadata in various file formats with support for 
 {{% /alert %}}
 
 * [GroupDocs.Metadata for .NET Tutorials](./metadata/net/)
-* [GroupDocs.Metadata for Java Tutorials](#)
+* [GroupDocs.Metadata for Java Tutorials](./metadata/java/)
 
 ---
 
@@ -173,8 +173,8 @@ Read, write, edit, and remove metadata in various file formats with support for 
 Add fast and accurate document searching with support for complex queries, fuzzy search, synonyms, and multiple file format indexing.
 {{% /alert %}}
 
-* [GroupDocs.Search for .NET Tutorials](#)
-* [GroupDocs.Search for Java Tutorials](#)
+* [GroupDocs.Search for .NET Tutorials](./search/net/)
+* [GroupDocs.Search for Java Tutorials](./search/java/)
 
 ---
 
