@@ -1,22 +1,12 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {{/* Hugo-generated sitemaps */}}
-  {{ range .Site.Sections }}
+  {{/* Homepage sitemap */}}
   <sitemap>
-    <loc>{{ .Permalink }}sitemap.xml</loc>
-    <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+    <loc>{{ .Site.BaseURL }}homepage-sitemap.xml</loc>
+    <lastmod>{{ .Site.LastChange.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
   </sitemap>
-  {{ end }}
   
-  {{/* Main pages sitemap (if you have standalone pages) */}}
-  {{ if .Site.RegularPages }}
-  <sitemap>
-    <loc>{{ .Site.BaseURL }}pages-sitemap.xml</loc>
-    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
-  </sitemap>
-  {{ end }}
-  
-  {{/* Additional GroupDocs tutorial sitemaps */}}
+  {{/* GroupDocs tutorial sitemaps */}}
   <sitemap>
     <loc>https://tutorials.groupdocs.com/viewer/sitemap.xml</loc>
     <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>

@@ -953,16 +953,16 @@ footer_about_disable = false
 
 
 [outputFormats]
-  [outputFormats.PagesSitemap]
+  [outputFormats.HomepageSitemap]
     mediaType = "application/xml"
-    baseName = "pages-sitemap"
+    baseName = "homepage-sitemap"
     isHTML = false
     isPlainText = false
     notAlternative = true
 
 [outputs]
-  home = ["HTML", "SITEMAP", "PagesSitemap"]
-  section = ["HTML", "SITEMAP"]
+  home = ["HTML", "SITEMAP", "HomepageSitemap"]
+
  
 
 [deployment]
