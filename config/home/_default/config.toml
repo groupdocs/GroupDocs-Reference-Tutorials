@@ -951,6 +951,20 @@ footer_about_disable = false
 
 [Taxonomies]
 
+
+[outputFormats]
+  [outputFormats.PagesSitemap]
+    mediaType = "application/xml"
+    baseName = "pages-sitemap"
+    isHTML = false
+    isPlainText = false
+    notAlternative = true
+
+[outputs]
+  home = ["HTML", "SITEMAP", "PagesSitemap"]
+  section = ["HTML", "SITEMAP"]
+ 
+
 [deployment]
 [[deployment.matchers]]
 # Set custom content type for /sitemap.xml

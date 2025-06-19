@@ -1,69 +1,231 @@
 ---
-title: Oktatóanyagok és kódrészletek
-additionalTitle: GroupDocs API referenciák
-description: A GroupDocs-termékek oktatóanyagai és kódrészletei, mint például a GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion és más termékek.
+title: GroupDocs API Oktatóanyagok és Kódrészletek
+additionalTitle: Teljes Fejlesztői Források
+description: Átfogó oktatóanyagok és kódrészletek minden GroupDocs dokumentumkezelő API-hoz. Tanulja meg a dokumentumnézés, konvertálás, összehasonlítás, annotáció és egyebek implementálását .NET és Java alkalmazásaiban.
 weight: 10
 url: /hu/
 ---
 
-## GroupDocs.Viewer
+# GroupDocs API Oktatóanyagok és Kódrészletek
+
+Üdvözöljük a GroupDocs dokumentumkezelő API-k hivatalos oktatóanyag központjában. Ez az átfogó forrás részletes oktatóanyagokat, kódpéldákat és bevált gyakorlatokat nyújt a GroupDocs termékek .NET és Java alkalmazásaiban való implementálásához.
+
 {{% alert color="primary" %}}
-A Groupdocs.Viewer oktatóanyagok átfogó útmutatást adnak a Groupdocs.Viewer kihasználásához, hogy megkönnyítsék a zökkenőmentes dokumentummegtekintést. Fedezze fel a lépésről lépésre szóló útmutatókat és gyakorlati tippeket a Groupdocs.Viewer képességeinek maximalizálásához.
+**FEJLESZTŐI FORRÁSOK:** Az alábbi minden termékszekció .NET és Java oktatóanyagokra mutató linkeket tartalmaz, gyakorlati kódpéldákkal és lépésről lépésre implementációs útmutatókkal.
 {{% /alert %}}
 
-### GroupDocs.Viewer oktatóanyagok
-- [GroupDocs.Viewer .NET oktatóanyagokhoz](../viewer/hu/net/)
+## Dokumentumkezelési Megoldások
 
+### Dokumentumnézés
 
-## GroupDocs.Conversion
+#### [GroupDocs.Viewer](./viewer/hu/)
 {{% alert color="primary" %}}
-A GroupDocs.Conversion oktatóanyagok szakértői útmutatást nyújtanak a GroupDocs.Conversion felhasználásához a sokoldalú dokumentumformátum-konverzióhoz. Tanuljon meg hatékony stratégiákat és bevált módszereket a dokumentumok zökkenőmentes konvertálásához a GroupDocs.Conversion Tutorials segítségével.
+**Bármilyen dokumentumformátum megjelenítése az alkalmazásban**  
+170+ dokumentumformátum renderelése, beleértve a PDF-et, Office fájlokat, CAD rajzokat és képeket, nagy pontosságú renderelésssel és testreszabható UI opciókkal.
 {{% /alert %}}
 
-### GroupDocs.Conversion Tutorials
-- [GroupDocs.Conversion for .NET Tutorials](../conversion/hu/net/)
+* [GroupDocs.Viewer for .NET Oktatóanyagok](./viewer/hu/net/)
+* [GroupDocs.Viewer for Java Oktatóanyagok](./viewer/hu/java/)
 
+---
 
-## GroupDocs.Comparison
+### Dokumentumkonvertálás
+
+#### [GroupDocs.Conversion](./conversion/hu/)
 {{% alert color="primary" %}}
-A GroupDocs.Comparison egy hatékony dokumentum-összehasonlító API, amely lehetővé teszi a fejlesztők számára, hogy programozottan összehasonlítsák és egyesítsék a különböző dokumentumformátumokat, beleértve a Word dokumentumokat, PDF-eket, Excel-táblázatokat és még sok mást.
+**Zökkenőmentes konvertálás dokumentumformátumok között**  
+Dokumentumok átváltása 50+ formátum között nagy pontossággal és teljesítménnyel, támogatva a kötegelt feldolgozást és a kiterjedt testreszabási lehetőségeket.
 {{% /alert %}}
 
-### GroupDocs.Comparison Tutorials
-- [GroupDocs.Comparison for .NET Tutorials](../comparison/hu/net/)
+* [GroupDocs.Conversion for .NET Oktatóanyagok](./conversion/hu/net/)
+* [GroupDocs.Conversion for Java Oktatóanyagok](./conversion/hu/java/)
 
+---
 
-## GroupDocs.Annotation
+### Dokumentum-összehasonlítás
+
+#### [GroupDocs.Comparison](./comparison/hu/)
 {{% alert color="primary" %}}
-A GroupDocs.Annotation egy átfogó dokumentumjegyzet-megoldás, amely lehetővé teszi a felhasználók számára, hogy valós időben megjegyzéseket fűzzenek PDF, Microsoft Office és más népszerű dokumentumformátumokhoz. Számos megjegyzési eszközt kínál, beleértve a szövegkiemelést, a megjegyzéseket, az alakzatok rajzolását és a bélyegek hozzáadását.
+**Dokumentumváltozások észlelése és kiemelése**  
+Dokumentumok összehasonlítása különböző formátumokban bekezdésszintű pontossággal, különbségek kiemelése és részletes összehasonlítási jelentések generálása.
 {{% /alert %}}
 
-### GroupDocs.Annotation oktatóanyagok
-- [GroupDocs.Annotation for .NET Tutorials](../annotation/hu/net/)
+* [GroupDocs.Comparison for .NET Oktatóanyagok](./comparison/hu/net/)
+* [GroupDocs.Comparison for Java Oktatóanyagok](./comparison/hu/java/)
 
+---
 
-## GroupDocs.Aláírás
+### Dokumentum Annotáció
+
+#### [GroupDocs.Annotation](./annotation/hu/)
 {{% alert color="primary" %}}
-A GroupDocs.Signature egy sokoldalú elektronikus aláírási megoldás, amely lehetővé teszi a felhasználók számára a dokumentumok online digitális aláírását. Biztonságos és hatékony módja annak, hogy aláírásokat adjon a különböző fájlformátumokhoz, biztosítva a dokumentumok integritását és hitelességét. A GroupDocs.Signature számos aláírástípust támogat, beleértve a szöveges, képi és digitális aláírásokat.
+**Együttműködésen alapuló dokumentum-áttekintés engedélyezése**  
+Annotációk hozzáadása, szerkesztése és kezelése szövegkiemelés, alakzatok, mutatás, szövegcsere és további funkciók támogatásával több dokumentumformátumon keresztül.
 {{% /alert %}}
 
-### GroupDocs.Signature oktatóanyagok
-- [GroupDocs.Signature for .NET Tutorials](../signature/hu/net/)
+* [GroupDocs.Annotation for .NET Oktatóanyagok](./annotation/hu/net/)
+* [GroupDocs.Annotation for Java Oktatóanyagok](./annotation/hu/java/)
 
+---
 
-## GroupDocs.Metadata
+## Dokumentumbiztonsági Megoldások
+
+### Digitális Aláírások
+
+#### [GroupDocs.Signature](./signature/hu/)
 {{% alert color="primary" %}}
-A GroupDocs.Metadata egy .NET- és Java-könyvtár, amely különféle fájlformátumokhoz, köztük dokumentumokhoz, képekhez, hangokhoz és videókhoz kapcsolódó metaadatok kezeléséhez használható. Lehetővé teszi a felhasználók számára a metaadat-tulajdonságok, például a szerző, a létrehozás dátuma, a címkék és egyebek olvasását, szerkesztését, eltávolítását és összehasonlítását. A könyvtár a fájlformátumok széles skáláját támogatja, így sokoldalú eszköz a különböző típusú fájlok metaadatainak kezelésére.
+**Digitális aláírások hozzáadása dokumentumokhoz**  
+Elektronikus aláírások implementálása szöveg, kép, digitális tanúsítvány, vonalkód, QR kód és bélyegzőaláírások támogatásával különböző dokumentumtípusokban.
 {{% /alert %}}
 
-### GroupDocs.Metadata oktatóanyagok
-- [GroupDocs.Metadata .NET oktatóanyagokhoz](../metadata/hu/net/)
+* [GroupDocs.Signature for .NET Oktatóanyagok](./signature/hu/net/)
+* [GroupDocs.Signature for Java Oktatóanyagok](./signature/hu/java/)
 
+---
 
-## GroupDocs.Merger
+### Információvédelem
+
+#### [GroupDocs.Watermark](./watermark/hu/)
 {{% alert color="primary" %}}
-A GroupDocs.Merger egy sokoldalú dokumentum-manipulációs API, amely lehetővé teszi a fejlesztők számára, hogy programozottan egyesítsék, feloszthassák, kivonják és kezeljék az oldalakat a különböző dokumentumformátumokon belül. Támogatja az olyan népszerű formátumokat, mint a PDF, Microsoft Word, Excel, PowerPoint stb.
+**Dokumentum-vízjelek hozzáadása és kezelése**  
+Vízjelek alkalmazása, keresése és eltávolítása szöveg, kép és alakzat vízjelek támogatásával különböző dokumentumformátumokban a tartalomvédelem érdekében.
 {{% /alert %}}
 
-### GroupDocs.Merger oktatóanyagok
-- [GroupDocs.Merger for .NET Tutorials](../merger/hu/net/)
+* [GroupDocs.Watermark for .NET Oktatóanyagok](./watermark/hu/net/)
+* [GroupDocs.Watermark for Java Oktatóanyagok](./watermark/hu/java/)
+
+---
+
+### Tartalom Szerkesztés
+
+#### [GroupDocs.Redaction](./redaction/hu/)
+{{% alert color="primary" %}}
+**Érzékeny információk eltávolítása dokumentumokból**  
+Érzékeny információk biztonságos szerkesztése szöveg, metaadat és annotáció szerkesztés támogatásával több fájlformátumban a megfelelőségi követelmények teljesítéséhez.
+{{% /alert %}}
+
+* [GroupDocs.Redaction for .NET Oktatóanyagok](./redaction/hu/net/)
+* [GroupDocs.Redaction for Java Oktatóanyagok](./redaction/hu/java/)
+
+---
+
+## Dokumentumfeldolgozási Megoldások
+
+### Dokumentummanipuláció
+
+#### [GroupDocs.Merger](./merger/hu/)
+{{% alert color="primary" %}}
+**Dokumentumoldalak egyesítése, felosztása és kezelése**  
+Több dokumentum kombinálása, nagy fájlok felosztása, oldalak átrendezése és specifikus dokumentumrészek kivonása a dokumentum integritásának megőrzése mellett.
+{{% /alert %}}
+
+* [GroupDocs.Merger for .NET Oktatóanyagok](./merger/hu/net/)
+* [GroupDocs.Merger for Java Oktatóanyagok](./merger/hu/java/)
+
+---
+
+### Dokumentumgenerálás
+
+#### [GroupDocs.Assembly](#)
+{{% alert color="primary" %}}
+**Dokumentumok létrehozása sablonokból és adatokból**  
+Dinamikus jelentések, számlák és személyre szabott dokumentumok generálása sablonok kitöltésével különböző forrásokból származó adatokkal, beleértve az adatbázisokat és JSON-t.
+{{% /alert %}}
+
+* [GroupDocs.Assembly for .NET Oktatóanyagok](#)
+* [GroupDocs.Assembly for Java Oktatóanyagok](#)
+
+---
+
+### Dokumentumszerkesztés
+
+#### [GroupDocs.Editor](./editor/hu/)
+{{% alert color="primary" %}}
+**Dokumentumok szerkesztése webes alkalmazásokban**  
+WYSIWYG dokumentumszerkesztés implementálása különböző dokumentumformátumok támogatásával és zökkenőmentes integráció a népszerű böngészőalapú HTML szerkesztőkkel.
+{{% /alert %}}
+
+* [GroupDocs.Editor for .NET Oktatóanyagok](./editor/hu/net/)
+* [GroupDocs.Editor for Java Oktatóanyagok](./editor/hu/java/)
+
+---
+
+## Információkezelési Megoldások
+
+### Metaadat Kezelés
+
+#### [GroupDocs.Metadata](./metadata/hu/)
+{{% alert color="primary" %}}
+**Dokumentum és média metaadatok kezelése**  
+Metaadatok olvasása, írása, szerkesztése és eltávolítása különböző fájlformátumokban, standard és egyéni metaadat tulajdonságok támogatásával a továbbfejlesztett dokumentumkezelés érdekében.
+{{% /alert %}}
+
+* [GroupDocs.Metadata for .NET Oktatóanyagok](./metadata/hu/net/)
+* [GroupDocs.Metadata for Java Oktatóanyagok](./metadata/hu/java/)
+
+---
+
+### Dokumentumkeresés
+
+#### [GroupDocs.Search](./search/hu/)
+{{% alert color="primary" %}}
+**Hatékony dokumentumkeresési funkció implementálása**  
+Gyors és pontos dokumentumkeresés hozzáadása összetett lekérdezések, fuzzy keresés, szinonimák és többféle fájlformátum indexelés támogatásával.
+{{% /alert %}}
+
+* [GroupDocs.Search for .NET Oktatóanyagok](./search/hu/net/)
+* [GroupDocs.Search for Java Oktatóanyagok](./search/hu/java/)
+
+---
+
+### Tartalom Kinyerés
+
+#### [GroupDocs.Parser](./parser/hu/)
+{{% alert color="primary" %}}
+**Szöveg és adatok kinyerése dokumentumokból**  
+Strukturált és strukturálatlan adatok elemzése különböző dokumentumformátumokból szövegkinyerés, metaadat lekérés és dokumentumelemzés támogatásával.
+{{% /alert %}}
+
+* [GroupDocs.Parser for .NET Oktatóanyagok](./parser/hu/net/)
+* [GroupDocs.Parser for Java Oktatóanyagok](./parser/hu/java/)
+
+---
+
+### Tartalom Osztályozás
+
+#### [GroupDocs.Classification](#)
+{{% alert color="primary" %}}
+**Dokumentumok és szöveg automatikus kategorizálása**  
+Gépi tanuláson alapuló dokumentumosztályozás implementálása IAB-2 taxonómia, dokumentumkategorizáció és hangulatelemzés támogatásával a tartalom szervezéséhez.
+{{% /alert %}}
+
+* [GroupDocs.Classification for .NET Oktatóanyagok](#)
+* [GroupDocs.Classification for Java Oktatóanyagok](#)
+
+---
+
+## Kezdeti Lépések
+
+### Dokumentáció
+
+Átfogó útmutatók és API referenciák minden GroupDocs termékhez.
+
+[API Dokumentáció →](https://reference.groupdocs.com/)
+
+### Kódpéldák
+
+Példaprojektek és implementációk a gyors kezdéshez.
+
+[Megtekintés GitHub-on →](https://github.com/groupdocs)
+
+### Ingyenes Próbaverziók
+
+Töltse le és próbálja ki termékeinket korlátozások nélkül vásárlás előtt.
+
+[Letöltés Most →](https://downloads.groupdocs.com/)
+
+### Fejlesztői Közösség
+
+Szerezzen segítséget és támogatást fejlesztőinktől és más felhasználóktól.
+
+[Csatlakozzon a Fórumhoz →](https://forum.groupdocs.com/)

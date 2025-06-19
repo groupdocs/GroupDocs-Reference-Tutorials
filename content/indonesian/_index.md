@@ -1,70 +1,231 @@
 ---
-title: Tutorial dan Cuplikan Kode
-additionalTitle: Referensi API GroupDocs
-description: Tutorial dan cuplikan kode Produk GroupDocs seperti GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion, dan produk lainnya.
+title: Tutorial GroupDocs API dan Potongan Kode
+additionalTitle: Sumber Daya Lengkap untuk Developer
+description: Tutorial komprehensif dan potongan kode untuk semua API manipulasi dokumen GroupDocs. Pelajari cara mengimplementasikan tampilan dokumen, konversi, perbandingan, anotasi dan lainnya dalam aplikasi .NET dan Java Anda.
 weight: 10
 url: /id/
 ---
 
-## GroupDocs.Penampil
+# Tutorial GroupDocs API dan Potongan Kode
+
+Selamat datang di pusat tutorial resmi untuk API manipulasi dokumen GroupDocs. Sumber daya komprehensif ini menyediakan tutorial terperinci, contoh kode, dan praktik terbaik untuk mengimplementasikan produk GroupDocs dalam aplikasi .NET dan Java Anda.
+
 {{% alert color="primary" %}}
-Tutorial Groupdocs.Viewer memberikan instruksi komprehensif untuk memanfaatkan Groupdocs.Viewer untuk memfasilitasi pengalaman melihat dokumen yang lancar. Jelajahi panduan langkah demi langkah dan tip praktis untuk memaksimalkan kemampuan Groupdocs.Viewer.
+**SUMBER DAYA DEVELOPER:** Setiap bagian produk di bawah ini berisi tautan ke tutorial .NET dan Java, dengan contoh kode praktis dan panduan implementasi langkah demi langkah.
 {{% /alert %}}
 
-### GroupDocs.Tutorial Penampil
-- [GroupDocs.Viewer untuk Tutorial .NET](../viewer/id/net/)
+## Solusi Manajemen Dokumen
 
+### Tampilan Dokumen
 
-## GroupDocs.Konversi
+#### [GroupDocs.Viewer](./viewer/id/)
 {{% alert color="primary" %}}
-Tutorial GroupDocs.Conversion menawarkan panduan ahli dalam memanfaatkan GroupDocs.Conversion untuk konversi format dokumen serbaguna. Pelajari strategi efisien dan praktik terbaik untuk mengonversi dokumen secara lancar dengan GroupDocs.Tutorial Konversi.
+**Tampilkan format dokumen apa pun dalam aplikasi Anda**  
+Render 170+ format dokumen termasuk PDF, file Office, gambar CAD, dan gambar dengan rendering fidelitas tinggi dan opsi UI yang dapat disesuaikan.
 {{% /alert %}}
 
-### GroupDocs.Tutorial Konversi
-- [GroupDocs.Conversion untuk Tutorial .NET](../conversion/id/net/)
+* [Tutorial GroupDocs.Viewer for .NET](./viewer/id/net/)
+* [Tutorial GroupDocs.Viewer for Java](./viewer/id/java/)
 
+---
 
-## GroupDocs.Perbandingan
+### Konversi Dokumen
+
+#### [GroupDocs.Conversion](./conversion/id/)
 {{% alert color="primary" %}}
-GroupDocs.Comparison adalah API perbandingan dokumen canggih yang memungkinkan pengembang membandingkan dan menggabungkan berbagai format dokumen secara terprogram, termasuk dokumen Word, PDF, spreadsheet Excel, dan banyak lagi.
+**Konversi mulus antar format dokumen**  
+Transformasi dokumen antar 50+ format dengan akurasi dan performa tinggi, mendukung pemrosesan batch dan opsi kustomisasi ekstensif.
 {{% /alert %}}
 
-### GroupDocs.Tutorial Perbandingan
-- [GroupDocs.Perbandingan untuk Tutorial .NET](../comparison/id/net/)
+* [Tutorial GroupDocs.Conversion for .NET](./conversion/id/net/)
+* [Tutorial GroupDocs.Conversion for Java](./conversion/id/java/)
 
+---
 
-## GroupDocs.Anotasi
+### Perbandingan Dokumen
+
+#### [GroupDocs.Comparison](./comparison/id/)
 {{% alert color="primary" %}}
-GroupDocs.Annotation adalah solusi anotasi dokumen komprehensif yang memungkinkan pengguna membuat anotasi PDF, Microsoft Office, dan format dokumen populer lainnya secara real-time. Ini menawarkan berbagai alat anotasi termasuk penyorotan teks, komentar, menggambar bentuk, dan menambahkan stempel.
+**Deteksi dan sorot perubahan dokumen**  
+Bandingkan dokumen dalam berbagai format dengan presisi tingkat paragraf, sorot perbedaan, dan buat laporan perbandingan terperinci.
 {{% /alert %}}
 
-### GroupDocs.Tutorial Anotasi
-- [GroupDocs.Annotation untuk Tutorial .NET](../annotation/id/id/net/)
+* [Tutorial GroupDocs.Comparison for .NET](./comparison/id/net/)
+* [Tutorial GroupDocs.Comparison for Java](./comparison/id/java/)
 
+---
 
-## GroupDocs.Tanda Tangan
+### Anotasi Dokumen
+
+#### [GroupDocs.Annotation](./annotation/id/)
 {{% alert color="primary" %}}
-GroupDocs.Signature adalah solusi tanda tangan elektronik serbaguna yang memungkinkan pengguna menandatangani dokumen secara digital secara online. Ini memberikan cara yang aman dan efisien untuk menambahkan tanda tangan ke berbagai format file, memastikan integritas dan keaslian dokumen. GroupDocs.Signature mendukung berbagai jenis tanda tangan, termasuk teks, gambar, dan tanda tangan digital.
-
+**Aktifkan tinjauan dokumen kolaboratif**  
+Tambah, edit, dan kelola anotasi dengan dukungan untuk penyorotan teks, bentuk, penunjukan, penggantian teks, dan lainnya di berbagai format dokumen.
 {{% /alert %}}
 
-### GroupDocs.Tutorial Tanda Tangan
-- [GroupDocs.Signature untuk Tutorial .NET](../signature/id/net/)
+* [Tutorial GroupDocs.Annotation for .NET](./annotation/id/net/)
+* [Tutorial GroupDocs.Annotation for Java](./annotation/id/java/)
 
+---
 
-## GroupDocs.Metadata
+## Solusi Keamanan Dokumen
+
+### Tanda Tangan Digital
+
+#### [GroupDocs.Signature](./signature/id/)
 {{% alert color="primary" %}}
-GroupDocs.Metadata adalah pustaka .NET dan Java untuk bekerja dengan metadata yang terkait dengan berbagai format file, termasuk dokumen, gambar, audio, dan video. Ini memungkinkan pengguna untuk membaca, mengedit, menghapus, dan membandingkan properti metadata seperti penulis, tanggal pembuatan, tag, dan banyak lagi. Pustaka ini mendukung berbagai format file, menjadikannya alat serbaguna untuk mengelola metadata dalam berbagai jenis file.
+**Tambahkan tanda tangan digital ke dokumen**  
+Implementasikan tanda tangan elektronik dengan dukungan untuk teks, gambar, sertifikat digital, barcode, QR code, dan tanda tangan stempel di berbagai jenis dokumen.
 {{% /alert %}}
 
-### GroupDocs.Tutorial Metadata
-- [GroupDocs.Metadata untuk Tutorial .NET](../metadata/id/net/)
+* [Tutorial GroupDocs.Signature for .NET](./signature/id/net/)
+* [Tutorial GroupDocs.Signature for Java](./signature/id/java/)
 
+---
 
-## GroupDocs.Penggabungan
+### Perlindungan Informasi
+
+#### [GroupDocs.Watermark](./watermark/id/)
 {{% alert color="primary" %}}
-GroupDocs.Merger adalah API manipulasi dokumen serbaguna yang memungkinkan pengembang menggabungkan, membagi, mengekstrak, dan memanipulasi halaman dalam berbagai format dokumen secara terprogram. Ini mendukung format populer seperti PDF, Microsoft Word, Excel, PowerPoint, dan banyak lagi.
+**Tambah dan kelola watermark dokumen**  
+Terapkan, temukan, dan hapus watermark dengan dukungan untuk watermark teks, gambar, dan bentuk di berbagai format dokumen untuk perlindungan konten.
 {{% /alert %}}
 
-### GroupDocs.Tutorial Penggabungan
-- [GroupDocs.Merger untuk Tutorial .NET](../merger/id/net/)
+* [Tutorial GroupDocs.Watermark for .NET](./watermark/id/net/)
+* [Tutorial GroupDocs.Watermark for Java](./watermark/id/java/)
+
+---
+
+### Redaksi Konten
+
+#### [GroupDocs.Redaction](./redaction/id/)
+{{% alert color="primary" %}}
+**Hapus informasi sensitif dari dokumen**  
+Redaksi informasi sensitif dengan aman dengan dukungan untuk redaksi teks, metadata, dan anotasi di berbagai format file untuk persyaratan kepatuhan.
+{{% /alert %}}
+
+* [Tutorial GroupDocs.Redaction for .NET](./redaction/id/net/)
+* [Tutorial GroupDocs.Redaction for Java](./redaction/id/java/)
+
+---
+
+## Solusi Pemrosesan Dokumen
+
+### Manipulasi Dokumen
+
+#### [GroupDocs.Merger](./merger/id/)
+{{% alert color="primary" %}}
+**Gabung, pisah, dan kelola halaman dokumen**  
+Kombinasikan beberapa dokumen, pisahkan file besar, susun ulang halaman, dan ekstrak bagian dokumen tertentu sambil mempertahankan integritas dokumen.
+{{% /alert %}}
+
+* [Tutorial GroupDocs.Merger for .NET](./merger/id/net/)
+* [Tutorial GroupDocs.Merger for Java](./merger/id/java/)
+
+---
+
+### Pembuatan Dokumen
+
+#### [GroupDocs.Assembly](#)
+{{% alert color="primary" %}}
+**Buat dokumen dari template dan data**  
+Hasilkan laporan dinamis, invoice, dan dokumen yang dipersonalisasi dengan mengisi template dengan data dari berbagai sumber termasuk database dan JSON.
+{{% /alert %}}
+
+* [Tutorial GroupDocs.Assembly for .NET](#)
+* [Tutorial GroupDocs.Assembly for Java](#)
+
+---
+
+### Pengeditan Dokumen
+
+#### [GroupDocs.Editor](./editor/id/)
+{{% alert color="primary" %}}
+**Edit dokumen dalam aplikasi web**  
+Implementasikan pengeditan dokumen WYSIWYG dengan dukungan untuk berbagai format dokumen dan integrasi mulus dengan editor HTML berbasis browser populer.
+{{% /alert %}}
+
+* [Tutorial GroupDocs.Editor for .NET](./editor/id/net/)
+* [Tutorial GroupDocs.Editor for Java](./editor/id/java/)
+
+---
+
+## Solusi Manajemen Informasi
+
+### Manajemen Metadata
+
+#### [GroupDocs.Metadata](./metadata/id/)
+{{% alert color="primary" %}}
+**Kelola metadata dokumen dan media**  
+Baca, tulis, edit, dan hapus metadata dalam berbagai format file dengan dukungan untuk properti metadata standar dan kustom untuk manajemen dokumen yang ditingkatkan.
+{{% /alert %}}
+
+* [Tutorial GroupDocs.Metadata for .NET](./metadata/id/net/)
+* [Tutorial GroupDocs.Metadata for Java](./metadata/id/java/)
+
+---
+
+### Pencarian Dokumen
+
+#### [GroupDocs.Search](./search/id/)
+{{% alert color="primary" %}}
+**Implementasikan fungsionalitas pencarian dokumen yang kuat**  
+Tambahkan pencarian dokumen yang cepat dan akurat dengan dukungan untuk query kompleks, pencarian fuzzy, sinonim, dan pengindeksan berbagai format file.
+{{% /alert %}}
+
+* [Tutorial GroupDocs.Search for .NET](./search/id/net/)
+* [Tutorial GroupDocs.Search for Java](./search/id/java/)
+
+---
+
+### Ekstraksi Konten
+
+#### [GroupDocs.Parser](./parser/id/)
+{{% alert color="primary" %}}
+**Ekstrak teks dan data dari dokumen**  
+Parse data terstruktur dan tidak terstruktur dari berbagai format dokumen dengan dukungan untuk ekstraksi teks, pengambilan metadata, dan analisis dokumen.
+{{% /alert %}}
+
+* [Tutorial GroupDocs.Parser for .NET](./parser/id/net/)
+* [Tutorial GroupDocs.Parser for Java](./parser/id/java/)
+
+---
+
+### Klasifikasi Konten
+
+#### [GroupDocs.Classification](#)
+{{% alert color="primary" %}}
+**Kategorikan dokumen dan teks secara otomatis**  
+Implementasikan klasifikasi dokumen berbasis machine learning dengan dukungan untuk taksonomi IAB-2, kategorisasi dokumen, dan analisis sentimen untuk organisasi konten.
+{{% /alert %}}
+
+* [Tutorial GroupDocs.Classification for .NET](#)
+* [Tutorial GroupDocs.Classification for Java](#)
+
+---
+
+## Memulai
+
+### Dokumentasi
+
+Panduan komprehensif dan referensi API untuk semua produk GroupDocs.
+
+[Dokumentasi API →](https://reference.groupdocs.com/)
+
+### Contoh Kode
+
+Proyek contoh dan implementasi untuk membantu Anda memulai dengan cepat.
+
+[Lihat di GitHub →](https://github.com/groupdocs)
+
+### Uji Coba Gratis
+
+Unduh dan coba produk kami tanpa batasan sebelum membeli.
+
+[Unduh Sekarang →](https://downloads.groupdocs.com/)
+
+### Komunitas Developer
+
+Dapatkan bantuan dan dukungan dari developer kami dan pengguna lain.
+
+[Bergabung dengan Forum →](https://forum.groupdocs.com/)

@@ -1,69 +1,231 @@
 ---
-title: ट्यूटोरियल और कोड-स्निपेट
-additionalTitle: ग्रुपडॉक्स एपीआई संदर्भ
-description: GroupDocs उत्पादों जैसे GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion, और अन्य उत्पादों के ट्यूटोरियल और कोड-स्निपेट।
+title: GroupDocs API Tutorials और Code Snippets
+additionalTitle: डेवलपर्स के लिए संपूर्ण संसाधन
+description: सभी GroupDocs दस्तावेज़ प्रबंधन APIs के लिए व्यापक tutorials और code snippets। अपने .NET और Java applications में दस्तावेज़ viewing, conversion, comparison, annotation और अधिक को implement करना सीखें।
 weight: 10
 url: /hi/
 ---
 
-## GroupDocs.Viewer
+# GroupDocs API Tutorials और Code Snippets
+
+GroupDocs दस्तावेज़ प्रबंधन APIs के आधिकारिक tutorial केंद्र में आपका स्वागत है। यह व्यापक संसाधन आपके .NET और Java applications में GroupDocs उत्पादों को implement करने के लिए विस्तृत tutorials, code examples और best practices प्रदान करता है।
+
 {{% alert color="primary" %}}
-Groupdocs.Viewer ट्यूटोरियल निर्बाध दस्तावेज़ देखने के अनुभवों को सुविधाजनक बनाने के लिए Groupdocs.Viewer का लाभ उठाने के लिए व्यापक निर्देश प्रदान करते हैं। Groupdocs.Viewer की क्षमताओं को अधिकतम करने के लिए चरण-दर-चरण मार्गदर्शिकाएँ और व्यावहारिक युक्तियाँ देखें।
+**डेवलपर संसाधन:** नीचे दिए गए प्रत्येक उत्पाद अनुभाग में .NET और Java tutorials के links हैं, जिनमें व्यावहारिक code examples और step-by-step implementation guides शामिल हैं।
 {{% /alert %}}
 
-### GroupDocs.व्यूअर ट्यूटोरियल
-- [.NET ट्यूटोरियल के लिए GroupDocs.Viewer](../viewer/hi/net/)
+## दस्तावेज़ प्रबंधन समाधान
 
+### दस्तावेज़ Viewing
 
-## GroupDocs.रूपांतरण
+#### [GroupDocs.Viewer](./viewer/hi/)
 {{% alert color="primary" %}}
-GroupDocs.Conversion ट्यूटोरियल बहुमुखी दस्तावेज़ प्रारूप रूपांतरणों के लिए GroupDocs.Conversion का उपयोग करने पर विशेषज्ञ मार्गदर्शन प्रदान करते हैं। GroupDocs.Conversion ट्यूटोरियल्स के साथ दस्तावेज़ों को निर्बाध रूप से परिवर्तित करने के लिए कुशल रणनीतियाँ और सर्वोत्तम अभ्यास सीखें।
+**अपने application में किसी भी दस्तावेज़ format को display करें**  
+PDF, Office files, CAD drawings और images सहित 170+ दस्तावेज़ formats को high fidelity rendering और customizable UI options के साथ render करें।
 {{% /alert %}}
 
-### GroupDocs.रूपांतरण ट्यूटोरियल
-- [.NET ट्यूटोरियल के लिए GroupDocs.रूपांतरण](../conversion/hi/net/)
+* [GroupDocs.Viewer for .NET Tutorials](./viewer/hi/net/)
+* [GroupDocs.Viewer for Java Tutorials](./viewer/hi/java/)
 
+---
 
-## GroupDocs.तुलना
+### दस्तावेज़ Conversion
+
+#### [GroupDocs.Conversion](./conversion/hi/)
 {{% alert color="primary" %}}
-GroupDocs.Comparison एक शक्तिशाली दस्तावेज़ तुलना एपीआई है जो डेवलपर्स को वर्ड दस्तावेज़, पीडीएफ, एक्सेल स्प्रेडशीट और अन्य सहित विभिन्न दस्तावेज़ प्रारूपों की प्रोग्रामेटिक रूप से तुलना और विलय करने की अनुमति देता है।
+**दस्तावेज़ formats के बीच seamless conversion**  
+50+ formats के बीच उच्च accuracy और performance के साथ दस्तावेज़ों को transform करें, batch processing और extensive customization options का समर्थन करता है।
 {{% /alert %}}
 
-### GroupDocs.तुलना ट्यूटोरियल
-- [.NET ट्यूटोरियल के लिए GroupDocs.तुलना](../comparison/hi/net/)
+* [GroupDocs.Conversion for .NET Tutorials](./conversion/hi/net/)
+* [GroupDocs.Conversion for Java Tutorials](./conversion/hi/java/)
 
+---
 
-## GroupDocs.एनोटेशन
+### दस्तावेज़ Comparison
+
+#### [GroupDocs.Comparison](./comparison/hi/)
 {{% alert color="primary" %}}
-GroupDocs.Annotation एक व्यापक दस्तावेज़ एनोटेशन समाधान है जो उपयोगकर्ताओं को वास्तविक समय में पीडीएफ, माइक्रोसॉफ्ट ऑफिस और अन्य लोकप्रिय दस्तावेज़ प्रारूपों को एनोटेट करने की अनुमति देता है। यह एनोटेशन टूल की एक श्रृंखला प्रदान करता है जिसमें टेक्स्ट हाइलाइटिंग, टिप्पणी करना, आकृतियाँ बनाना और स्टैम्प जोड़ना शामिल है।
+**दस्तावेज़ changes को detect और highlight करें**  
+paragraph-level precision के साथ विभिन्न formats में दस्तावेज़ों की तुलना करें, differences को highlight करें और detailed comparison reports generate करें।
 {{% /alert %}}
 
-### GroupDocs.एनोटेशन ट्यूटोरियल
-- [.NET ट्यूटोरियल के लिए GroupDocs.Annotation](../annotation/hi/net/)
+* [GroupDocs.Comparison for .NET Tutorials](./comparison/hi/net/)
+* [GroupDocs.Comparison for Java Tutorials](./comparison/hi/java/)
 
+---
 
-## ग्रुपडॉक्स.हस्ताक्षर
+### दस्तावेज़ Annotation
+
+#### [GroupDocs.Annotation](./annotation/hi/)
 {{% alert color="primary" %}}
-GroupDocs.Signature एक बहुमुखी इलेक्ट्रॉनिक हस्ताक्षर समाधान है जो उपयोगकर्ताओं को दस्तावेज़ों पर ऑनलाइन डिजिटल हस्ताक्षर करने में सक्षम बनाता है। यह दस्तावेज़ की अखंडता और प्रामाणिकता सुनिश्चित करते हुए, विभिन्न फ़ाइल स्वरूपों में हस्ताक्षर जोड़ने का एक सुरक्षित और कुशल तरीका प्रदान करता है। GroupDocs.Signature टेक्स्ट, छवि और डिजिटल हस्ताक्षर सहित कई प्रकार के हस्ताक्षरों का समर्थन करता है।
+**Collaborative दस्तावेज़ review enable करें**  
+Multiple document formats में text highlighting, shapes, pointing, text replacement और अधिक के साथ annotations को add, edit और manage करें।
 {{% /alert %}}
 
-### GroupDocs.हस्ताक्षर ट्यूटोरियल
-- [.NET ट्यूटोरियल के लिए GroupDocs.Signature](../signature/hi/net/)
+* [GroupDocs.Annotation for .NET Tutorials](./annotation/hi/net/)
+* [GroupDocs.Annotation for Java Tutorials](./annotation/hi/java/)
 
+---
 
-## GroupDocs.मेटाडेटा
+## दस्तावेज़ सुरक्षा समाधान
+
+### Digital Signatures
+
+#### [GroupDocs.Signature](./signature/hi/)
 {{% alert color="primary" %}}
-GroupDocs.Metadata दस्तावेज़ों, छवियों, ऑडियो और वीडियो सहित विभिन्न फ़ाइल स्वरूपों से जुड़े मेटाडेटा के साथ काम करने के लिए एक .NET और जावा लाइब्रेरी है। यह उपयोगकर्ताओं को मेटाडेटा गुणों जैसे लेखक, निर्माण तिथि, टैग और बहुत कुछ को पढ़ने, संपादित करने, हटाने और तुलना करने में सक्षम बनाता है। लाइब्रेरी फ़ाइल स्वरूपों की एक विस्तृत श्रृंखला का समर्थन करती है, जो इसे विभिन्न प्रकार की फ़ाइलों के भीतर मेटाडेटा के प्रबंधन के लिए एक बहुमुखी उपकरण बनाती है।
+**दस्तावेज़ों में digital signatures जोड़ें**  
+विभिन्न document types में text, image, digital certificate, barcode, QR code और stamp signatures के साथ electronic signatures implement करें।
 {{% /alert %}}
 
-### GroupDocs.मेटाडेटा ट्यूटोरियल
-- [.NET ट्यूटोरियल के लिए GroupDocs.Metadata](../metadata/hi/net/)
+* [GroupDocs.Signature for .NET Tutorials](./signature/hi/net/)
+* [GroupDocs.Signature for Java Tutorials](./signature/hi/java/)
 
+---
 
-## GroupDocs.Merger
+### सूचना सुरक्षा
+
+#### [GroupDocs.Watermark](./watermark/hi/)
 {{% alert color="primary" %}}
-GroupDocs.Merger एक बहुमुखी दस्तावेज़ हेरफेर एपीआई है जो डेवलपर्स को प्रोग्रामेटिक रूप से विभिन्न दस्तावेज़ प्रारूपों के भीतर पृष्ठों को मर्ज करने, विभाजित करने, निकालने और हेरफेर करने की अनुमति देता है। यह पीडीएफ, माइक्रोसॉफ्ट वर्ड, एक्सेल, पावरपॉइंट और अन्य जैसे लोकप्रिय प्रारूपों का समर्थन करता है।
+**दस्तावेज़ watermarks जोड़ें और manage करें**  
+Content protection के लिए विभिन्न document formats में text, image और shape watermarks के साथ watermarks को apply, find और remove करें।
 {{% /alert %}}
 
-### GroupDocs.विलय ट्यूटोरियल
-- [.NET ट्यूटोरियल के लिए GroupDocs.Merger](../merger/hi/net/)
+* [GroupDocs.Watermark for .NET Tutorials](./watermark/hi/net/)
+* [GroupDocs.Watermark for Java Tutorials](./watermark/hi/java/)
+
+---
+
+### Content Redaction
+
+#### [GroupDocs.Redaction](./redaction/hi/)
+{{% alert color="primary" %}}
+**दस्तावेज़ों से sensitive information हटाएं**  
+Compliance requirements के लिए multiple file formats में text, metadata और annotation redaction के साथ sensitive information को securely redact करें।
+{{% /alert %}}
+
+* [GroupDocs.Redaction for .NET Tutorials](./redaction/hi/net/)
+* [GroupDocs.Redaction for Java Tutorials](./redaction/hi/java/)
+
+---
+
+## दस्तावेज़ प्रसंस्करण समाधान
+
+### दस्तावेज़ Manipulation
+
+#### [GroupDocs.Merger](./merger/hi/)
+{{% alert color="primary" %}}
+**दस्तावेज़ pages को join, split और manage करें**  
+Document integrity को maintain करते हुए multiple documents को combine करें, बड़ी files को split करें, pages को reorder करें और specific document sections को extract करें।
+{{% /alert %}}
+
+* [GroupDocs.Merger for .NET Tutorials](./merger/hi/net/)
+* [GroupDocs.Merger for Java Tutorials](./merger/hi/java/)
+
+---
+
+### दस्तावेज़ Generation
+
+#### [GroupDocs.Assembly](#)
+{{% alert color="primary" %}}
+**Templates और data से documents create करें**  
+Databases और JSON सहित विभिन्न sources के data के साथ templates को populate करके dynamic reports, invoices और personalized documents generate करें।
+{{% /alert %}}
+
+* [GroupDocs.Assembly for .NET Tutorials](#)
+* [GroupDocs.Assembly for Java Tutorials](#)
+
+---
+
+### दस्तावेज़ Editing
+
+#### [GroupDocs.Editor](./editor/hi/)
+{{% alert color="primary" %}}
+**Web applications में documents edit करें**  
+विभिन्न document formats के साथ WYSIWYG document editing को implement करें और popular browser-based HTML editors के साथ seamless integration करें।
+{{% /alert %}}
+
+* [GroupDocs.Editor for .NET Tutorials](./editor/hi/net/)
+* [GroupDocs.Editor for Java Tutorials](./editor/hi/java/)
+
+---
+
+## सूचना प्रबंधन समाधान
+
+### Metadata Management
+
+#### [GroupDocs.Metadata](./metadata/hi/)
+{{% alert color="primary" %}}
+**दस्तावेज़ और media metadata manage करें**  
+Enhanced document management के लिए standard और custom metadata properties के साथ विभिन्न file formats में metadata को read, write, edit और remove करें।
+{{% /alert %}}
+
+* [GroupDocs.Metadata for .NET Tutorials](./metadata/hi/net/)
+* [GroupDocs.Metadata for Java Tutorials](./metadata/hi/java/)
+
+---
+
+### दस्तावेज़ Search
+
+#### [GroupDocs.Search](./search/hi/)
+{{% alert color="primary" %}}
+**Powerful document search functionality implement करें**  
+Complex queries, fuzzy search, synonyms और multiple file format indexing के साथ fast और accurate document searching जोड़ें।
+{{% /alert %}}
+
+* [GroupDocs.Search for .NET Tutorials](./search/hi/net/)
+* [GroupDocs.Search for Java Tutorials](./search/hi/java/)
+
+---
+
+### Content Extraction
+
+#### [GroupDocs.Parser](./parser/hi/)
+{{% alert color="primary" %}}
+**दस्तावेज़ों से text और data extract करें**  
+Text extraction, metadata retrieval और document analysis के साथ विभिन्न document formats से structured और unstructured data को parse करें।
+{{% /alert %}}
+
+* [GroupDocs.Parser for .NET Tutorials](./parser/hi/net/)
+* [GroupDocs.Parser for Java Tutorials](./parser/hi/java/)
+
+---
+
+### Content Classification
+
+#### [GroupDocs.Classification](#)
+{{% alert color="primary" %}}
+**Documents और text को automatically categorize करें**  
+Content organization के लिए IAB-2 taxonomy, document categorization और sentiment analysis के साथ machine learning-based document classification implement करें।
+{{% /alert %}}
+
+* [GroupDocs.Classification for .NET Tutorials](#)
+* [GroupDocs.Classification for Java Tutorials](#)
+
+---
+
+## शुरुआत करना
+
+### Documentation
+
+सभी GroupDocs products के लिए comprehensive guides और API references।
+
+[API Documentation →](https://reference.groupdocs.com/)
+
+### Code Examples
+
+जल्दी शुरुआत करने में मदद के लिए example projects और implementations।
+
+[GitHub पर देखें →](https://github.com/groupdocs)
+
+### मुफ्त Trials
+
+खरीदने से पहले हमारे products को बिना किसी सीमा के download और try करें।
+
+[अभी Download करें →](https://downloads.groupdocs.com/)
+
+### Developer Community
+
+हमारे developers और अन्य users से help और support प्राप्त करें।
+
+[Forum में join करें →](https://forum.groupdocs.com/)

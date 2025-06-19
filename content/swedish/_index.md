@@ -1,69 +1,231 @@
 ---
-title: Handledningar och kodsnuttar
-additionalTitle: GroupDocs API-referenser
-description: Handledningar och kodsnuttar för GroupDocs-produkter som GroupDocs.Viewer, GroupDocs.Annotation, GroupDocs.Conversion och andra produkter.
+title: GroupDocs API Handledningar och Kodsnuttar
+additionalTitle: Kompletta Utvecklarresurser
+description: Omfattande handledningar och kodsnuttar för alla GroupDocs dokumentmanipulations-API:er. Lär dig implementera dokumentvisning, konvertering, jämförelse, annotering och mer i dina .NET och Java-applikationer.
 weight: 10
 url: /sv/
 ---
 
-## GroupDocs.Viewer
+# GroupDocs API Handledningar och Kodsnuttar
+
+Välkommen till det officiella handledningscentret för GroupDocs dokumentmanipulations-API:er. Denna omfattande resurs tillhandahåller detaljerade handledningar, kodexempel och bästa praxis för att implementera GroupDocs-produkter i dina .NET och Java-applikationer.
+
 {{% alert color="primary" %}}
-Groupdocs.Viewer Tutorials ger omfattande instruktioner för hur du använder Groupdocs.Viewer för att underlätta sömlös dokumentvisning. Utforska steg-för-steg-guider och praktiska tips för att maximera funktionerna i Groupdocs.Viewer.
+**UTVECKLARRESURSER:** Varje produktsektion nedan innehåller länkar till .NET och Java handledningar, med praktiska kodexempel och steg-för-steg implementationsguider.
 {{% /alert %}}
 
-### GroupDocs.Viewer självstudier
-- [GroupDocs.Viewer för .NET självstudier](../viewer/sv/net/)
+## Dokumenthanteringslösningar
 
+### Dokumentvisning
 
-## GroupDocs.Conversion
+#### [GroupDocs.Viewer](./viewer/sv/)
 {{% alert color="primary" %}}
-GroupDocs.Conversion Tutorials erbjuder expertvägledning om hur du använder GroupDocs.Conversion för mångsidiga dokumentformatkonverteringar. Lär dig effektiva strategier och bästa praxis för att konvertera dokument sömlöst med GroupDocs.Conversion Tutorials.
+**Visa alla dokumentformat i din applikation**  
+Rendera 170+ dokumentformat inklusive PDF, Office-filer, CAD-ritningar och bilder med högkvalitativ rendering och anpassningsbara UI-alternativ.
 {{% /alert %}}
 
-### GroupDocs.Conversion Tutorials
-- [Instruktioner för GroupDocs.Conversion för .NET](../conversion/sv/net/)
+* [GroupDocs.Viewer for .NET Handledningar](./viewer/sv/net/)
+* [GroupDocs.Viewer for Java Handledningar](./viewer/sv/java/)
 
+---
 
-## GroupDocs.Comparison
+### Dokumentkonvertering
+
+#### [GroupDocs.Conversion](./conversion/sv/)
 {{% alert color="primary" %}}
-GroupDocs.Comparison är ett kraftfullt dokumentjämförelse-API som tillåter utvecklare att programmatiskt jämföra och slå samman olika dokumentformat, inklusive Word-dokument, PDF-filer, Excel-kalkylblad och mer.
+**Sömlös konvertering mellan dokumentformat**  
+Transformera dokument mellan 50+ format med hög noggrannhet och prestanda, stöder batchbearbetning och omfattande anpassningsalternativ.
 {{% /alert %}}
 
-### GroupDocs.Comparison Tutorials
-- [GroupDocs.Comparison för .NET Tutorials](../comparison/sv/net/)
+* [GroupDocs.Conversion for .NET Handledningar](./conversion/sv/net/)
+* [GroupDocs.Conversion for Java Handledningar](./conversion/sv/java/)
 
+---
 
-## GroupDocs.Annotation
+### Dokumentjämförelse
+
+#### [GroupDocs.Comparison](./comparison/sv/)
 {{% alert color="primary" %}}
-GroupDocs.Annotation är en omfattande lösning för dokumentkommentarer som tillåter användare att kommentera PDF, Microsoft Office och andra populära dokumentformat i realtid. Den erbjuder en rad anteckningsverktyg, inklusive textmarkering, kommentering, ritning av former och att lägga till stämplar.
+**Upptäck och markera dokumentändringar**  
+Jämför dokument i olika format med styckenivåprecision, markera skillnader och generera detaljerade jämförelserapporter.
 {{% /alert %}}
 
-### Handledningar för GroupDocs.Annotation
-- [GroupDocs.Annotation för .NET Tutorials](../annotation/sv/net/)
+* [GroupDocs.Comparison for .NET Handledningar](./comparison/sv/net/)
+* [GroupDocs.Comparison for Java Handledningar](./comparison/sv/java/)
 
+---
 
-## GroupDocs.Signature
+### Dokumentannotering
+
+#### [GroupDocs.Annotation](./annotation/sv/)
 {{% alert color="primary" %}}
-GroupDocs.Signature är en mångsidig elektronisk signaturlösning som gör det möjligt för användare att digitalt signera dokument online. Det ger ett säkert och effektivt sätt att lägga till signaturer till olika filformat, vilket säkerställer dokumentintegritet och äkthet. GroupDocs.Signature stöder en rad olika signaturtyper, inklusive text, bild och digitala signaturer.
+**Aktivera kollaborativ dokumentgranskning**  
+Lägg till, redigera och hantera anteckningar med stöd för textmarkering, former, pekande, textbyte och mer över flera dokumentformat.
 {{% /alert %}}
 
-### GroupDocs.Signature Tutorials
-- [GroupDocs.Signature för .NET självstudier](../signature/sv/net/)
+* [GroupDocs.Annotation for .NET Handledningar](./annotation/sv/net/)
+* [GroupDocs.Annotation for Java Handledningar](./annotation/sv/java/)
 
+---
 
-## GroupDocs.Metadata
+## Dokumentsäkerhetslösningar
+
+### Digitala Signaturer
+
+#### [GroupDocs.Signature](./signature/sv/)
 {{% alert color="primary" %}}
-GroupDocs.Metadata är ett .NET- och Java-bibliotek för att arbeta med metadata associerade med olika filformat, inklusive dokument, bilder, ljud och video. Det gör det möjligt för användare att läsa, redigera, ta bort och jämföra metadataegenskaper som författare, skapat datum, taggar och mer. Biblioteket stöder ett brett utbud av filformat, vilket gör det till ett mångsidigt verktyg för att hantera metadata inom olika typer av filer.
+**Lägg till digitala signaturer till dokument**  
+Implementera elektroniska signaturer med stöd för text, bild, digitalt certifikat, streckkod, QR-kod och stämpelsignaturer över olika dokumenttyper.
 {{% /alert %}}
 
-### GroupDocs.Metadata självstudier
-- [GroupDocs.Metadata för .NET självstudier](../metadata/sv/net/)
+* [GroupDocs.Signature for .NET Handledningar](./signature/sv/net/)
+* [GroupDocs.Signature for Java Handledningar](./signature/sv/java/)
 
+---
 
-## GroupDocs.Merger
+### Informationsskydd
+
+#### [GroupDocs.Watermark](./watermark/sv/)
 {{% alert color="primary" %}}
-GroupDocs.Merger är ett mångsidigt API för dokumentmanipulering som låter utvecklare slå samman, dela, extrahera och manipulera sidor inom olika dokumentformat programmatiskt. Den stöder populära format som PDF, Microsoft Word, Excel, PowerPoint och mer.
+**Lägg till och hantera dokumentvattenstämplar**  
+Applicera, hitta och ta bort vattenstämplar med stöd för text-, bild- och formvattenstämplar över olika dokumentformat för innehållsskydd.
 {{% /alert %}}
 
-### GroupDocs.Merger Tutorials
-- [GroupDocs.Merger för .NET Tutorials](../merger/sv/net/)
+* [GroupDocs.Watermark for .NET Handledningar](./watermark/sv/net/)
+* [GroupDocs.Watermark for Java Handledningar](./watermark/sv/java/)
+
+---
+
+### Innehållsredigering
+
+#### [GroupDocs.Redaction](./redaction/sv/)
+{{% alert color="primary" %}}
+**Ta bort känslig information från dokument**  
+Redigera känslig information säkert med stöd för text-, metadata- och anteckningsredigering över flera filformat för efterlevnadskrav.
+{{% /alert %}}
+
+* [GroupDocs.Redaction for .NET Handledningar](./redaction/sv/net/)
+* [GroupDocs.Redaction for Java Handledningar](./redaction/sv/java/)
+
+---
+
+## Dokumentbearbetningslösningar
+
+### Dokumentmanipulation
+
+#### [GroupDocs.Merger](./merger/sv/)
+{{% alert color="primary" %}}
+**Slå samman, dela och hantera dokumentsidor**  
+Kombinera flera dokument, dela stora filer, omordna sidor och extrahera specifika dokumentsektioner samtidigt som dokumentintegriteten bevaras.
+{{% /alert %}}
+
+* [GroupDocs.Merger for .NET Handledningar](./merger/sv/net/)
+* [GroupDocs.Merger for Java Handledningar](./merger/sv/java/)
+
+---
+
+### Dokumentgenerering
+
+#### [GroupDocs.Assembly](#)
+{{% alert color="primary" %}}
+**Skapa dokument från mallar och data**  
+Generera dynamiska rapporter, fakturor och personliga dokument genom att fylla mallar med data från olika källor inklusive databaser och JSON.
+{{% /alert %}}
+
+* [GroupDocs.Assembly for .NET Handledningar](#)
+* [GroupDocs.Assembly for Java Handledningar](#)
+
+---
+
+### Dokumentredigering
+
+#### [GroupDocs.Editor](./editor/sv/)
+{{% alert color="primary" %}}
+**Redigera dokument i webbapplikationer**  
+Implementera WYSIWYG-dokumentredigering med stöd för olika dokumentformat och sömlös integration med populära webbläsarbaserade HTML-redigerare.
+{{% /alert %}}
+
+* [GroupDocs.Editor for .NET Handledningar](./editor/sv/net/)
+* [GroupDocs.Editor for Java Handledningar](./editor/sv/java/)
+
+---
+
+## Informationshanteringslösningar
+
+### Metadatahantering
+
+#### [GroupDocs.Metadata](./metadata/sv/)
+{{% alert color="primary" %}}
+**Hantera dokument- och mediametadata**  
+Läs, skriv, redigera och ta bort metadata i olika filformat med stöd för standard- och anpassade metadataegenskaper för förbättrad dokumenthantering.
+{{% /alert %}}
+
+* [GroupDocs.Metadata for .NET Handledningar](./metadata/sv/net/)
+* [GroupDocs.Metadata for Java Handledningar](./metadata/sv/java/)
+
+---
+
+### Dokumentsökning
+
+#### [GroupDocs.Search](./search/sv/)
+{{% alert color="primary" %}}
+**Implementera kraftfull dokumentsökfunktionalitet**  
+Lägg till snabb och noggrann dokumentsökning med stöd för komplexa frågor, fuzzy-sökning, synonymer och indexering av flera filformat.
+{{% /alert %}}
+
+* [GroupDocs.Search for .NET Handledningar](./search/sv/net/)
+* [GroupDocs.Search for Java Handledningar](./search/sv/java/)
+
+---
+
+### Innehållsextraktion
+
+#### [GroupDocs.Parser](./parser/sv/)
+{{% alert color="primary" %}}
+**Extrahera text och data från dokument**  
+Parsa strukturerad och ostrukturerad data från olika dokumentformat med stöd för textextraktion, metadatahämtning och dokumentanalys.
+{{% /alert %}}
+
+* [GroupDocs.Parser for .NET Handledningar](./parser/sv/net/)
+* [GroupDocs.Parser for Java Handledningar](./parser/sv/java/)
+
+---
+
+### Innehållsklassificering
+
+#### [GroupDocs.Classification](#)
+{{% alert color="primary" %}}
+**Kategorisera dokument och text automatiskt**  
+Implementera maskininlärningsbaserad dokumentklassificering med stöd för IAB-2 taxonomi, dokumentkategorisering och sentimentanalys för innehållsorganisation.
+{{% /alert %}}
+
+* [GroupDocs.Classification for .NET Handledningar](#)
+* [GroupDocs.Classification for Java Handledningar](#)
+
+---
+
+## Komma Igång
+
+### Dokumentation
+
+Omfattande guider och API-referenser för alla GroupDocs-produkter.
+
+[API Dokumentation →](https://reference.groupdocs.com/)
+
+### Kodexempel
+
+Exempelprojekt och implementationer för att hjälpa dig komma igång snabbt.
+
+[Visa på GitHub →](https://github.com/groupdocs)
+
+### Gratis Provversioner
+
+Ladda ner och testa våra produkter utan begränsningar före köp.
+
+[Ladda Ner Nu →](https://downloads.groupdocs.com/)
+
+### Utvecklargemenskap
+
+Få hjälp och support från våra utvecklare och andra användare.
+
+[Gå med i Forum →](https://forum.groupdocs.com/)

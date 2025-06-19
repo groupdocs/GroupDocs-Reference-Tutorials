@@ -1,69 +1,231 @@
 ---
-title: البرامج التعليمية ومقتطفات التعليمات البرمجية
-additionalTitle: مراجع واجهة برمجة تطبيقات GroupDocs
-description: البرامج التعليمية ومقتطفات التعليمات البرمجية لمنتجات GroupDocs مثل GroupDocs.Viewer وGroupDocs.Annotation وGroupDocs.Conversion ومنتجات أخرى.
+title: دروس GroupDocs API ومقاطع الكود
+additionalTitle: موارد المطورين الكاملة
+description: دروس شاملة ومقاطع كود لجميع واجهات برمجة تطبيقات GroupDocs لمعالجة المستندات. تعلم كيفية تنفيذ عرض المستندات والتحويل والمقارنة والتعليق التوضيحي والمزيد في تطبيقات .NET و Java الخاصة بك.
 weight: 10
 url: /ar/
 ---
 
-## GroupDocs.Viewer
+# دروس GroupDocs API ومقاطع الكود
+
+مرحباً بك في المركز الرسمي لدروس واجهات برمجة تطبيقات GroupDocs لمعالجة المستندات. يوفر هذا المورد الشامل دروساً مفصلة وأمثلة للكود وأفضل الممارسات لتنفيذ منتجات GroupDocs في تطبيقات .NET و Java الخاصة بك.
+
 {{% alert color="primary" %}}
-توفر البرامج التعليمية لـ Groupdocs.Viewer إرشادات شاملة للاستفادة من Groupdocs.Viewer لتسهيل تجارب عرض المستندات بسلاسة. استكشف الإرشادات خطوة بخطوة والنصائح العملية لزيادة إمكانيات Groupdocs.Viewer.
+**موارد المطورين:** يحتوي كل قسم منتج أدناه على روابط لدروس .NET و Java، مع أمثلة كود عملية وأدلة تنفيذ خطوة بخطوة.
 {{% /alert %}}
 
-### دروس GroupDocs.Viewer
-- [GroupDocs.Viewer لبرامج .NET التعليمية](../viewer/ar/net/)
+## حلول إدارة المستندات
 
+### عرض المستندات
 
-## GroupDocs.Conversion
+#### [GroupDocs.Viewer](./viewer/ar/)
 {{% alert color="primary" %}}
-توفر البرامج التعليمية لـ GroupDocs.Conversion إرشادات الخبراء حول كيفية تسخير GroupDocs.Conversion لتحويلات تنسيقات المستندات المتنوعة. تعرف على الاستراتيجيات الفعالة وأفضل الممارسات لتحويل المستندات بسلاسة باستخدام GroupDocs.Conversion Tutorials.
+**عرض أي تنسيق مستند في تطبيقك**  
+عرض أكثر من 170 تنسيق مستند بما في ذلك PDF وملفات Office ورسومات CAD والصور مع عرض عالي الدقة وخيارات واجهة مستخدم قابلة للتخصيص.
 {{% /alert %}}
 
-### دروس GroupDocs.Conversion
-- [GroupDocs.Conversion لبرامج .NET التعليمية](../conversion/ar/net/)
+* [دروس GroupDocs.Viewer for .NET](./viewer/ar/net/)
+* [دروس GroupDocs.Viewer for Java](./viewer/ar/java/)
 
+---
 
-## GroupDocs.Comparison
+### تحويل المستندات
+
+#### [GroupDocs.Conversion](./conversion/ar/)
 {{% alert color="primary" %}}
-GroupDocs.Comparison عبارة عن واجهة برمجة تطبيقات قوية لمقارنة المستندات تتيح للمطورين مقارنة تنسيقات المستندات المختلفة ودمجها برمجيًا، بما في ذلك مستندات Word وملفات PDF وجداول بيانات Excel والمزيد.
+**تحويل بين تنسيقات المستندات بسلاسة**  
+تحويل المستندات بين أكثر من 50 تنسيقاً بدقة وأداء عاليين، مع دعم المعالجة المجمعة وخيارات التخصيص الواسعة.
 {{% /alert %}}
 
-### دروس GroupDocs.Comparison
-- [GroupDocs.Comparison لبرامج .NET التعليمية](../comparison/ar/net/)
+* [دروس GroupDocs.Conversion for .NET](./conversion/ar/net/)
+* [دروس GroupDocs.Conversion for Java](./conversion/ar/java/)
 
+---
 
-## GroupDocs.Annotation
+### مقارنة المستندات
+
+#### [GroupDocs.Comparison](./comparison/ar/)
 {{% alert color="primary" %}}
-GroupDocs.Annotation هو حل شامل للتعليقات التوضيحية للمستندات يسمح للمستخدمين بالتعليق على ملفات PDF وMicrosoft Office وتنسيقات المستندات الشائعة الأخرى في الوقت الفعلي. وهو يقدم مجموعة من أدوات التعليقات التوضيحية بما في ذلك تمييز النص والتعليق ورسم الأشكال وإضافة الطوابع.
+**اكتشف وسلط الضوء على تغييرات المستندات**  
+قارن المستندات عبر تنسيقات مختلفة بدقة على مستوى الفقرة، وسلط الضوء على الاختلافات، وأنشئ تقارير مقارنة مفصلة.
 {{% /alert %}}
 
-### دروس GroupDocs.Annotation
-- [GroupDocs.Annotation  لبرامج .NET التعليمية](../annotation/ar/net/)
+* [دروس GroupDocs.Comparison for .NET](./comparison/ar/net/)
+* [دروس GroupDocs.Comparison for Java](./comparison/ar/java/)
 
+---
 
-## GroupDocs.Signature
+### التعليق التوضيحي للمستندات
+
+#### [GroupDocs.Annotation](./annotation/ar/)
 {{% alert color="primary" %}}
-يعد GroupDocs.Signature حلاً متعدد الاستخدامات للتوقيع الإلكتروني يمكّن المستخدمين من توقيع المستندات رقميًا عبر الإنترنت. فهو يوفر طريقة آمنة وفعالة لإضافة التوقيعات إلى تنسيقات الملفات المختلفة، مما يضمن سلامة المستندات وأصالتها. يدعم GroupDocs.Signature مجموعة من أنواع التوقيع، بما في ذلك التوقيعات النصية والصورة والتوقيعات الرقمية.
+**تمكين مراجعة المستندات التعاونية**  
+أضف وحرر وأدر التعليقات التوضيحية مع دعم تمييز النص والأشكال والإشارة واستبدال النص والمزيد عبر تنسيقات مستندات متعددة.
 {{% /alert %}}
 
-### دروس GroupDocs.Signature
-- [GroupDocs.Signature  لبرامج .NET التعليمية](../signature/ar/net/)
+* [دروس GroupDocs.Annotation for .NET](./annotation/ar/net/)
+* [دروس GroupDocs.Annotation for Java](./annotation/ar/java/)
 
+---
 
-## GroupDocs.Metadata
+## حلول أمان المستندات
+
+### التوقيعات الرقمية
+
+#### [GroupDocs.Signature](./signature/ar/)
 {{% alert color="primary" %}}
-GroupDocs.Metadata عبارة عن مكتبة .NET وJava للعمل مع بيانات التعريف المرتبطة بتنسيقات الملفات المختلفة، بما في ذلك المستندات والصور والصوت والفيديو. فهو يمكّن المستخدمين من قراءة خصائص البيانات التعريفية وتحريرها وإزالتها ومقارنتها مثل المؤلف وتاريخ الإنشاء والعلامات والمزيد. تدعم المكتبة مجموعة واسعة من تنسيقات الملفات، مما يجعلها أداة متعددة الاستخدامات لإدارة البيانات الوصفية ضمن أنواع مختلفة من الملفات.
+**إضافة التوقيعات الرقمية للمستندات**  
+تنفيذ التوقيعات الإلكترونية مع دعم النص والصورة والشهادة الرقمية والباركود ورمز QR وتوقيعات الطوابع عبر أنواع مستندات مختلفة.
 {{% /alert %}}
 
-### دروس GroupDocs.Metadata
-- [GroupDocs.Metadata  لبرامج .NET التعليمية](../metadata/ar/net/)
+* [دروس GroupDocs.Signature for .NET](./signature/ar/net/)
+* [دروس GroupDocs.Signature for Java](./signature/ar/java/)
 
+---
 
-## GroupDocs.Merger
+### حماية المعلومات
+
+#### [GroupDocs.Watermark](./watermark/ar/)
 {{% alert color="primary" %}}
-GroupDocs.Merger عبارة عن واجهة برمجة تطبيقات متعددة الاستخدامات لمعالجة المستندات تسمح للمطورين بدمج الصفحات وتقسيمها واستخراجها ومعالجتها ضمن تنسيقات المستندات المختلفة برمجيًا. وهو يدعم التنسيقات الشائعة مثل PDF وMicrosoft Word وExcel وPowerPoint والمزيد.
+**إضافة وإدارة علامات مائية للمستندات**  
+تطبيق والعثور على وإزالة العلامات المائية مع دعم العلامات المائية النصية والصورية والشكلية عبر تنسيقات مستندات مختلفة لحماية المحتوى.
 {{% /alert %}}
 
-### دروس GroupDocs.Merger
-- [GroupDocs.Merger  لبرامج .NET التعليمية](../merger/ar/net/)
+* [دروس GroupDocs.Watermark for .NET](./watermark/ar/net/)
+* [دروس GroupDocs.Watermark for Java](./watermark/ar/java/)
+
+---
+
+### تنقيح المحتوى
+
+#### [GroupDocs.Redaction](./redaction/ar/)
+{{% alert color="primary" %}}
+**إزالة المعلومات الحساسة من المستندات**  
+تنقيح المعلومات الحساسة بأمان مع دعم تنقيح النص والبيانات الوصفية والتعليقات التوضيحية عبر تنسيقات ملفات متعددة لمتطلبات الامتثال.
+{{% /alert %}}
+
+* [دروس GroupDocs.Redaction for .NET](./redaction/ar/net/)
+* [دروس GroupDocs.Redaction for Java](./redaction/ar/java/)
+
+---
+
+## حلول معالجة المستندات
+
+### معالجة المستندات
+
+#### [GroupDocs.Merger](./merger/ar/)
+{{% alert color="primary" %}}
+**دمج وتقسيم وإدارة صفحات المستندات**  
+دمج مستندات متعددة وتقسيم الملفات الكبيرة وإعادة ترتيب الصفحات واستخراج أقسام مستندات محددة مع الحفاظ على سلامة المستند.
+{{% /alert %}}
+
+* [دروس GroupDocs.Merger for .NET](./merger/ar/net/)
+* [دروس GroupDocs.Merger for Java](./merger/ar/java/)
+
+---
+
+### توليد المستندات
+
+#### [GroupDocs.Assembly](#)
+{{% alert color="primary" %}}
+**إنشاء مستندات من القوالب والبيانات**  
+توليد تقارير ديناميكية وفواتير ومستندات مخصصة من خلال ملء القوالب بالبيانات من مصادر مختلفة بما في ذلك قواعد البيانات و JSON.
+{{% /alert %}}
+
+* [دروس GroupDocs.Assembly for .NET](#)
+* [دروس GroupDocs.Assembly for Java](#)
+
+---
+
+### تحرير المستندات
+
+#### [GroupDocs.Editor](./editor/ar/)
+{{% alert color="primary" %}}
+**تحرير المستندات في تطبيقات الويب**  
+تنفيذ تحرير المستندات WYSIWYG مع دعم تنسيقات مستندات مختلفة والتكامل السلس مع محررات HTML الشائعة المبنية على المتصفح.
+{{% /alert %}}
+
+* [دروس GroupDocs.Editor for .NET](./editor/ar/net/)
+* [دروس GroupDocs.Editor for Java](./editor/ar/java/)
+
+---
+
+## حلول إدارة المعلومات
+
+### إدارة البيانات الوصفية
+
+#### [GroupDocs.Metadata](./metadata/ar/)
+{{% alert color="primary" %}}
+**إدارة البيانات الوصفية للمستندات والوسائط**  
+قراءة وكتابة وتحرير وإزالة البيانات الوصفية في تنسيقات ملفات مختلفة مع دعم خصائص البيانات الوصفية المعيارية والمخصصة لتحسين إدارة المستندات.
+{{% /alert %}}
+
+* [دروس GroupDocs.Metadata for .NET](./metadata/ar/net/)
+* [دروس GroupDocs.Metadata for Java](./metadata/ar/java/)
+
+---
+
+### البحث في المستندات
+
+#### [GroupDocs.Search](./search/ar/)
+{{% alert color="primary" %}}
+**تنفيذ وظائف بحث قوية في المستندات**  
+إضافة بحث سريع ودقيق في المستندات مع دعم الاستعلامات المعقدة والبحث الضبابي والمرادفات وفهرسة تنسيقات ملفات متعددة.
+{{% /alert %}}
+
+* [دروس GroupDocs.Search for .NET](./search/ar/net/)
+* [دروس GroupDocs.Search for Java](./search/ar/java/)
+
+---
+
+### استخراج المحتوى
+
+#### [GroupDocs.Parser](./parser/ar/)
+{{% alert color="primary" %}}
+**استخراج النص والبيانات من المستندات**  
+تحليل البيانات المنظمة وغير المنظمة من تنسيقات مستندات مختلفة مع دعم استخراج النص واسترداد البيانات الوصفية وتحليل المستندات.
+{{% /alert %}}
+
+* [دروس GroupDocs.Parser for .NET](./parser/ar/net/)
+* [دروس GroupDocs.Parser for Java](./parser/ar/java/)
+
+---
+
+### تصنيف المحتوى
+
+#### [GroupDocs.Classification](#)
+{{% alert color="primary" %}}
+**تصنيف المستندات والنصوص تلقائياً**  
+تنفيذ تصنيف المستندات المبني على التعلم الآلي مع دعم تصنيف IAB-2 وتصنيف المستندات وتحليل المشاعر لتنظيم المحتوى.
+{{% /alert %}}
+
+* [دروس GroupDocs.Classification for .NET](#)
+* [دروس GroupDocs.Classification for Java](#)
+
+---
+
+## البدء السريع
+
+### الوثائق
+
+أدلة شاملة ومراجع API لجميع منتجات GroupDocs.
+
+[وثائق API ←](https://reference.groupdocs.com/)
+
+### أمثلة الكود
+
+مشاريع أمثلة وتطبيقات لمساعدتك على البدء بسرعة.
+
+[عرض على GitHub ←](https://github.com/groupdocs)
+
+### تجارب مجانية
+
+تنزيل وتجربة منتجاتنا بدون قيود قبل الشراء.
+
+[تنزيل الآن ←](https://downloads.groupdocs.com/)
+
+### مجتمع المطورين
+
+احصل على المساعدة والدعم من مطورينا والمستخدمين الآخرين.
+
+[انضم للمنتدى ←](https://forum.groupdocs.com/)
