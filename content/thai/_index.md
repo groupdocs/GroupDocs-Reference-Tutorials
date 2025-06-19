@@ -76,7 +76,7 @@ url: /th/
 {{% alert color="primary" %}}
 **เพิ่มลายเซ็นดิจิทัลให้กับเอกสาร**  
 นำลายเซ็นอิเล็กทรอนิกส์ไปใช้ด้วยการรองรับข้อความ รูปภาพ ใบรับรองดิจิทัล บาร์โค้ด QR โค้ด และลายเซ็นประทับในเอกสารประเภทต่างๆ
-{{% /Alert %}}
+{{% /alert %}}
 
 * [บทเรียน GroupDocs.Signature for .NET](../signature/th/net/)
 * [บทเรียน GroupDocs.Signature for Java](../signature/th/java/)
