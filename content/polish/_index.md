@@ -18,53 +18,53 @@ Witamy w oficjalnym centrum tutoriali dla API manipulacji dokumentów GroupDocs.
 
 ### Przeglądanie Dokumentów
 
-#### [GroupDocs.Viewer](./viewer/pl/)
+#### [GroupDocs.Viewer](../viewer/pl/)
 {{% alert color="primary" %}}
 **Wyświetlaj dowolny format dokumentu w aplikacji**  
 Renderuj 170+ formatów dokumentów włączając PDF, pliki Office, rysunki CAD i obrazy z wysokiej jakości renderowaniem i konfigurowalnymi opcjami UI.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Viewer for .NET](./viewer/pl/net/)
-* [Tutoriale GroupDocs.Viewer for Java](./viewer/pl/java/)
+* [Tutoriale GroupDocs.Viewer for .NET](../viewer/pl/net/)
+* [Tutoriale GroupDocs.Viewer for Java](../viewer/pl/java/)
 
 ---
 
 ### Konwersja Dokumentów
 
-#### [GroupDocs.Conversion](./conversion/pl/)
+#### [GroupDocs.Conversion](../conversion/pl/)
 {{% alert color="primary" %}}
 **Bezproblemowa konwersja między formatami dokumentów**  
 Przekształcaj dokumenty między 50+ formatami z wysoką dokładnością i wydajnością, obsługując przetwarzanie wsadowe i rozszerzone opcje dostosowywania.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Conversion for .NET](./conversion/pl/net/)
-* [Tutoriale GroupDocs.Conversion for Java](./conversion/pl/java/)
+* [Tutoriale GroupDocs.Conversion for .NET](../conversion/pl/net/)
+* [Tutoriale GroupDocs.Conversion for Java](../conversion/pl/java/)
 
 ---
 
 ### Porównywanie Dokumentów
 
-#### [GroupDocs.Comparison](./comparison/pl/)
+#### [GroupDocs.Comparison](../comparison/pl/)
 {{% alert color="primary" %}}
 **Wykrywaj i podświetlaj zmiany w dokumentach**  
 Porównuj dokumenty w różnych formatach z precyzją na poziomie akapitu, podświetlaj różnice i generuj szczegółowe raporty porównawcze.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Comparison for .NET](./comparison/pl/net/)
-* [Tutoriale GroupDocs.Comparison for Java](./comparison/pl/java/)
+* [Tutoriale GroupDocs.Comparison for .NET](../comparison/pl/net/)
+* [Tutoriale GroupDocs.Comparison for Java](../comparison/pl/java/)
 
 ---
 
 ### Adnotacje Dokumentów
 
-#### [GroupDocs.Annotation](./annotation/pl/)
+#### [GroupDocs.Annotation](../annotation/pl/)
 {{% alert color="primary" %}}
 **Umożliwiaj współpracę przy przeglądaniu dokumentów**  
 Dodawaj, edytuj i zarządzaj adnotacjami z obsługą podświetlania tekstu, kształtów, wskazywania, zastępowania tekstu i więcej w wielu formatach dokumentów.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Annotation for .NET](./annotation/pl/net/)
-* [Tutoriale GroupDocs.Annotation for Java](./annotation/pl/java/)
+* [Tutoriale GroupDocs.Annotation for .NET](../annotation/pl/net/)
+* [Tutoriale GroupDocs.Annotation for Java](../annotation/pl/java/)
 
 ---
 
@@ -72,40 +72,40 @@ Dodawaj, edytuj i zarządzaj adnotacjami z obsługą podświetlania tekstu, kszt
 
 ### Podpisy Cyfrowe
 
-#### [GroupDocs.Signature](./signature/pl/)
+#### [GroupDocs.Signature](../signature/pl/)
 {{% alert color="primary" %}}
 **Dodawaj podpisy cyfrowe do dokumentów**  
 Implementuj podpisy elektroniczne z obsługą tekstu, obrazu, certyfikatu cyfrowego, kodu kreskowego, kodu QR i podpisów stempelkowych w różnych typach dokumentów.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Signature for .NET](./signature/pl/net/)
-* [Tutoriale GroupDocs.Signature for Java](./signature/pl/java/)
+* [Tutoriale GroupDocs.Signature for .NET](../signature/pl/net/)
+* [Tutoriale GroupDocs.Signature for Java](../signature/pl/java/)
 
 ---
 
 ### Ochrona Informacji
 
-#### [GroupDocs.Watermark](./watermark/pl/)
+#### [GroupDocs.Watermark](../watermark/pl/)
 {{% alert color="primary" %}}
 **Dodawaj i zarządzaj znakami wodnymi dokumentów**  
 Stosuj, znajdź i usuwaj znaki wodne z obsługą znaków wodnych tekstowych, obrazowych i kształtowych w różnych formatach dokumentów dla ochrony treści.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Watermark for .NET](./watermark/pl/net/)
-* [Tutoriale GroupDocs.Watermark for Java](./watermark/pl/java/)
+* [Tutoriale GroupDocs.Watermark for .NET](../watermark/pl/net/)
+* [Tutoriale GroupDocs.Watermark for Java](../watermark/pl/java/)
 
 ---
 
 ### Redakcja Treści
 
-#### [GroupDocs.Redaction](./redaction/pl/)
+#### [GroupDocs.Redaction](../redaction/pl/)
 {{% alert color="primary" %}}
 **Usuwaj wrażliwe informacje z dokumentów**  
 Bezpiecznie redaguj wrażliwe informacje z obsługą redakcji tekstu, metadanych i adnotacji w wielu formatach plików dla wymagań zgodności.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Redaction for .NET](./redaction/pl/net/)
-* [Tutoriale GroupDocs.Redaction for Java](./redaction/pl/java/)
+* [Tutoriale GroupDocs.Redaction for .NET](../redaction/pl/net/)
+* [Tutoriale GroupDocs.Redaction for Java](../redaction/pl/java/)
 
 ---
 
@@ -113,14 +113,14 @@ Bezpiecznie redaguj wrażliwe informacje z obsługą redakcji tekstu, metadanych
 
 ### Manipulacja Dokumentami
 
-#### [GroupDocs.Merger](./merger/pl/)
+#### [GroupDocs.Merger](../merger/pl/)
 {{% alert color="primary" %}}
 **Łącz, dziel i zarządzaj stronami dokumentów**  
 Kombinuj wiele dokumentów, dziel duże pliki, zmieniaj kolejność stron i wyodrębniaj konkretne sekcje dokumentów zachowując integralność dokumentu.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Merger for .NET](./merger/pl/net/)
-* [Tutoriale GroupDocs.Merger for Java](./merger/pl/java/)
+* [Tutoriale GroupDocs.Merger for .NET](../merger/pl/net/)
+* [Tutoriale GroupDocs.Merger for Java](../merger/pl/java/)
 
 ---
 
@@ -139,14 +139,14 @@ Generuj dynamiczne raporty, faktury i spersonalizowane dokumenty wypełniając s
 
 ### Edycja Dokumentów
 
-#### [GroupDocs.Editor](./editor/pl/)
+#### [GroupDocs.Editor](../editor/pl/)
 {{% alert color="primary" %}}
 **Edytuj dokumenty w aplikacjach webowych**  
 Implementuj edycję dokumentów WYSIWYG z obsługą różnych formatów dokumentów i bezproblemową integracją z popularnymi edytorami HTML opartymi na przeglądarce.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Editor for .NET](./editor/pl/net/)
-* [Tutoriale GroupDocs.Editor for Java](./editor/pl/java/)
+* [Tutoriale GroupDocs.Editor for .NET](../editor/pl/net/)
+* [Tutoriale GroupDocs.Editor for Java](../editor/pl/java/)
 
 ---
 
@@ -154,40 +154,40 @@ Implementuj edycję dokumentów WYSIWYG z obsługą różnych formatów dokument
 
 ### Zarządzanie Metadanymi
 
-#### [GroupDocs.Metadata](./metadata/pl/)
+#### [GroupDocs.Metadata](../metadata/pl/)
 {{% alert color="primary" %}}
 **Zarządzaj metadanymi dokumentów i mediów**  
 Czytaj, zapisuj, edytuj i usuwaj metadane w różnych formatach plików z obsługą standardowych i niestandardowych właściwości metadanych dla ulepszonego zarządzania dokumentami.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Metadata for .NET](./metadata/pl/net/)
-* [Tutoriale GroupDocs.Metadata for Java](./metadata/pl/java/)
+* [Tutoriale GroupDocs.Metadata for .NET](../metadata/pl/net/)
+* [Tutoriale GroupDocs.Metadata for Java](../metadata/pl/java/)
 
 ---
 
 ### Wyszukiwanie Dokumentów
 
-#### [GroupDocs.Search](./search/pl/)
+#### [GroupDocs.Search](../search/pl/)
 {{% alert color="primary" %}}
 **Implementuj potężną funkcjonalność wyszukiwania dokumentów**  
 Dodaj szybkie i dokładne wyszukiwanie dokumentów z obsługą złożonych zapytań, wyszukiwania rozmytego, synonimów i indeksowania wielu formatów plików.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Search for .NET](./search/pl/net/)
-* [Tutoriale GroupDocs.Search for Java](./search/pl/java/)
+* [Tutoriale GroupDocs.Search for .NET](../search/pl/net/)
+* [Tutoriale GroupDocs.Search for Java](../search/pl/java/)
 
 ---
 
 ### Wyodrębnianie Treści
 
-#### [GroupDocs.Parser](./parser/pl/)
+#### [GroupDocs.Parser](../parser/pl/)
 {{% alert color="primary" %}}
 **Wyodrębniaj tekst i dane z dokumentów**  
 Analizuj dane strukturalne i niestrukturalne z różnych formatów dokumentów z obsługą wyodrębniania tekstu, pobierania metadanych i analizy dokumentów.
 {{% /alert %}}
 
-* [Tutoriale GroupDocs.Parser for .NET](./parser/pl/net/)
-* [Tutoriale GroupDocs.Parser for Java](./parser/pl/java/)
+* [Tutoriale GroupDocs.Parser for .NET](../parser/pl/net/)
+* [Tutoriale GroupDocs.Parser for Java](../parser/pl/java/)
 
 ---
 

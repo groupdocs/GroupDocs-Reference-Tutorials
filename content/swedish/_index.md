@@ -18,53 +18,53 @@ Välkommen till det officiella handledningscentret för GroupDocs dokumentmanipu
 
 ### Dokumentvisning
 
-#### [GroupDocs.Viewer](./viewer/sv/)
+#### [GroupDocs.Viewer](../viewer/sv/)
 {{% alert color="primary" %}}
 **Visa alla dokumentformat i din applikation**  
 Rendera 170+ dokumentformat inklusive PDF, Office-filer, CAD-ritningar och bilder med högkvalitativ rendering och anpassningsbara UI-alternativ.
 {{% /alert %}}
 
-* [GroupDocs.Viewer for .NET Handledningar](./viewer/sv/net/)
-* [GroupDocs.Viewer for Java Handledningar](./viewer/sv/java/)
+* [GroupDocs.Viewer for .NET Handledningar](../viewer/sv/net/)
+* [GroupDocs.Viewer for Java Handledningar](../viewer/sv/java/)
 
 ---
 
 ### Dokumentkonvertering
 
-#### [GroupDocs.Conversion](./conversion/sv/)
+#### [GroupDocs.Conversion](../conversion/sv/)
 {{% alert color="primary" %}}
 **Sömlös konvertering mellan dokumentformat**  
 Transformera dokument mellan 50+ format med hög noggrannhet och prestanda, stöder batchbearbetning och omfattande anpassningsalternativ.
 {{% /alert %}}
 
-* [GroupDocs.Conversion for .NET Handledningar](./conversion/sv/net/)
-* [GroupDocs.Conversion for Java Handledningar](./conversion/sv/java/)
+* [GroupDocs.Conversion for .NET Handledningar](../conversion/sv/net/)
+* [GroupDocs.Conversion for Java Handledningar](../conversion/sv/java/)
 
 ---
 
 ### Dokumentjämförelse
 
-#### [GroupDocs.Comparison](./comparison/sv/)
+#### [GroupDocs.Comparison](../comparison/sv/)
 {{% alert color="primary" %}}
 **Upptäck och markera dokumentändringar**  
 Jämför dokument i olika format med styckenivåprecision, markera skillnader och generera detaljerade jämförelserapporter.
 {{% /alert %}}
 
-* [GroupDocs.Comparison for .NET Handledningar](./comparison/sv/net/)
-* [GroupDocs.Comparison for Java Handledningar](./comparison/sv/java/)
+* [GroupDocs.Comparison for .NET Handledningar](../comparison/sv/net/)
+* [GroupDocs.Comparison for Java Handledningar](../comparison/sv/java/)
 
 ---
 
 ### Dokumentannotering
 
-#### [GroupDocs.Annotation](./annotation/sv/)
+#### [GroupDocs.Annotation](../annotation/sv/)
 {{% alert color="primary" %}}
 **Aktivera kollaborativ dokumentgranskning**  
 Lägg till, redigera och hantera anteckningar med stöd för textmarkering, former, pekande, textbyte och mer över flera dokumentformat.
 {{% /alert %}}
 
-* [GroupDocs.Annotation for .NET Handledningar](./annotation/sv/net/)
-* [GroupDocs.Annotation for Java Handledningar](./annotation/sv/java/)
+* [GroupDocs.Annotation for .NET Handledningar](../annotation/sv/net/)
+* [GroupDocs.Annotation for Java Handledningar](../annotation/sv/java/)
 
 ---
 
@@ -72,40 +72,40 @@ Lägg till, redigera och hantera anteckningar med stöd för textmarkering, form
 
 ### Digitala Signaturer
 
-#### [GroupDocs.Signature](./signature/sv/)
+#### [GroupDocs.Signature](../signature/sv/)
 {{% alert color="primary" %}}
 **Lägg till digitala signaturer till dokument**  
 Implementera elektroniska signaturer med stöd för text, bild, digitalt certifikat, streckkod, QR-kod och stämpelsignaturer över olika dokumenttyper.
 {{% /alert %}}
 
-* [GroupDocs.Signature for .NET Handledningar](./signature/sv/net/)
-* [GroupDocs.Signature for Java Handledningar](./signature/sv/java/)
+* [GroupDocs.Signature for .NET Handledningar](../signature/sv/net/)
+* [GroupDocs.Signature for Java Handledningar](../signature/sv/java/)
 
 ---
 
 ### Informationsskydd
 
-#### [GroupDocs.Watermark](./watermark/sv/)
+#### [GroupDocs.Watermark](../watermark/sv/)
 {{% alert color="primary" %}}
 **Lägg till och hantera dokumentvattenstämplar**  
 Applicera, hitta och ta bort vattenstämplar med stöd för text-, bild- och formvattenstämplar över olika dokumentformat för innehållsskydd.
 {{% /alert %}}
 
-* [GroupDocs.Watermark for .NET Handledningar](./watermark/sv/net/)
-* [GroupDocs.Watermark for Java Handledningar](./watermark/sv/java/)
+* [GroupDocs.Watermark for .NET Handledningar](../watermark/sv/net/)
+* [GroupDocs.Watermark for Java Handledningar](../watermark/sv/java/)
 
 ---
 
 ### Innehållsredigering
 
-#### [GroupDocs.Redaction](./redaction/sv/)
+#### [GroupDocs.Redaction](../redaction/sv/)
 {{% alert color="primary" %}}
 **Ta bort känslig information från dokument**  
 Redigera känslig information säkert med stöd för text-, metadata- och anteckningsredigering över flera filformat för efterlevnadskrav.
 {{% /alert %}}
 
-* [GroupDocs.Redaction for .NET Handledningar](./redaction/sv/net/)
-* [GroupDocs.Redaction for Java Handledningar](./redaction/sv/java/)
+* [GroupDocs.Redaction for .NET Handledningar](../redaction/sv/net/)
+* [GroupDocs.Redaction for Java Handledningar](../redaction/sv/java/)
 
 ---
 
@@ -113,14 +113,14 @@ Redigera känslig information säkert med stöd för text-, metadata- och anteck
 
 ### Dokumentmanipulation
 
-#### [GroupDocs.Merger](./merger/sv/)
+#### [GroupDocs.Merger](../merger/sv/)
 {{% alert color="primary" %}}
 **Slå samman, dela och hantera dokumentsidor**  
 Kombinera flera dokument, dela stora filer, omordna sidor och extrahera specifika dokumentsektioner samtidigt som dokumentintegriteten bevaras.
 {{% /alert %}}
 
-* [GroupDocs.Merger for .NET Handledningar](./merger/sv/net/)
-* [GroupDocs.Merger for Java Handledningar](./merger/sv/java/)
+* [GroupDocs.Merger for .NET Handledningar](../merger/sv/net/)
+* [GroupDocs.Merger for Java Handledningar](../merger/sv/java/)
 
 ---
 
@@ -139,14 +139,14 @@ Generera dynamiska rapporter, fakturor och personliga dokument genom att fylla m
 
 ### Dokumentredigering
 
-#### [GroupDocs.Editor](./editor/sv/)
+#### [GroupDocs.Editor](../editor/sv/)
 {{% alert color="primary" %}}
 **Redigera dokument i webbapplikationer**  
 Implementera WYSIWYG-dokumentredigering med stöd för olika dokumentformat och sömlös integration med populära webbläsarbaserade HTML-redigerare.
 {{% /alert %}}
 
-* [GroupDocs.Editor for .NET Handledningar](./editor/sv/net/)
-* [GroupDocs.Editor for Java Handledningar](./editor/sv/java/)
+* [GroupDocs.Editor for .NET Handledningar](../editor/sv/net/)
+* [GroupDocs.Editor for Java Handledningar](../editor/sv/java/)
 
 ---
 
@@ -154,40 +154,40 @@ Implementera WYSIWYG-dokumentredigering med stöd för olika dokumentformat och 
 
 ### Metadatahantering
 
-#### [GroupDocs.Metadata](./metadata/sv/)
+#### [GroupDocs.Metadata](../metadata/sv/)
 {{% alert color="primary" %}}
 **Hantera dokument- och mediametadata**  
 Läs, skriv, redigera och ta bort metadata i olika filformat med stöd för standard- och anpassade metadataegenskaper för förbättrad dokumenthantering.
 {{% /alert %}}
 
-* [GroupDocs.Metadata for .NET Handledningar](./metadata/sv/net/)
-* [GroupDocs.Metadata for Java Handledningar](./metadata/sv/java/)
+* [GroupDocs.Metadata for .NET Handledningar](../metadata/sv/net/)
+* [GroupDocs.Metadata for Java Handledningar](../metadata/sv/java/)
 
 ---
 
 ### Dokumentsökning
 
-#### [GroupDocs.Search](./search/sv/)
+#### [GroupDocs.Search](../search/sv/)
 {{% alert color="primary" %}}
 **Implementera kraftfull dokumentsökfunktionalitet**  
 Lägg till snabb och noggrann dokumentsökning med stöd för komplexa frågor, fuzzy-sökning, synonymer och indexering av flera filformat.
 {{% /alert %}}
 
-* [GroupDocs.Search for .NET Handledningar](./search/sv/net/)
-* [GroupDocs.Search for Java Handledningar](./search/sv/java/)
+* [GroupDocs.Search for .NET Handledningar](../search/sv/net/)
+* [GroupDocs.Search for Java Handledningar](../search/sv/java/)
 
 ---
 
 ### Innehållsextraktion
 
-#### [GroupDocs.Parser](./parser/sv/)
+#### [GroupDocs.Parser](../parser/sv/)
 {{% alert color="primary" %}}
 **Extrahera text och data från dokument**  
 Parsa strukturerad och ostrukturerad data från olika dokumentformat med stöd för textextraktion, metadatahämtning och dokumentanalys.
 {{% /alert %}}
 
-* [GroupDocs.Parser for .NET Handledningar](./parser/sv/net/)
-* [GroupDocs.Parser for Java Handledningar](./parser/sv/java/)
+* [GroupDocs.Parser for .NET Handledningar](../parser/sv/net/)
+* [GroupDocs.Parser for Java Handledningar](../parser/sv/java/)
 
 ---
 

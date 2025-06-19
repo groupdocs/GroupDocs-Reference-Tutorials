@@ -18,53 +18,53 @@ GroupDocs belge manipülasyonu API'leri için resmi eğitim merkezine hoş geldi
 
 ### Belge Görüntüleme
 
-#### [GroupDocs.Viewer](./viewer/tr/)
+#### [GroupDocs.Viewer](../viewer/tr/)
 {{% alert color="primary" %}}
 **Uygulamanızda herhangi bir belge formatını görüntüleyin**  
 PDF, Office dosyaları, CAD çizimleri ve resimler dahil 170+ belge formatını yüksek kaliteli render etme ve özelleştirilebilir UI seçenekleriyle render edin.
 {{% /alert %}}
 
-* [GroupDocs.Viewer for .NET Eğitimleri](./viewer/tr/net/)
-* [GroupDocs.Viewer for Java Eğitimleri](./viewer/tr/java/)
+* [GroupDocs.Viewer for .NET Eğitimleri](../viewer/tr/net/)
+* [GroupDocs.Viewer for Java Eğitimleri](../viewer/tr/java/)
 
 ---
 
 ### Belge Dönüştürme
 
-#### [GroupDocs.Conversion](./conversion/tr/)
+#### [GroupDocs.Conversion](../conversion/tr/)
 {{% alert color="primary" %}}
 **Belge formatları arasında kusursuz dönüştürme**  
 Yüksek doğruluk ve performansla 50+ format arasında belge dönüştürme, toplu işleme ve kapsamlı özelleştirme seçeneklerini destekler.
 {{% /alert %}}
 
-* [GroupDocs.Conversion for .NET Eğitimleri](./conversion/tr/net/)
-* [GroupDocs.Conversion for Java Eğitimleri](./conversion/tr/java/)
+* [GroupDocs.Conversion for .NET Eğitimleri](../conversion/tr/net/)
+* [GroupDocs.Conversion for Java Eğitimleri](../conversion/tr/java/)
 
 ---
 
 ### Belge Karşılaştırma
 
-#### [GroupDocs.Comparison](./comparison/tr/)
+#### [GroupDocs.Comparison](../comparison/tr/)
 {{% alert color="primary" %}}
 **Belge değişikliklerini tespit edin ve vurgulayın**  
 Paragraf seviyesi hassasiyetle çeşitli formatlardaki belgeleri karşılaştırın, farklılıkları vurgulayın ve ayrıntılı karşılaştırma raporları oluşturun.
 {{% /alert %}}
 
-* [GroupDocs.Comparison for .NET Eğitimleri](./comparison/tr/net/)
-* [GroupDocs.Comparison for Java Eğitimleri](./comparison/tr/java/)
+* [GroupDocs.Comparison for .NET Eğitimleri](../comparison/tr/net/)
+* [GroupDocs.Comparison for Java Eğitimleri](../comparison/tr/java/)
 
 ---
 
 ### Belge Açıklaması
 
-#### [GroupDocs.Annotation](./annotation/tr/)
+#### [GroupDocs.Annotation](../annotation/tr/)
 {{% alert color="primary" %}}
 **İşbirlikçi belge incelemesini etkinleştirin**  
 Birden fazla belge formatında metin vurgulama, şekiller, işaret etme, metin değiştirme ve daha fazlası desteğiyle açıklamaları ekleyin, düzenleyin ve yönetin.
 {{% /alert %}}
 
-* [GroupDocs.Annotation for .NET Eğitimleri](./annotation/tr/net/)
-* [GroupDocs.Annotation for Java Eğitimleri](./annotation/tr/java/)
+* [GroupDocs.Annotation for .NET Eğitimleri](../annotation/tr/net/)
+* [GroupDocs.Annotation for Java Eğitimleri](../annotation/tr/java/)
 
 ---
 
@@ -72,40 +72,40 @@ Birden fazla belge formatında metin vurgulama, şekiller, işaret etme, metin d
 
 ### Dijital İmzalar
 
-#### [GroupDocs.Signature](./signature/tr/)
+#### [GroupDocs.Signature](../signature/tr/)
 {{% alert color="primary" %}}
 **Belgelere dijital imzalar ekleyin**  
 Çeşitli belge türlerinde metin, resim, dijital sertifika, barkod, QR kod ve damga imzaları desteğiyle elektronik imzaları uygulayın.
 {{% /alert %}}
 
-* [GroupDocs.Signature for .NET Eğitimleri](./signature/tr/net/)
-* [GroupDocs.Signature for Java Eğitimleri](./signature/tr/java/)
+* [GroupDocs.Signature for .NET Eğitimleri](../signature/tr/net/)
+* [GroupDocs.Signature for Java Eğitimleri](../signature/tr/java/)
 
 ---
 
 ### Bilgi Koruması
 
-#### [GroupDocs.Watermark](./watermark/tr/)
+#### [GroupDocs.Watermark](../watermark/tr/)
 {{% alert color="primary" %}}
 **Belge filigranları ekleyin ve yönetin**  
 İçerik koruması için çeşitli belge formatlarında metin, resim ve şekil filigranları desteğiyle filigranları uygulayın, bulun ve kaldırın.
 {{% /alert %}}
 
-* [GroupDocs.Watermark for .NET Eğitimleri](./watermark/tr/net/)
-* [GroupDocs.Watermark for Java Eğitimleri](./watermark/tr/java/)
+* [GroupDocs.Watermark for .NET Eğitimleri](../watermark/tr/net/)
+* [GroupDocs.Watermark for Java Eğitimleri](../watermark/tr/java/)
 
 ---
 
 ### İçerik Redaksiyonu
 
-#### [GroupDocs.Redaction](./redaction/tr/)
+#### [GroupDocs.Redaction](../redaction/tr/)
 {{% alert color="primary" %}}
 **Belgelerden hassas bilgileri kaldırın**  
 Uyumluluk gereksinimleri için birden fazla dosya formatında metin, metadata ve açıklama redaksiyonu desteğiyle hassas bilgileri güvenli bir şekilde redakte edin.
 {{% /alert %}}
 
-* [GroupDocs.Redaction for .NET Eğitimleri](./redaction/tr/net/)
-* [GroupDocs.Redaction for Java Eğitimleri](./redaction/tr/java/)
+* [GroupDocs.Redaction for .NET Eğitimleri](../redaction/tr/net/)
+* [GroupDocs.Redaction for Java Eğitimleri](../redaction/tr/java/)
 
 ---
 
@@ -113,14 +113,14 @@ Uyumluluk gereksinimleri için birden fazla dosya formatında metin, metadata ve
 
 ### Belge Manipülasyonu
 
-#### [GroupDocs.Merger](./merger/tr/)
+#### [GroupDocs.Merger](../merger/tr/)
 {{% alert color="primary" %}}
 **Belge sayfalarını birleştirin, böllün ve yönetin**  
 Belge bütünlüğünü koruyarak birden fazla belgeyi birleştirin, büyük dosyaları bölün, sayfaları yeniden düzenleyin ve belirli belge bölümlerini çıkarın.
 {{% /alert %}}
 
-* [GroupDocs.Merger for .NET Eğitimleri](./merger/tr/net/)
-* [GroupDocs.Merger for Java Eğitimleri](./merger/tr/java/)
+* [GroupDocs.Merger for .NET Eğitimleri](../merger/tr/net/)
+* [GroupDocs.Merger for Java Eğitimleri](../merger/tr/java/)
 
 ---
 
@@ -139,14 +139,14 @@ Veritabanları ve JSON dahil çeşitli kaynaklardan verilerle şablonları doldu
 
 ### Belge Düzenleme
 
-#### [GroupDocs.Editor](./editor/tr/)
+#### [GroupDocs.Editor](../editor/tr/)
 {{% alert color="primary" %}}
 **Web uygulamalarında belgeleri düzenleyin**  
 Çeşitli belge formatları desteği ve popüler tarayıcı tabanlı HTML editörleriyle kusursuz entegrasyonla WYSIWYG belge düzenlemeyi uygulayın.
 {{% /alert %}}
 
-* [GroupDocs.Editor for .NET Eğitimleri](./editor/tr/net/)
-* [GroupDocs.Editor for Java Eğitimleri](./editor/tr/java/)
+* [GroupDocs.Editor for .NET Eğitimleri](../editor/tr/net/)
+* [GroupDocs.Editor for Java Eğitimleri](../editor/tr/java/)
 
 ---
 
@@ -154,40 +154,40 @@ Veritabanları ve JSON dahil çeşitli kaynaklardan verilerle şablonları doldu
 
 ### Metadata Yönetimi
 
-#### [GroupDocs.Metadata](./metadata/tr/)
+#### [GroupDocs.Metadata](../metadata/tr/)
 {{% alert color="primary" %}}
 **Belge ve medya metadatalarını yönetin**  
 Gelişmiş belge yönetimi için standart ve özel metadata özellikleri desteğiyle çeşitli dosya formatlarında metadataları okuyun, yazın, düzenleyin ve kaldırın.
 {{% /alert %}}
 
-* [GroupDocs.Metadata for .NET Eğitimleri](./metadata/tr/net/)
-* [GroupDocs.Metadata for Java Eğitimleri](./metadata/tr/java/)
+* [GroupDocs.Metadata for .NET Eğitimleri](../metadata/tr/net/)
+* [GroupDocs.Metadata for Java Eğitimleri](../metadata/tr/java/)
 
 ---
 
 ### Belge Arama
 
-#### [GroupDocs.Search](./search/tr/)
+#### [GroupDocs.Search](../search/tr/)
 {{% alert color="primary" %}}
 **Güçlü belge arama işlevselliği uygulayın**  
 Karmaşık sorgular, bulanık arama, eş anlamlılar ve birden fazla dosya formatı indeksleme desteğiyle hızlı ve doğru belge araması ekleyin.
 {{% /alert %}}
 
-* [GroupDocs.Search for .NET Eğitimleri](./search/tr/net/)
-* [GroupDocs.Search for Java Eğitimleri](./search/tr/java/)
+* [GroupDocs.Search for .NET Eğitimleri](../search/tr/net/)
+* [GroupDocs.Search for Java Eğitimleri](../search/tr/java/)
 
 ---
 
 ### İçerik Çıkarma
 
-#### [GroupDocs.Parser](./parser/tr/)
+#### [GroupDocs.Parser](../parser/tr/)
 {{% alert color="primary" %}}
 **Belgelerden metin ve veri çıkarın**  
 Metin çıkarma, metadata alma ve belge analizi desteğiyle çeşitli belge formatlarından yapılandırılmış ve yapılandırılmamış verileri ayrıştırın.
 {{% /alert %}}
 
-* [GroupDocs.Parser for .NET Eğitimleri](./parser/tr/net/)
-* [GroupDocs.Parser for Java Eğitimleri](./parser/tr/java/)
+* [GroupDocs.Parser for .NET Eğitimleri](../parser/tr/net/)
+* [GroupDocs.Parser for Java Eğitimleri](../parser/tr/java/)
 
 ---
 

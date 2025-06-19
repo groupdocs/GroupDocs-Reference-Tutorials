@@ -18,53 +18,53 @@ url: /ru/
 
 ### Просмотр Документов
 
-#### [GroupDocs.Viewer](./viewer/ru/)
+#### [GroupDocs.Viewer](../viewer/ru/)
 {{% alert color="primary" %}}
 **Отображение любого формата документа в вашем приложении**  
 Рендеринг 170+ форматов документов включая PDF, Office файлы, CAD чертежи и изображения с высококачественным рендерингом и настраиваемыми опциями UI.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Viewer for .NET](./viewer/ru/net/)
-* [Руководства GroupDocs.Viewer for Java](./viewer/ru/java/)
+* [Руководства GroupDocs.Viewer for .NET](../viewer/ru/net/)
+* [Руководства GroupDocs.Viewer for Java](../viewer/ru/java/)
 
 ---
 
 ### Конвертация Документов
 
-#### [GroupDocs.Conversion](./conversion/ru/)
+#### [GroupDocs.Conversion](../conversion/ru/)
 {{% alert color="primary" %}}
 **Бесшовная конвертация между форматами документов**  
 Преобразование документов между 50+ форматами с высокой точностью и производительностью, поддерживая пакетную обработку и расширенные опции настройки.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Conversion for .NET](./conversion/ru/net/)
-* [Руководства GroupDocs.Conversion for Java](./conversion/ru/java/)
+* [Руководства GroupDocs.Conversion for .NET](../conversion/ru/net/)
+* [Руководства GroupDocs.Conversion for Java](../conversion/ru/java/)
 
 ---
 
 ### Сравнение Документов
 
-#### [GroupDocs.Comparison](./comparison/ru/)
+#### [GroupDocs.Comparison](../comparison/ru/)
 {{% alert color="primary" %}}
 **Обнаружение и выделение изменений в документах**  
 Сравнение документов в различных форматах с точностью до уровня абзаца, выделение различий и генерация подробных отчетов сравнения.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Comparison for .NET](./comparison/ru/net/)
-* [Руководства GroupDocs.Comparison for Java](./comparison/ru/java/)
+* [Руководства GroupDocs.Comparison for .NET](../comparison/ru/net/)
+* [Руководства GroupDocs.Comparison for Java](../comparison/ru/java/)
 
 ---
 
 ### Аннотирование Документов
 
-#### [GroupDocs.Annotation](./annotation/ru/)
+#### [GroupDocs.Annotation](../annotation/ru/)
 {{% alert color="primary" %}}
 **Включение совместного рецензирования документов**  
 Добавление, редактирование и управление аннотациями с поддержкой выделения текста, фигур, указания, замены текста и многого другого в нескольких форматах документов.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Annotation for .NET](./annotation/ru/net/)
-* [Руководства GroupDocs.Annotation for Java](./annotation/ru/java/)
+* [Руководства GroupDocs.Annotation for .NET](../annotation/ru/net/)
+* [Руководства GroupDocs.Annotation for Java](../annotation/ru/java/)
 
 ---
 
@@ -72,40 +72,40 @@ url: /ru/
 
 ### Цифровые Подписи
 
-#### [GroupDocs.Signature](./signature/ru/)
+#### [GroupDocs.Signature](../signature/ru/)
 {{% alert color="primary" %}}
 **Добавление цифровых подписей к документам**  
 Реализация электронных подписей с поддержкой текста, изображений, цифровых сертификатов, штрих-кодов, QR-кодов и штамповых подписей в различных типах документов.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Signature for .NET](./signature/ru/net/)
-* [Руководства GroupDocs.Signature for Java](./signature/ru/java/)
+* [Руководства GroupDocs.Signature for .NET](../signature/ru/net/)
+* [Руководства GroupDocs.Signature for Java](../signature/ru/java/)
 
 ---
 
 ### Защита Информации
 
-#### [GroupDocs.Watermark](./watermark/ru/)
+#### [GroupDocs.Watermark](../watermark/ru/)
 {{% alert color="primary" %}}
 **Добавление и управление водяными знаками документов**  
 Применение, поиск и удаление водяных знаков с поддержкой текстовых, графических и фигурных водяных знаков в различных форматах документов для защиты контента.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Watermark for .NET](./watermark/ru/net/)
-* [Руководства GroupDocs.Watermark for Java](./watermark/ru/java/)
+* [Руководства GroupDocs.Watermark for .NET](../watermark/ru/net/)
+* [Руководства GroupDocs.Watermark for Java](../watermark/ru/java/)
 
 ---
 
 ### Редактирование Контента
 
-#### [GroupDocs.Redaction](./redaction/ru/)
+#### [GroupDocs.Redaction](../redaction/ru/)
 {{% alert color="primary" %}}
 **Удаление конфиденциальной информации из документов**  
 Безопасное редактирование конфиденциальной информации с поддержкой редактирования текста, метаданных и аннотаций в нескольких форматах файлов для требований соответствия.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Redaction for .NET](./redaction/ru/net/)
-* [Руководства GroupDocs.Redaction for Java](./redaction/ru/java/)
+* [Руководства GroupDocs.Redaction for .NET](../redaction/ru/net/)
+* [Руководства GroupDocs.Redaction for Java](../redaction/ru/java/)
 
 ---
 
@@ -113,14 +113,14 @@ url: /ru/
 
 ### Манипуляция Документами
 
-#### [GroupDocs.Merger](./merger/ru/)
+#### [GroupDocs.Merger](../merger/ru/)
 {{% alert color="primary" %}}
 **Объединение, разделение и управление страницами документов**  
 Комбинирование нескольких документов, разделение больших файлов, переупорядочивание страниц и извлечение определенных разделов документов с сохранением целостности документа.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Merger for .NET](./merger/ru/net/)
-* [Руководства GroupDocs.Merger for Java](./merger/ru/java/)
+* [Руководства GroupDocs.Merger for .NET](../merger/ru/net/)
+* [Руководства GroupDocs.Merger for Java](../merger/ru/java/)
 
 ---
 
@@ -139,14 +139,14 @@ url: /ru/
 
 ### Редактирование Документов
 
-#### [GroupDocs.Editor](./editor/ru/)
+#### [GroupDocs.Editor](../editor/ru/)
 {{% alert color="primary" %}}
 **Редактирование документов в веб-приложениях**  
 Реализация WYSIWYG редактирования документов с поддержкой различных форматов документов и бесшовной интеграцией с популярными HTML редакторами на основе браузера.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Editor for .NET](./editor/ru/net/)
-* [Руководства GroupDocs.Editor for Java](./editor/ru/java/)
+* [Руководства GroupDocs.Editor for .NET](../editor/ru/net/)
+* [Руководства GroupDocs.Editor for Java](../editor/ru/java/)
 
 ---
 
@@ -154,40 +154,40 @@ url: /ru/
 
 ### Управление Метаданными
 
-#### [GroupDocs.Metadata](./metadata/ru/)
+#### [GroupDocs.Metadata](../metadata/ru/)
 {{% alert color="primary" %}}
 **Управление метаданными документов и медиа**  
 Чтение, запись, редактирование и удаление метаданных в различных форматах файлов с поддержкой стандартных и пользовательских свойств метаданных для улучшенного управления документами.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Metadata for .NET](./metadata/ru/net/)
-* [Руководства GroupDocs.Metadata for Java](./metadata/ru/java/)
+* [Руководства GroupDocs.Metadata for .NET](../metadata/ru/net/)
+* [Руководства GroupDocs.Metadata for Java](../metadata/ru/java/)
 
 ---
 
 ### Поиск в Документах
 
-#### [GroupDocs.Search](./search/ru/)
+#### [GroupDocs.Search](../search/ru/)
 {{% alert color="primary" %}}
 **Реализация мощной функциональности поиска документов**  
 Добавление быстрого и точного поиска документов с поддержкой сложных запросов, нечеткого поиска, синонимов и индексирования нескольких форматов файлов.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Search for .NET](./search/ru/net/)
-* [Руководства GroupDocs.Search for Java](./search/ru/java/)
+* [Руководства GroupDocs.Search for .NET](../search/ru/net/)
+* [Руководства GroupDocs.Search for Java](../search/ru/java/)
 
 ---
 
 ### Извлечение Контента
 
-#### [GroupDocs.Parser](./parser/ru/)
+#### [GroupDocs.Parser](../parser/ru/)
 {{% alert color="primary" %}}
 **Извлечение текста и данных из документов**  
 Парсинг структурированных и неструктурированных данных из различных форматов документов с поддержкой извлечения текста, получения метаданных и анализа документов.
 {{% /alert %}}
 
-* [Руководства GroupDocs.Parser for .NET](./parser/ru/net/)
-* [Руководства GroupDocs.Parser for Java](./parser/ru/java/)
+* [Руководства GroupDocs.Parser for .NET](../parser/ru/net/)
+* [Руководства GroupDocs.Parser for Java](../parser/ru/java/)
 
 ---
 

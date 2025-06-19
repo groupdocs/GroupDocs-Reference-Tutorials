@@ -18,53 +18,53 @@ url: /hu/
 
 ### Dokumentumnézés
 
-#### [GroupDocs.Viewer](./viewer/hu/)
+#### [GroupDocs.Viewer](../viewer/hu/)
 {{% alert color="primary" %}}
 **Bármilyen dokumentumformátum megjelenítése az alkalmazásban**  
 170+ dokumentumformátum renderelése, beleértve a PDF-et, Office fájlokat, CAD rajzokat és képeket, nagy pontosságú renderelésssel és testreszabható UI opciókkal.
 {{% /alert %}}
 
-* [GroupDocs.Viewer for .NET Oktatóanyagok](./viewer/hu/net/)
-* [GroupDocs.Viewer for Java Oktatóanyagok](./viewer/hu/java/)
+* [GroupDocs.Viewer for .NET Oktatóanyagok](../viewer/hu/net/)
+* [GroupDocs.Viewer for Java Oktatóanyagok](../viewer/hu/java/)
 
 ---
 
 ### Dokumentumkonvertálás
 
-#### [GroupDocs.Conversion](./conversion/hu/)
+#### [GroupDocs.Conversion](../conversion/hu/)
 {{% alert color="primary" %}}
 **Zökkenőmentes konvertálás dokumentumformátumok között**  
 Dokumentumok átváltása 50+ formátum között nagy pontossággal és teljesítménnyel, támogatva a kötegelt feldolgozást és a kiterjedt testreszabási lehetőségeket.
 {{% /alert %}}
 
-* [GroupDocs.Conversion for .NET Oktatóanyagok](./conversion/hu/net/)
-* [GroupDocs.Conversion for Java Oktatóanyagok](./conversion/hu/java/)
+* [GroupDocs.Conversion for .NET Oktatóanyagok](../conversion/hu/net/)
+* [GroupDocs.Conversion for Java Oktatóanyagok](../conversion/hu/java/)
 
 ---
 
 ### Dokumentum-összehasonlítás
 
-#### [GroupDocs.Comparison](./comparison/hu/)
+#### [GroupDocs.Comparison](../comparison/hu/)
 {{% alert color="primary" %}}
 **Dokumentumváltozások észlelése és kiemelése**  
 Dokumentumok összehasonlítása különböző formátumokban bekezdésszintű pontossággal, különbségek kiemelése és részletes összehasonlítási jelentések generálása.
 {{% /alert %}}
 
-* [GroupDocs.Comparison for .NET Oktatóanyagok](./comparison/hu/net/)
-* [GroupDocs.Comparison for Java Oktatóanyagok](./comparison/hu/java/)
+* [GroupDocs.Comparison for .NET Oktatóanyagok](../comparison/hu/net/)
+* [GroupDocs.Comparison for Java Oktatóanyagok](../comparison/hu/java/)
 
 ---
 
 ### Dokumentum Annotáció
 
-#### [GroupDocs.Annotation](./annotation/hu/)
+#### [GroupDocs.Annotation](../annotation/hu/)
 {{% alert color="primary" %}}
 **Együttműködésen alapuló dokumentum-áttekintés engedélyezése**  
 Annotációk hozzáadása, szerkesztése és kezelése szövegkiemelés, alakzatok, mutatás, szövegcsere és további funkciók támogatásával több dokumentumformátumon keresztül.
 {{% /alert %}}
 
-* [GroupDocs.Annotation for .NET Oktatóanyagok](./annotation/hu/net/)
-* [GroupDocs.Annotation for Java Oktatóanyagok](./annotation/hu/java/)
+* [GroupDocs.Annotation for .NET Oktatóanyagok](../annotation/hu/net/)
+* [GroupDocs.Annotation for Java Oktatóanyagok](../annotation/hu/java/)
 
 ---
 
@@ -72,40 +72,40 @@ Annotációk hozzáadása, szerkesztése és kezelése szövegkiemelés, alakzat
 
 ### Digitális Aláírások
 
-#### [GroupDocs.Signature](./signature/hu/)
+#### [GroupDocs.Signature](../signature/hu/)
 {{% alert color="primary" %}}
 **Digitális aláírások hozzáadása dokumentumokhoz**  
 Elektronikus aláírások implementálása szöveg, kép, digitális tanúsítvány, vonalkód, QR kód és bélyegzőaláírások támogatásával különböző dokumentumtípusokban.
 {{% /alert %}}
 
-* [GroupDocs.Signature for .NET Oktatóanyagok](./signature/hu/net/)
-* [GroupDocs.Signature for Java Oktatóanyagok](./signature/hu/java/)
+* [GroupDocs.Signature for .NET Oktatóanyagok](../signature/hu/net/)
+* [GroupDocs.Signature for Java Oktatóanyagok](../signature/hu/java/)
 
 ---
 
 ### Információvédelem
 
-#### [GroupDocs.Watermark](./watermark/hu/)
+#### [GroupDocs.Watermark](../watermark/hu/)
 {{% alert color="primary" %}}
 **Dokumentum-vízjelek hozzáadása és kezelése**  
 Vízjelek alkalmazása, keresése és eltávolítása szöveg, kép és alakzat vízjelek támogatásával különböző dokumentumformátumokban a tartalomvédelem érdekében.
 {{% /alert %}}
 
-* [GroupDocs.Watermark for .NET Oktatóanyagok](./watermark/hu/net/)
-* [GroupDocs.Watermark for Java Oktatóanyagok](./watermark/hu/java/)
+* [GroupDocs.Watermark for .NET Oktatóanyagok](../watermark/hu/net/)
+* [GroupDocs.Watermark for Java Oktatóanyagok](../watermark/hu/java/)
 
 ---
 
 ### Tartalom Szerkesztés
 
-#### [GroupDocs.Redaction](./redaction/hu/)
+#### [GroupDocs.Redaction](../redaction/hu/)
 {{% alert color="primary" %}}
 **Érzékeny információk eltávolítása dokumentumokból**  
 Érzékeny információk biztonságos szerkesztése szöveg, metaadat és annotáció szerkesztés támogatásával több fájlformátumban a megfelelőségi követelmények teljesítéséhez.
 {{% /alert %}}
 
-* [GroupDocs.Redaction for .NET Oktatóanyagok](./redaction/hu/net/)
-* [GroupDocs.Redaction for Java Oktatóanyagok](./redaction/hu/java/)
+* [GroupDocs.Redaction for .NET Oktatóanyagok](../redaction/hu/net/)
+* [GroupDocs.Redaction for Java Oktatóanyagok](../redaction/hu/java/)
 
 ---
 
@@ -113,14 +113,14 @@ Vízjelek alkalmazása, keresése és eltávolítása szöveg, kép és alakzat 
 
 ### Dokumentummanipuláció
 
-#### [GroupDocs.Merger](./merger/hu/)
+#### [GroupDocs.Merger](../merger/hu/)
 {{% alert color="primary" %}}
 **Dokumentumoldalak egyesítése, felosztása és kezelése**  
 Több dokumentum kombinálása, nagy fájlok felosztása, oldalak átrendezése és specifikus dokumentumrészek kivonása a dokumentum integritásának megőrzése mellett.
 {{% /alert %}}
 
-* [GroupDocs.Merger for .NET Oktatóanyagok](./merger/hu/net/)
-* [GroupDocs.Merger for Java Oktatóanyagok](./merger/hu/java/)
+* [GroupDocs.Merger for .NET Oktatóanyagok](../merger/hu/net/)
+* [GroupDocs.Merger for Java Oktatóanyagok](../merger/hu/java/)
 
 ---
 
@@ -139,14 +139,14 @@ Dinamikus jelentések, számlák és személyre szabott dokumentumok generálás
 
 ### Dokumentumszerkesztés
 
-#### [GroupDocs.Editor](./editor/hu/)
+#### [GroupDocs.Editor](../editor/hu/)
 {{% alert color="primary" %}}
 **Dokumentumok szerkesztése webes alkalmazásokban**  
 WYSIWYG dokumentumszerkesztés implementálása különböző dokumentumformátumok támogatásával és zökkenőmentes integráció a népszerű böngészőalapú HTML szerkesztőkkel.
 {{% /alert %}}
 
-* [GroupDocs.Editor for .NET Oktatóanyagok](./editor/hu/net/)
-* [GroupDocs.Editor for Java Oktatóanyagok](./editor/hu/java/)
+* [GroupDocs.Editor for .NET Oktatóanyagok](../editor/hu/net/)
+* [GroupDocs.Editor for Java Oktatóanyagok](../editor/hu/java/)
 
 ---
 
@@ -154,40 +154,40 @@ WYSIWYG dokumentumszerkesztés implementálása különböző dokumentumformátu
 
 ### Metaadat Kezelés
 
-#### [GroupDocs.Metadata](./metadata/hu/)
+#### [GroupDocs.Metadata](../metadata/hu/)
 {{% alert color="primary" %}}
 **Dokumentum és média metaadatok kezelése**  
 Metaadatok olvasása, írása, szerkesztése és eltávolítása különböző fájlformátumokban, standard és egyéni metaadat tulajdonságok támogatásával a továbbfejlesztett dokumentumkezelés érdekében.
 {{% /alert %}}
 
-* [GroupDocs.Metadata for .NET Oktatóanyagok](./metadata/hu/net/)
-* [GroupDocs.Metadata for Java Oktatóanyagok](./metadata/hu/java/)
+* [GroupDocs.Metadata for .NET Oktatóanyagok](../metadata/hu/net/)
+* [GroupDocs.Metadata for Java Oktatóanyagok](../metadata/hu/java/)
 
 ---
 
 ### Dokumentumkeresés
 
-#### [GroupDocs.Search](./search/hu/)
+#### [GroupDocs.Search](../search/hu/)
 {{% alert color="primary" %}}
 **Hatékony dokumentumkeresési funkció implementálása**  
 Gyors és pontos dokumentumkeresés hozzáadása összetett lekérdezések, fuzzy keresés, szinonimák és többféle fájlformátum indexelés támogatásával.
 {{% /alert %}}
 
-* [GroupDocs.Search for .NET Oktatóanyagok](./search/hu/net/)
-* [GroupDocs.Search for Java Oktatóanyagok](./search/hu/java/)
+* [GroupDocs.Search for .NET Oktatóanyagok](../search/hu/net/)
+* [GroupDocs.Search for Java Oktatóanyagok](../search/hu/java/)
 
 ---
 
 ### Tartalom Kinyerés
 
-#### [GroupDocs.Parser](./parser/hu/)
+#### [GroupDocs.Parser](../parser/hu/)
 {{% alert color="primary" %}}
 **Szöveg és adatok kinyerése dokumentumokból**  
 Strukturált és strukturálatlan adatok elemzése különböző dokumentumformátumokból szövegkinyerés, metaadat lekérés és dokumentumelemzés támogatásával.
 {{% /alert %}}
 
-* [GroupDocs.Parser for .NET Oktatóanyagok](./parser/hu/net/)
-* [GroupDocs.Parser for Java Oktatóanyagok](./parser/hu/java/)
+* [GroupDocs.Parser for .NET Oktatóanyagok](../parser/hu/net/)
+* [GroupDocs.Parser for Java Oktatóanyagok](../parser/hu/java/)
 
 ---
 

@@ -18,53 +18,53 @@ url: /th/
 
 ### การแสดงเอกสาร
 
-#### [GroupDocs.Viewer](./viewer/th/)
+#### [GroupDocs.Viewer](../viewer/th/)
 {{% alert color="primary" %}}
 **แสดงรูปแบบเอกสารใดก็ได้ในแอปพลิเคชันของคุณ**  
 เรนเดอร์เอกสาร 170+ รูปแบบ รวมถึง PDF ไฟล์ Office ภาพวาด CAD และรูปภาพ ด้วยการเรนเดอร์ความเที่ยงตรงสูงและตัวเลือก UI ที่ปรับแต่งได้
 {{% /alert %}}
 
-* [บทเรียน GroupDocs.Viewer for .NET](./viewer/th/net/)
-* [บทเรียน GroupDocs.Viewer for Java](./viewer/th/java/)
+* [บทเรียน GroupDocs.Viewer for .NET](../viewer/th/net/)
+* [บทเรียน GroupDocs.Viewer for Java](../viewer/th/java/)
 
 ---
 
 ### การแปลงเอกสาร
 
-#### [GroupDocs.Conversion](./conversion/th/)
+#### [GroupDocs.Conversion](../conversion/th/)
 {{% alert color="primary" %}}
 **การแปลงระหว่างรูปแบบเอกสารอย่างราบรื่น**  
 แปลงเอกสารระหว่าง 50+ รูปแบบด้วยความแม่นยำและประสิทธิภาพสูง รองรับการประมวลผลแบบกลุ่มและตัวเลือกการปรับแต่งที่หลากหลาย
 {{% /alert %}}
 
-* [บทเรียน GroupDocs.Conversion for .NET](./conversion/th/net/)
-* [บทเรียน GroupDocs.Conversion for Java](./conversion/th/java/)
+* [บทเรียน GroupDocs.Conversion for .NET](../conversion/th/net/)
+* [บทเรียน GroupDocs.Conversion for Java](../conversion/th/java/)
 
 ---
 
 ### การเปรียบเทียบเอกสาร
 
-#### [GroupDocs.Comparison](./comparison/th/)
+#### [GroupDocs.Comparison](../comparison/th/)
 {{% alert color="primary" %}}
 **ตรวจจับและเน้นการเปลี่ยนแปลงเอกสาร**  
 เปรียบเทียบเอกสารในรูปแบบต่างๆ ด้วยความแม่นยำระดับย่อหน้า เน้นความแตกต่าง และสร้างรายงานการเปรียบเทียบที่ละเอียด
 {{% /alert %}}
 
-* [บทเรียน GroupDocs.Comparison for .NET](./comparison/th/net/)
-* [บทเรียน GroupDocs.Comparison for Java](./comparison/th/java/)
+* [บทเรียน GroupDocs.Comparison for .NET](../comparison/th/net/)
+* [บทเรียน GroupDocs.Comparison for Java](../comparison/th/java/)
 
 ---
 
 ### การใส่หมายเหตุเอกสาร
 
-#### [GroupDocs.Annotation](./annotation/th/)
+#### [GroupDocs.Annotation](../annotation/th/)
 {{% alert color="primary" %}}
 **เปิดใช้งานการตรวจสอบเอกสารแบบร่วมมือ**  
 เพิ่ม แก้ไข และจัดการหมายเหตุด้วยการรองรับการเน้นข้อความ รูปร่าง การชี้ การแทนที่ข้อความ และอื่นๆ ในรูปแบบเอกสารหลายรูปแบบ
 {{% /alert %}}
 
-* [บทเรียน GroupDocs.Annotation for .NET](./annotation/th/net/)
-* [บทเรียน GroupDocs.Annotation for Java](./annotation/th/java/)
+* [บทเรียน GroupDocs.Annotation for .NET](../annotation/th/net/)
+* [บทเรียน GroupDocs.Annotation for Java](../annotation/th/java/)
 
 ---
 
@@ -72,40 +72,40 @@ url: /th/
 
 ### ลายเซ็นดิจิทัล
 
-#### [GroupDocs.Signature](./signature/th/)
+#### [GroupDocs.Signature](../signature/th/)
 {{% alert color="primary" %}}
 **เพิ่มลายเซ็นดิจิทัลให้กับเอกสาร**  
 นำลายเซ็นอิเล็กทรอนิกส์ไปใช้ด้วยการรองรับข้อความ รูปภาพ ใบรับรองดิจิทัล บาร์โค้ด QR โค้ด และลายเซ็นประทับในเอกสารประเภทต่างๆ
 {{% /Alert %}}
 
-* [บทเรียน GroupDocs.Signature for .NET](./signature/th/net/)
-* [บทเรียน GroupDocs.Signature for Java](./signature/th/java/)
+* [บทเรียน GroupDocs.Signature for .NET](../signature/th/net/)
+* [บทเรียน GroupDocs.Signature for Java](../signature/th/java/)
 
 ---
 
 ### การป้องกันข้อมูล
 
-#### [GroupDocs.Watermark](./watermark/th/)
+#### [GroupDocs.Watermark](../watermark/th/)
 {{% alert color="primary" %}}
 **เพิ่มและจัดการลายน้ำเอกสาร**  
 ใช้ ค้นหา และลบลายน้ำด้วยการรองรับลายน้ำข้อความ รูปภาพ และรูปร่างในรูปแบบเอกสารต่างๆ เพื่อการป้องกันเนื้อหา
 {{% /alert %}}
 
-* [บทเรียน GroupDocs.Watermark for .NET](./watermark/th/net/)
-* [บทเรียน GroupDocs.Watermark for Java](./watermark/th/java/)
+* [บทเรียน GroupDocs.Watermark for .NET](../watermark/th/net/)
+* [บทเรียน GroupDocs.Watermark for Java](../watermark/th/java/)
 
 ---
 
 ### การแก้ไขเนื้อหา
 
-#### [GroupDocs.Redaction](./redaction/th/)
+#### [GroupDocs.Redaction](../redaction/th/)
 {{% alert color="primary" %}}
 **ลบข้อมูลที่ละเอียดอ่อนออกจากเอกสาร**  
 แก้ไขข้อมูลที่ละเอียดอ่อนอย่างปลอดภัยด้วยการรองรับการแก้ไขข้อความ เมตาดาต้า และหมายเหตุในรูปแบบไฟล์หลายรูปแบบสำหรับข้อกำหนดการปฏิบัติตาม
 {{% /alert %}}
 
-* [บทเรียน GroupDocs.Redaction for .NET](./redaction/th/net/)
-* [บทเรียน GroupDocs.Redaction for Java](./redaction/th/java/)
+* [บทเรียน GroupDocs.Redaction for .NET](../redaction/th/net/)
+* [บทเรียน GroupDocs.Redaction for Java](../redaction/th/java/)
 
 ---
 
@@ -113,14 +113,14 @@ url: /th/
 
 ### การจัดการเอกสาร
 
-#### [GroupDocs.Merger](./merger/th/)
+#### [GroupDocs.Merger](../merger/th/)
 {{% alert color="primary" %}}
 **รวม แยก และจัดการหน้าเอกสาร**  
 รวมเอกสารหลายฉบับ แยกไฟล์ขนาดใหญ่ จัดเรียงหน้าใหม่ และแยกส่วนเอกสารเฉพาะในขณะที่ยังคงความสมบูรณ์ของเอกสาร
 {{% /alert %}}
 
-* [บทเรียน GroupDocs.Merger for .NET](./merger/th/net/)
-* [บทเรียน GroupDocs.Merger for Java](./merger/th/java/)
+* [บทเรียน GroupDocs.Merger for .NET](../merger/th/net/)
+* [บทเรียน GroupDocs.Merger for Java](../merger/th/java/)
 
 ---
 
@@ -139,14 +139,14 @@ url: /th/
 
 ### การแก้ไขเอกสาร
 
-#### [GroupDocs.Editor](./editor/th/)
+#### [GroupDocs.Editor](../editor/th/)
 {{% alert color="primary" %}}
 **แก้ไขเอกสารในแอปพลิเคชันเว็บ**  
 นำการแก้ไขเอกสาร WYSIWYG ไปใช้ด้วยการรองรับรูปแบบเอกสารต่างๆ และการผสานรวมที่ราบรื่นกับตัวแก้ไข HTML ยอดนิยมบนเบราว์เซอร์
 {{% /alert %}}
 
-* [บทเรียน GroupDocs.Editor for .NET](./editor/th/net/)
-* [บทเรียน GroupDocs.Editor for Java](./editor/th/java/)
+* [บทเรียน GroupDocs.Editor for .NET](../editor/th/net/)
+* [บทเรียน GroupDocs.Editor for Java](../editor/th/java/)
 
 ---
 
@@ -154,40 +154,40 @@ url: /th/
 
 ### การจัดการเมตาดาต้า
 
-#### [GroupDocs.Metadata](./metadata/th/)
+#### [GroupDocs.Metadata](../metadata/th/)
 {{% alert color="primary" %}}
 **จัดการเมตาดาต้าเอกสารและสื่อ**  
 อ่าน เขียน แก้ไข และลบเมตาดาต้าในรูปแบบไฟล์ต่างๆ ด้วยการรองรับคุณสมบัติเมตาดาต้ามาตรฐานและแบบกำหนดเองสำหรับการจัดการเอกสารที่ดีขึ้น
 {{% /alert %}}
 
-* [บทเรียน GroupDocs.Metadata for .NET](./metadata/th/net/)
-* [บทเรียน GroupDocs.Metadata for Java](./metadata/th/java/)
+* [บทเรียน GroupDocs.Metadata for .NET](../metadata/th/net/)
+* [บทเรียน GroupDocs.Metadata for Java](../metadata/th/java/)
 
 ---
 
 ### การค้นหาเอกสาร
 
-#### [GroupDocs.Search](./search/th/)
+#### [GroupDocs.Search](../search/th/)
 {{% alert color="primary" %}}
 **นำฟังก์ชันการค้นหาเอกสารที่ทรงพลังไปใช้**  
 เพิ่มการค้นหาเอกสารที่รวดเร็วและแม่นยำด้วยการรองรับการสืบค้นที่ซับซ้อน การค้นหาแบบคลุมเครือ คำพ้องความหมาย และการสร้างดัชนีรูปแบบไฟล์หลายรูปแบบ
 {{% /alert %}}
 
-* [บทเรียน GroupDocs.Search for .NET](./search/th/net/)
-* [บทเรียน GroupDocs.Search for Java](./search/th/java/)
+* [บทเรียน GroupDocs.Search for .NET](../search/th/net/)
+* [บทเรียน GroupDocs.Search for Java](../search/th/java/)
 
 ---
 
 ### การแยกเนื้อหา
 
-#### [GroupDocs.Parser](./parser/th/)
+#### [GroupDocs.Parser](../parser/th/)
 {{% alert color="primary" %}}
 **แยกข้อความและข้อมูลจากเอกสาร**  
 แยกวิเคราะห์ข้อมูลที่มีโครงสร้างและไม่มีโครงสร้างจากรูปแบบเอกสารต่างๆ ด้วยการรองรับการแยกข้อความ การดึงเมตาดาต้า และการวิเคราะห์เอกสาร
 {{% /alert %}}
 
-* [บทเรียน GroupDocs.Parser for .NET](./parser/th/net/)
-* [บทเรียน GroupDocs.Parser for Java](./parser/th/java/)
+* [บทเรียน GroupDocs.Parser for .NET](../parser/th/net/)
+* [บทเรียน GroupDocs.Parser for Java](../parser/th/java/)
 
 ---
 

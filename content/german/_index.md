@@ -18,53 +18,53 @@ Willkommen im offiziellen Tutorial-Zentrum für GroupDocs Dokumentbearbeitungs-A
 
 ### Dokumentanzeige
 
-#### [GroupDocs.Viewer](./viewer/de/)
+#### [GroupDocs.Viewer](../viewer/de/)
 {{% alert color="primary" %}}
 **Zeigen Sie jedes Dokumentformat in Ihrer Anwendung an**  
 Rendern Sie 170+ Dokumentformate einschließlich PDF, Office-Dateien, CAD-Zeichnungen und Bilder mit hochauflösender Darstellung und anpassbaren UI-Optionen.
 {{% /alert %}}
 
-* [GroupDocs.Viewer for .NET Tutorials](./viewer/de/net/)
-* [GroupDocs.Viewer for Java Tutorials](./viewer/de/java/)
+* [GroupDocs.Viewer for .NET Tutorials](../viewer/de/net/)
+* [GroupDocs.Viewer for Java Tutorials](../viewer/de/java/)
 
 ---
 
 ### Dokumentkonvertierung
 
-#### [GroupDocs.Conversion](./conversion/de/)
+#### [GroupDocs.Conversion](../conversion/de/)
 {{% alert color="primary" %}}
 **Nahtlose Konvertierung zwischen Dokumentformaten**  
 Transformieren Sie Dokumente zwischen 50+ Formaten mit hoher Genauigkeit und Leistung, unterstützt Stapelverarbeitung und umfangreiche Anpassungsoptionen.
 {{% /alert %}}
 
-* [GroupDocs.Conversion for .NET Tutorials](./conversion/de/net/)
-* [GroupDocs.Conversion for Java Tutorials](./conversion/de/java/)
+* [GroupDocs.Conversion for .NET Tutorials](../conversion/de/net/)
+* [GroupDocs.Conversion for Java Tutorials](../conversion/de/java/)
 
 ---
 
 ### Dokumentvergleich
 
-#### [GroupDocs.Comparison](./comparison/de/)
+#### [GroupDocs.Comparison](../comparison/de/)
 {{% alert color="primary" %}}
 **Erkennen und hervorheben Sie Dokumentänderungen**  
 Vergleichen Sie Dokumente verschiedener Formate mit absatzgenauer Präzision, heben Sie Unterschiede hervor und erstellen Sie detaillierte Vergleichsberichte.
 {{% /alert %}}
 
-* [GroupDocs.Comparison for .NET Tutorials](./comparison/de/net/)
-* [GroupDocs.Comparison for Java Tutorials](./comparison/de/java/)
+* [GroupDocs.Comparison for .NET Tutorials](../comparison/de/net/)
+* [GroupDocs.Comparison for Java Tutorials](../comparison/de/java/)
 
 ---
 
 ### Dokumentannotation
 
-#### [GroupDocs.Annotation](./annotation/de/)
+#### [GroupDocs.Annotation](../annotation/de/)
 {{% alert color="primary" %}}
 **Ermöglichen Sie kollaborative Dokumentprüfung**  
 Fügen Sie Annotationen hinzu, bearbeiten und verwalten Sie diese mit Unterstützung für Texthervorhebung, Formen, Zeigen, Textersetzung und mehr über mehrere Dokumentformate hinweg.
 {{% /alert %}}
 
-* [GroupDocs.Annotation for .NET Tutorials](./annotation/de/net/)
-* [GroupDocs.Annotation for Java Tutorials](./annotation/de/java/)
+* [GroupDocs.Annotation for .NET Tutorials](../annotation/de/net/)
+* [GroupDocs.Annotation for Java Tutorials](../annotation/de/java/)
 
 ---
 
@@ -72,40 +72,40 @@ Fügen Sie Annotationen hinzu, bearbeiten und verwalten Sie diese mit Unterstüt
 
 ### Digitale Signaturen
 
-#### [GroupDocs.Signature](./signature/de/)
+#### [GroupDocs.Signature](../signature/de/)
 {{% alert color="primary" %}}
 **Fügen Sie digitale Signaturen zu Dokumenten hinzu**  
 Implementieren Sie elektronische Signaturen mit Unterstützung für Text-, Bild-, Digitalzertifikat-, Barcode-, QR-Code- und Stempelsignaturen über verschiedene Dokumenttypen hinweg.
 {{% /alert %}}
 
-* [GroupDocs.Signature for .NET Tutorials](./signature/de/net/)
-* [GroupDocs.Signature for Java Tutorials](./signature/de/java/)
+* [GroupDocs.Signature for .NET Tutorials](../signature/de/net/)
+* [GroupDocs.Signature for Java Tutorials](../signature/de/java/)
 
 ---
 
 ### Informationsschutz
 
-#### [GroupDocs.Watermark](./watermark/de/)
+#### [GroupDocs.Watermark](../watermark/de/)
 {{% alert color="primary" %}}
 **Hinzufügen und Verwalten von Dokumentwasserzeichen**  
 Wenden Sie Wasserzeichen an, finden und entfernen Sie diese mit Unterstützung für Text-, Bild- und Formwasserzeichen über verschiedene Dokumentformate hinweg zum Inhaltsschutz.
 {{% /alert %}}
 
-* [GroupDocs.Watermark for .NET Tutorials](./watermark/de/net/)
-* [GroupDocs.Watermark for Java Tutorials](./watermark/de/java/)
+* [GroupDocs.Watermark for .NET Tutorials](../watermark/de/net/)
+* [GroupDocs.Watermark for Java Tutorials](../watermark/de/java/)
 
 ---
 
 ### Inhaltsredaktion
 
-#### [GroupDocs.Redaction](./redaction/de/)
+#### [GroupDocs.Redaction](../redaction/de/)
 {{% alert color="primary" %}}
 **Entfernen Sie sensible Informationen aus Dokumenten**  
 Redigieren Sie sensible Informationen sicher mit Unterstützung für Text-, Metadaten- und Annotationsredaktion über mehrere Dateiformate hinweg für Compliance-Anforderungen.
 {{% /alert %}}
 
-* [GroupDocs.Redaction for .NET Tutorials](./redaction/de/net/)
-* [GroupDocs.Redaction for Java Tutorials](./redaction/de/java/)
+* [GroupDocs.Redaction for .NET Tutorials](../redaction/de/net/)
+* [GroupDocs.Redaction for Java Tutorials](../redaction/de/java/)
 
 ---
 
@@ -113,14 +113,14 @@ Redigieren Sie sensible Informationen sicher mit Unterstützung für Text-, Meta
 
 ### Dokumentmanipulation
 
-#### [GroupDocs.Merger](./merger/de/)
+#### [GroupDocs.Merger](../merger/de/)
 {{% alert color="primary" %}}
 **Zusammenfügen, Teilen und Verwalten von Dokumentseiten**  
 Kombinieren Sie mehrere Dokumente, teilen Sie große Dateien, ordnen Sie Seiten neu an und extrahieren Sie spezifische Dokumentabschnitte unter Beibehaltung der Dokumentintegrität.
 {{% /alert %}}
 
-* [GroupDocs.Merger for .NET Tutorials](./merger/de/net/)
-* [GroupDocs.Merger for Java Tutorials](./merger/de/java/)
+* [GroupDocs.Merger for .NET Tutorials](../merger/de/net/)
+* [GroupDocs.Merger for Java Tutorials](../merger/de/java/)
 
 ---
 
@@ -139,14 +139,14 @@ Generieren Sie dynamische Berichte, Rechnungen und personalisierte Dokumente dur
 
 ### Dokumentbearbeitung
 
-#### [GroupDocs.Editor](./editor/de/)
+#### [GroupDocs.Editor](../editor/de/)
 {{% alert color="primary" %}}
 **Bearbeiten Sie Dokumente in Webanwendungen**  
 Implementieren Sie WYSIWYG-Dokumentbearbeitung mit Unterstützung für verschiedene Dokumentformate und nahtlose Integration mit beliebten browserbasierten HTML-Editoren.
 {{% /alert %}}
 
-* [GroupDocs.Editor for .NET Tutorials](./editor/de/net/)
-* [GroupDocs.Editor for Java Tutorials](./editor/de/java/)
+* [GroupDocs.Editor for .NET Tutorials](../editor/de/net/)
+* [GroupDocs.Editor for Java Tutorials](../editor/de/java/)
 
 ---
 
@@ -154,40 +154,40 @@ Implementieren Sie WYSIWYG-Dokumentbearbeitung mit Unterstützung für verschied
 
 ### Metadatenverwaltung
 
-#### [GroupDocs.Metadata](./metadata/de/)
+#### [GroupDocs.Metadata](../metadata/de/)
 {{% alert color="primary" %}}
 **Verwalten Sie Dokument- und Medienmetadaten**  
 Lesen, schreiben, bearbeiten und entfernen Sie Metadaten in verschiedenen Dateiformaten mit Unterstützung für Standard- und benutzerdefinierte Metadaten-Eigenschaften für verbesserte Dokumentenverwaltung.
 {{% /alert %}}
 
-* [GroupDocs.Metadata for .NET Tutorials](./metadata/de/net/)
-* [GroupDocs.Metadata for Java Tutorials](./metadata/de/java/)
+* [GroupDocs.Metadata for .NET Tutorials](../metadata/de/net/)
+* [GroupDocs.Metadata for Java Tutorials](../metadata/de/java/)
 
 ---
 
 ### Dokumentensuche
 
-#### [GroupDocs.Search](./search/de/)
+#### [GroupDocs.Search](../search/de/)
 {{% alert color="primary" %}}
 **Implementieren Sie leistungsstarke Dokumentsuchfunktionalität**  
 Fügen Sie schnelle und präzise Dokumentensuche mit Unterstützung für komplexe Abfragen, unscharfe Suche, Synonyme und Indizierung mehrerer Dateiformate hinzu.
 {{% /alert %}}
 
-* [GroupDocs.Search for .NET Tutorials](./search/de/net/)
-* [GroupDocs.Search for Java Tutorials](./search/de/java/)
+* [GroupDocs.Search for .NET Tutorials](../search/de/net/)
+* [GroupDocs.Search for Java Tutorials](../search/de/java/)
 
 ---
 
 ### Inhaltsextraktion
 
-#### [GroupDocs.Parser](./parser/de/)
+#### [GroupDocs.Parser](../parser/de/)
 {{% alert color="primary" %}}
 **Extrahieren Sie Text und Daten aus Dokumenten**  
 Parsen Sie strukturierte und unstrukturierte Daten aus verschiedenen Dokumentformaten mit Unterstützung für Textextraktion, Metadatenabruf und Dokumentanalyse.
 {{% /alert %}}
 
-* [GroupDocs.Parser for .NET Tutorials](./parser/de/net/)
-* [GroupDocs.Parser for Java Tutorials](./parser/de/java/)
+* [GroupDocs.Parser for .NET Tutorials](../parser/de/net/)
+* [GroupDocs.Parser for Java Tutorials](../parser/de/java/)
 
 ---
 

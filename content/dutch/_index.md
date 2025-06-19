@@ -18,53 +18,53 @@ Welkom bij het officiële tutorial-centrum voor GroupDocs document manipulatie A
 
 ### Documentweergave
 
-#### [GroupDocs.Viewer](./viewer/nl/)
+#### [GroupDocs.Viewer](../viewer/nl/)
 {{% alert color="primary" %}}
 **Toon elk documentformaat in je applicatie**  
 Render 170+ documentformaten inclusief PDF, Office-bestanden, CAD-tekeningen en afbeeldingen met hoogwaardige rendering en aanpasbare UI-opties.
 {{% /alert %}}
 
-* [GroupDocs.Viewer for .NET Tutorials](./viewer/nl/net/)
-* [GroupDocs.Viewer for Java Tutorials](./viewer/nl/java/)
+* [GroupDocs.Viewer for .NET Tutorials](../viewer/nl/net/)
+* [GroupDocs.Viewer for Java Tutorials](../viewer/nl/java/)
 
 ---
 
 ### Documentconversie
 
-#### [GroupDocs.Conversion](./conversion/nl/)
+#### [GroupDocs.Conversion](../conversion/nl/)
 {{% alert color="primary" %}}
 **Converteer naadloos tussen documentformaten**  
 Transformeer documenten tussen 50+ formaten met hoge nauwkeurigheid en prestaties, ondersteunt batchverwerking en uitgebreide aanpassingsopties.
 {{% /alert %}}
 
-* [GroupDocs.Conversion for .NET Tutorials](./conversion/nl/net/)
-* [GroupDocs.Conversion for Java Tutorials](./conversion/nl/java/)
+* [GroupDocs.Conversion for .NET Tutorials](../conversion/nl/net/)
+* [GroupDocs.Conversion for Java Tutorials](../conversion/nl/java/)
 
 ---
 
 ### Documentvergelijking
 
-#### [GroupDocs.Comparison](./comparison/nl/)
+#### [GroupDocs.Comparison](../comparison/nl/)
 {{% alert color="primary" %}}
 **Detecteer en markeer documentwijzigingen**  
 Vergelijk documenten tussen verschillende formaten met alinea-niveau precisie, markeer verschillen en genereer gedetailleerde vergelijkingsrapporten.
 {{% /alert %}}
 
-* [GroupDocs.Comparison for .NET Tutorials](./comparison/nl/net/)
-* [GroupDocs.Comparison for Java Tutorials](./comparison/nl/java/)
+* [GroupDocs.Comparison for .NET Tutorials](../comparison/nl/net/)
+* [GroupDocs.Comparison for Java Tutorials](../comparison/nl/java/)
 
 ---
 
 ### Documentannotatie
 
-#### [GroupDocs.Annotation](./annotation/nl/)
+#### [GroupDocs.Annotation](../annotation/nl/)
 {{% alert color="primary" %}}
 **Schakel collaboratieve documentbeoordeling in**  
 Voeg annotaties toe, bewerk en beheer ze met ondersteuning voor tekstmarkering, vormen, wijzen, tekstvervanging en meer over meerdere documentformaten.
 {{% /alert %}}
 
-* [GroupDocs.Annotation for .NET Tutorials](./annotation/nl/net/)
-* [GroupDocs.Annotation for Java Tutorials](./annotation/nl/java/)
+* [GroupDocs.Annotation for .NET Tutorials](../annotation/nl/net/)
+* [GroupDocs.Annotation for Java Tutorials](../annotation/nl/java/)
 
 ---
 
@@ -72,40 +72,40 @@ Voeg annotaties toe, bewerk en beheer ze met ondersteuning voor tekstmarkering, 
 
 ### Digitale Handtekeningen
 
-#### [GroupDocs.Signature](./signature/nl/)
+#### [GroupDocs.Signature](../signature/nl/)
 {{% alert color="primary" %}}
 **Voeg digitale handtekeningen toe aan documenten**  
 Implementeer elektronische handtekeningen met ondersteuning voor tekst, afbeelding, digitaal certificaat, barcode, QR-code en stempelhandtekeningen over verschillende documenttypen.
 {{% /alert %}}
 
-* [GroupDocs.Signature for .NET Tutorials](./signature/nl/net/)
-* [GroupDocs.Signature for Java Tutorials](./signature/nl/java/)
+* [GroupDocs.Signature for .NET Tutorials](../signature/nl/net/)
+* [GroupDocs.Signature for Java Tutorials](../signature/nl/java/)
 
 ---
 
 ### Informatiebescherming
 
-#### [GroupDocs.Watermark](./watermark/nl/)
+#### [GroupDocs.Watermark](../watermark/nl/)
 {{% alert color="primary" %}}
 **Voeg watermerken toe aan documenten en beheer ze**  
 Pas watermerken toe, vind en verwijder ze met ondersteuning voor tekst-, afbeeldings- en vormwatermerken over verschillende documentformaten voor inhoudsbescherming.
 {{% /alert %}}
 
-* [GroupDocs.Watermark for .NET Tutorials](./watermark/nl/net/)
-* [GroupDocs.Watermark for Java Tutorials](./watermark/nl/java/)
+* [GroupDocs.Watermark for .NET Tutorials](../watermark/nl/net/)
+* [GroupDocs.Watermark for Java Tutorials](../watermark/nl/java/)
 
 ---
 
 ### Inhoud Redactie
 
-#### [GroupDocs.Redaction](./redaction/nl/)
+#### [GroupDocs.Redaction](../redaction/nl/)
 {{% alert color="primary" %}}
 **Verwijder gevoelige informatie uit documenten**  
 Redigeer gevoelige informatie veilig met ondersteuning voor tekst-, metadata- en annotatieredactie over meerdere bestandsformaten voor compliance-eisen.
 {{% /alert %}}
 
-* [GroupDocs.Redaction for .NET Tutorials](./redaction/nl/net/)
-* [GroupDocs.Redaction for Java Tutorials](./redaction/nl/java/)
+* [GroupDocs.Redaction for .NET Tutorials](../redaction/nl/net/)
+* [GroupDocs.Redaction for Java Tutorials](../redaction/nl/java/)
 
 ---
 
@@ -113,14 +113,14 @@ Redigeer gevoelige informatie veilig met ondersteuning voor tekst-, metadata- en
 
 ### Documentmanipulatie
 
-#### [GroupDocs.Merger](./merger/nl/)
+#### [GroupDocs.Merger](../merger/nl/)
 {{% alert color="primary" %}}
 **Voeg samen, splits en beheer documentpagina's**  
 Combineer meerdere documenten, splits grote bestanden, herrangschik pagina's en extraheer specifieke documentsecties terwijl de documentintegriteit behouden blijft.
 {{% /alert %}}
 
-* [GroupDocs.Merger for .NET Tutorials](./merger/nl/net/)
-* [GroupDocs.Merger for Java Tutorials](./merger/nl/java/)
+* [GroupDocs.Merger for .NET Tutorials](../merger/nl/net/)
+* [GroupDocs.Merger for Java Tutorials](../merger/nl/java/)
 
 ---
 
@@ -139,14 +139,14 @@ Genereer dynamische rapporten, facturen en gepersonaliseerde documenten door sja
 
 ### Documentbewerking
 
-#### [GroupDocs.Editor](./editor/nl/)
+#### [GroupDocs.Editor](../editor/nl/)
 {{% alert color="primary" %}}
 **Bewerk documenten in webapplicaties**  
 Implementeer WYSIWYG-documentbewerking met ondersteuning voor verschillende documentformaten en naadloze integratie met populaire browser-gebaseerde HTML-editors.
 {{% /alert %}}
 
-* [GroupDocs.Editor for .NET Tutorials](./editor/nl/net/)
-* [GroupDocs.Editor for Java Tutorials](./editor/nl/java/)
+* [GroupDocs.Editor for .NET Tutorials](../editor/nl/net/)
+* [GroupDocs.Editor for Java Tutorials](../editor/nl/java/)
 
 ---
 
@@ -154,40 +154,40 @@ Implementeer WYSIWYG-documentbewerking met ondersteuning voor verschillende docu
 
 ### Metadata Beheer
 
-#### [GroupDocs.Metadata](./metadata/nl/)
+#### [GroupDocs.Metadata](../metadata/nl/)
 {{% alert color="primary" %}}
 **Beheer document- en mediametadata**  
 Lees, schrijf, bewerk en verwijder metadata in verschillende bestandsformaten met ondersteuning voor standaard en aangepaste metadata-eigenschappen voor verbeterd documentbeheer.
 {{% /alert %}}
 
-* [GroupDocs.Metadata for .NET Tutorials](./metadata/nl/net/)
-* [GroupDocs.Metadata for Java Tutorials](./metadata/nl/java/)
+* [GroupDocs.Metadata for .NET Tutorials](../metadata/nl/net/)
+* [GroupDocs.Metadata for Java Tutorials](../metadata/nl/java/)
 
 ---
 
 ### Document Zoeken
 
-#### [GroupDocs.Search](./search/nl/)
+#### [GroupDocs.Search](../search/nl/)
 {{% alert color="primary" %}}
 **Implementeer krachtige documentzoekfunctionaliteit**  
 Voeg snel en nauwkeurig documentzoeken toe met ondersteuning voor complexe queries, fuzzy zoeken, synoniemen en indexering van meerdere bestandsformaten.
 {{% /alert %}}
 
-* [GroupDocs.Search for .NET Tutorials](./search/nl/net/)
-* [GroupDocs.Search for Java Tutorials](./search/nl/java/)
+* [GroupDocs.Search for .NET Tutorials](../search/nl/net/)
+* [GroupDocs.Search for Java Tutorials](../search/nl/java/)
 
 ---
 
 ### Inhoud Extractie
 
-#### [GroupDocs.Parser](./parser/nl/)
+#### [GroupDocs.Parser](../parser/nl/)
 {{% alert color="primary" %}}
 **Extraheer tekst en gegevens uit documenten**  
 Parseer gestructureerde en ongestructureerde gegevens uit verschillende documentformaten met ondersteuning voor tekstextractie, metadata-opvraging en documentanalyse.
 {{% /alert %}}
 
-* [GroupDocs.Parser for .NET Tutorials](./parser/nl/net/)
-* [GroupDocs.Parser for Java Tutorials](./parser/nl/java/)
+* [GroupDocs.Parser for .NET Tutorials](../parser/nl/net/)
+* [GroupDocs.Parser for Java Tutorials](../parser/nl/java/)
 
 ---
 

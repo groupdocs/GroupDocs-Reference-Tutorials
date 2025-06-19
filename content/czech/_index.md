@@ -18,53 +18,53 @@ Vítejte v oficiálním centru výukových programů pro GroupDocs API pro manip
 
 ### Zobrazení dokumentů
 
-#### [GroupDocs.Viewer](./viewer/cs/)
+#### [GroupDocs.Viewer](../viewer/cs/)
 {{% alert color="primary" %}}
 **Zobrazení jakéhokoli formátu dokumentu ve vaší aplikaci**  
 Vykreslování 170+ formátů dokumentů včetně PDF, Office souborů, CAD výkresů a obrázků s vysokou věrností vykreslování a přizpůsobitelnými možnostmi UI.
 {{% /alert %}}
 
-* [GroupDocs.Viewer for .NET Výukové programy](./viewer/cs/net/)
-* [GroupDocs.Viewer for Java Výukové programy](./viewer/cs/java/)
+* [GroupDocs.Viewer for .NET Výukové programy](../viewer/cs/net/)
+* [GroupDocs.Viewer for Java Výukové programy](../viewer/cs/java/)
 
 ---
 
 ### Konverze dokumentů
 
-#### [GroupDocs.Conversion](./conversion/cs/)
+#### [GroupDocs.Conversion](../conversion/cs/)
 {{% alert color="primary" %}}
 **Bezproblémová konverze mezi formáty dokumentů**  
 Transformace dokumentů mezi 50+ formáty s vysokou přesností a výkonem, podporující dávkové zpracování a rozsáhlé možnosti přizpůsobení.
 {{% /alert %}}
 
-* [GroupDocs.Conversion for .NET Výukové programy](./conversion/cs/net/)
-* [GroupDocs.Conversion for Java Výukové programy](./conversion/cs/java/)
+* [GroupDocs.Conversion for .NET Výukové programy](../conversion/cs/net/)
+* [GroupDocs.Conversion for Java Výukové programy](../conversion/cs/java/)
 
 ---
 
 ### Porovnání dokumentů
 
-#### [GroupDocs.Comparison](./comparison/cs/)
+#### [GroupDocs.Comparison](../comparison/cs/)
 {{% alert color="primary" %}}
 **Detekce a zvýraznění změn v dokumentech**  
 Porovnání dokumentů napříč různými formáty s přesností na úrovni odstavců, zvýraznění rozdílů a generování podrobných zpráv o porovnání.
 {{% /alert %}}
 
-* [GroupDocs.Comparison for .NET Výukové programy](./comparison/cs/net/)
-* [GroupDocs.Comparison for Java Výukové programy](./comparison/cs/java/)
+* [GroupDocs.Comparison for .NET Výukové programy](../comparison/cs/net/)
+* [GroupDocs.Comparison for Java Výukové programy](../comparison/cs/java/)
 
 ---
 
 ### Anotace dokumentů
 
-#### [GroupDocs.Annotation](./annotation/cs/)
+#### [GroupDocs.Annotation](../annotation/cs/)
 {{% alert color="primary" %}}
 **Umožnění kolaborativního přezkumu dokumentů**  
 Přidávání, úpravy a správa anotací s podporou zvýraznění textu, tvarů, ukazování, nahrazování textu a dalších napříč více formáty dokumentů.
 {{% /alert %}}
 
-* [GroupDocs.Annotation for .NET Výukové programy](./annotation/cs/net/)
-* [GroupDocs.Annotation for Java Výukové programy](./annotation/cs/java/)
+* [GroupDocs.Annotation for .NET Výukové programy](../annotation/cs/net/)
+* [GroupDocs.Annotation for Java Výukové programy](../annotation/cs/java/)
 
 ---
 
@@ -72,40 +72,40 @@ Přidávání, úpravy a správa anotací s podporou zvýraznění textu, tvarů
 
 ### Digitální podpisy
 
-#### [GroupDocs.Signature](./signature/cs/)
+#### [GroupDocs.Signature](../signature/cs/)
 {{% alert color="primary" %}}
 **Přidání digitálních podpisů k dokumentům**  
 Implementace elektronických podpisů s podporou textových, obrazových, digitálních certifikátů, čárových kódů, QR kódů a razítkových podpisů napříč různými typy dokumentů.
 {{% /alert %}}
 
-* [GroupDocs.Signature for .NET Výukové programy](./signature/cs/net/)
-* [GroupDocs.Signature for Java Výukové programy](./signature/cs/java/)
+* [GroupDocs.Signature for .NET Výukové programy](../signature/cs/net/)
+* [GroupDocs.Signature for Java Výukové programy](../signature/cs/java/)
 
 ---
 
 ### Ochrana informací
 
-#### [GroupDocs.Watermark](./watermark/cs/)
+#### [GroupDocs.Watermark](../watermark/cs/)
 {{% alert color="primary" %}}
 **Přidání a správa vodoznaků dokumentů**  
 Aplikace, vyhledávání a odstraňování vodoznaků s podporou textových, obrazových a tvarových vodoznaků napříč různými formáty dokumentů pro ochranu obsahu.
 {{% /alert %}}
 
-* [GroupDocs.Watermark for .NET Výukové programy](./watermark/cs/net/)
-* [GroupDocs.Watermark for Java Výukové programy](./watermark/cs/java/)
+* [GroupDocs.Watermark for .NET Výukové programy](../watermark/cs/net/)
+* [GroupDocs.Watermark for Java Výukové programy](../watermark/cs/java/)
 
 ---
 
 ### Redigování obsahu
 
-#### [GroupDocs.Redaction](./redaction/cs/)
+#### [GroupDocs.Redaction](../redaction/cs/)
 {{% alert color="primary" %}}
 **Odstranění citlivých informací z dokumentů**  
 Bezpečné redigování citlivých informací s podporou redigování textu, metadat a anotací napříč více formáty souborů pro požadavky na dodržování předpisů.
 {{% /alert %}}
 
-* [GroupDocs.Redaction for .NET Výukové programy](./redaction/cs/net/)
-* [GroupDocs.Redaction for Java Výukové programy](./redaction/cs/java/)
+* [GroupDocs.Redaction for .NET Výukové programy](../redaction/cs/net/)
+* [GroupDocs.Redaction for Java Výukové programy](../redaction/cs/java/)
 
 ---
 
@@ -113,14 +113,14 @@ Bezpečné redigování citlivých informací s podporou redigování textu, met
 
 ### Manipulace s dokumenty
 
-#### [GroupDocs.Merger](./merger/cs/)
+#### [GroupDocs.Merger](../merger/cs/)
 {{% alert color="primary" %}}
 **Spojování, rozdělování a správa stránek dokumentů**  
 Kombinování více dokumentů, rozdělování velkých souborů, přeuspořádání stránek a extrakce specifických sekcí dokumentů při zachování integrity dokumentu.
 {{% /alert %}}
 
-* [GroupDocs.Merger for .NET Výukové programy](./merger/cs/net/)
-* [GroupDocs.Merger for Java Výukové programy](./merger/cs/java/)
+* [GroupDocs.Merger for .NET Výukové programy](../merger/cs/net/)
+* [GroupDocs.Merger for Java Výukové programy](../merger/cs/java/)
 
 ---
 
@@ -139,14 +139,14 @@ Generování dynamických zpráv, faktur a personalizovaných dokumentů vyplňo
 
 ### Úpravy dokumentů
 
-#### [GroupDocs.Editor](./editor/cs/)
+#### [GroupDocs.Editor](../editor/cs/)
 {{% alert color="primary" %}}
 **Úprava dokumentů ve webových aplikacích**  
 Implementace WYSIWYG úprav dokumentů s podporou různých formátů dokumentů a bezproblémovou integrací s populárními HTML editory založenými na prohlížeči.
 {{% /alert %}}
 
-* [GroupDocs.Editor for .NET Výukové programy](./editor/cs/net/)
-* [GroupDocs.Editor for Java Výukové programy](./editor/cs/java/)
+* [GroupDocs.Editor for .NET Výukové programy](../editor/cs/net/)
+* [GroupDocs.Editor for Java Výukové programy](../editor/cs/java/)
 
 ---
 
@@ -154,40 +154,40 @@ Implementace WYSIWYG úprav dokumentů s podporou různých formátů dokumentů
 
 ### Správa metadat
 
-#### [GroupDocs.Metadata](./metadata/cs/)
+#### [GroupDocs.Metadata](../metadata/cs/)
 {{% alert color="primary" %}}
 **Správa metadat dokumentů a médií**  
 Čtení, zápis, úpravy a odstraňování metadat v různých formátech souborů s podporou standardních a vlastních vlastností metadat pro vylepšenou správu dokumentů.
 {{% /alert %}}
 
-* [GroupDocs.Metadata for .NET Výukové programy](./metadata/cs/net/)
-* [GroupDocs.Metadata for Java Výukové programy](./metadata/cs/java/)
+* [GroupDocs.Metadata for .NET Výukové programy](../metadata/cs/net/)
+* [GroupDocs.Metadata for Java Výukové programy](../metadata/cs/java/)
 
 ---
 
 ### Vyhledávání v dokumentech
 
-#### [GroupDocs.Search](./search/cs/)
+#### [GroupDocs.Search](../search/cs/)
 {{% alert color="primary" %}}
 **Implementace výkonné funkcionality vyhledávání dokumentů**  
 Přidání rychlého a přesného vyhledávání dokumentů s podporou složitých dotazů, fuzzy vyhledávání, synonym a indexování více formátů souborů.
 {{% /alert %}}
 
-* [GroupDocs.Search for .NET Výukové programy](./search/cs/net/)
-* [GroupDocs.Search for Java Výukové programy](./search/cs/java/)
+* [GroupDocs.Search for .NET Výukové programy](../search/cs/net/)
+* [GroupDocs.Search for Java Výukové programy](../search/cs/java/)
 
 ---
 
 ### Extrakce obsahu
 
-#### [GroupDocs.Parser](./parser/cs/)
+#### [GroupDocs.Parser](../parser/cs/)
 {{% alert color="primary" %}}
 **Extrakce textu a dat z dokumentů**  
 Analýza strukturovaných a nestrukturovaných dat z různých formátů dokumentů s podporou extrakce textu, získávání metadat a analýzy dokumentů.
 {{% /alert %}}
 
-* [GroupDocs.Parser for .NET Výukové programy](./parser/cs/net/)
-* [GroupDocs.Parser for Java Výukové programy](./parser/cs/java/)
+* [GroupDocs.Parser for .NET Výukové programy](../parser/cs/net/)
+* [GroupDocs.Parser for Java Výukové programy](../parser/cs/java/)
 
 ---
 

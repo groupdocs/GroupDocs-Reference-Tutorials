@@ -18,53 +18,53 @@ url: /el/
 
 ### Προβολή Εγγράφων
 
-#### [GroupDocs.Viewer](./viewer/el/)
+#### [GroupDocs.Viewer](../viewer/el/)
 {{% alert color="primary" %}}
 **Εμφάνιση οποιουδήποτε μορφότυπου εγγράφου στην εφαρμογή σας**  
 Απόδοση 170+ μορφότυπων εγγράφων συμπεριλαμβανομένων PDF, αρχείων Office, σχεδίων CAD και εικόνων με υψηλής πιστότητας απόδοση και προσαρμόσιμες επιλογές UI.
 {{% /alert %}}
 
-* [GroupDocs.Viewer for .NET Tutorials](./viewer/el/net/)
-* [GroupDocs.Viewer for Java Tutorials](./viewer/el/java/)
+* [GroupDocs.Viewer for .NET Tutorials](../viewer/el/net/)
+* [GroupDocs.Viewer for Java Tutorials](../viewer/el/java/)
 
 ---
 
 ### Μετατροπή Εγγράφων
 
-#### [GroupDocs.Conversion](./conversion/el/)
+#### [GroupDocs.Conversion](../conversion/el/)
 {{% alert color="primary" %}}
 **Απρόσκοπτη μετατροπή μεταξύ μορφότυπων εγγράφων**  
 Μετασχηματισμός εγγράφων μεταξύ 50+ μορφότυπων με υψηλή ακρίβεια και απόδοση, υποστηρίζοντας επεξεργασία παρτίδας και εκτεταμένες επιλογές προσαρμογής.
 {{% /alert %}}
 
-* [GroupDocs.Conversion for .NET Tutorials](./conversion/el/net/)
-* [GroupDocs.Conversion for Java Tutorials](./conversion/el/java/)
+* [GroupDocs.Conversion for .NET Tutorials](../conversion/el/net/)
+* [GroupDocs.Conversion for Java Tutorials](../conversion/el/java/)
 
 ---
 
 ### Σύγκριση Εγγράφων
 
-#### [GroupDocs.Comparison](./comparison/el/)
+#### [GroupDocs.Comparison](../comparison/el/)
 {{% alert color="primary" %}}
 **Εντοπισμός και επισήμανση αλλαγών εγγράφων**  
 Σύγκριση εγγράφων σε διάφορους μορφότυπους με ακρίβεια σε επίπεδο παραγράφου, επισήμανση διαφορών και δημιουργία λεπτομερών αναφορών σύγκρισης.
 {{% /alert %}}
 
-* [GroupDocs.Comparison for .NET Tutorials](./comparison/el/net/)
-* [GroupDocs.Comparison for Java Tutorials](./comparison/el/java/)
+* [GroupDocs.Comparison for .NET Tutorials](../comparison/el/net/)
+* [GroupDocs.Comparison for Java Tutorials](../comparison/el/java/)
 
 ---
 
 ### Σχολιασμός Εγγράφων
 
-#### [GroupDocs.Annotation](./annotation/el/)
+#### [GroupDocs.Annotation](../annotation/el/)
 {{% alert color="primary" %}}
 **Ενεργοποίηση συνεργατικής αξιολόγησης εγγράφων**  
 Προσθήκη, επεξεργασία και διαχείριση σχολιασμών με υποστήριξη για επισήμανση κειμένου, σχήματα, δεικτοδότηση, αντικατάσταση κειμένου και περισσότερα σε πολλαπλούς μορφότυπους εγγράφων.
 {{% /alert %}}
 
-* [GroupDocs.Annotation for .NET Tutorials](./annotation/el/net/)
-* [GroupDocs.Annotation for Java Tutorials](./annotation/el/java/)
+* [GroupDocs.Annotation for .NET Tutorials](../annotation/el/net/)
+* [GroupDocs.Annotation for Java Tutorials](../annotation/el/java/)
 
 ---
 
@@ -72,40 +72,40 @@ url: /el/
 
 ### Ψηφιακές Υπογραφές
 
-#### [GroupDocs.Signature](./signature/el/)
+#### [GroupDocs.Signature](../signature/el/)
 {{% alert color="primary" %}}
 **Προσθήκη ψηφιακών υπογραφών σε έγγραφα**  
 Υλοποίηση ηλεκτρονικών υπογραφών με υποστήριξη για κείμενο, εικόνα, ψηφιακό πιστοποιητικό, barcode, QR code και σφραγίδα σε διάφορους τύπους εγγράφων.
 {{% /alert %}}
 
-* [GroupDocs.Signature for .NET Tutorials](./signature/el/net/)
-* [GroupDocs.Signature for Java Tutorials](./signature/el/java/)
+* [GroupDocs.Signature for .NET Tutorials](../signature/el/net/)
+* [GroupDocs.Signature for Java Tutorials](../signature/el/java/)
 
 ---
 
 ### Προστασία Πληροφοριών
 
-#### [GroupDocs.Watermark](./watermark/el/)
+#### [GroupDocs.Watermark](../watermark/el/)
 {{% alert color="primary" %}}
 **Προσθήκη και διαχείριση υδατογραφημάτων εγγράφων**  
 Εφαρμογή, εύρεση και αφαίρεση υδατογραφημάτων με υποστήριξη για κείμενο, εικόνα και σχήματα σε διάφορους μορφότυπους εγγράφων για προστασία περιεχομένου.
 {{% /alert %}}
 
-* [GroupDocs.Watermark for .NET Tutorials](./watermark/el/net/)
-* [GroupDocs.Watermark for Java Tutorials](./watermark/el/java/)
+* [GroupDocs.Watermark for .NET Tutorials](../watermark/el/net/)
+* [GroupDocs.Watermark for Java Tutorials](../watermark/el/java/)
 
 ---
 
 ### Διόρθωση Περιεχομένου
 
-#### [GroupDocs.Redaction](./redaction/el/)
+#### [GroupDocs.Redaction](../redaction/el/)
 {{% alert color="primary" %}}
 **Αφαίρεση ευαίσθητων πληροφοριών από έγγραφα**  
 Ασφαλής διόρθωση ευαίσθητων πληροφοριών με υποστήριξη για διόρθωση κειμένου, μεταδεδομένων και σχολιασμών σε πολλαπλούς μορφότυπους αρχείων για απαιτήσεις συμμόρφωσης.
 {{% /alert %}}
 
-* [GroupDocs.Redaction for .NET Tutorials](./redaction/el/net/)
-* [GroupDocs.Redaction for Java Tutorials](./redaction/el/java/)
+* [GroupDocs.Redaction for .NET Tutorials](../redaction/el/net/)
+* [GroupDocs.Redaction for Java Tutorials](../redaction/el/java/)
 
 ---
 
@@ -113,14 +113,14 @@ url: /el/
 
 ### Χειρισμός Εγγράφων
 
-#### [GroupDocs.Merger](./merger/el/)
+#### [GroupDocs.Merger](../merger/el/)
 {{% alert color="primary" %}}
 **Συνένωση, διαχωρισμός και διαχείριση σελίδων εγγράφων**  
 Συνδυασμός πολλαπλών εγγράφων, διαχωρισμός μεγάλων αρχείων, αναδιάταξη σελίδων και εξαγωγή συγκεκριμένων τμημάτων εγγράφων διατηρώντας την ακεραιότητα του εγγράφου.
 {{% /alert %}}
 
-* [GroupDocs.Merger for .NET Tutorials](./merger/el/net/)
-* [GroupDocs.Merger for Java Tutorials](./merger/el/java/)
+* [GroupDocs.Merger for .NET Tutorials](../merger/el/net/)
+* [GroupDocs.Merger for Java Tutorials](../merger/el/java/)
 
 ---
 
@@ -139,14 +139,14 @@ url: /el/
 
 ### Επεξεργασία Εγγράφων
 
-#### [GroupDocs.Editor](./editor/el/)
+#### [GroupDocs.Editor](../editor/el/)
 {{% alert color="primary" %}}
 **Επεξεργασία εγγράφων σε διαδικτυακές εφαρμογές**  
 Υλοποίηση WYSIWYG επεξεργασίας εγγράφων με υποστήριξη για διάφορους μορφότυπους εγγράφων και απρόσκοπτη ενσωμάτωση με δημοφιλείς HTML editors βασισμένους σε περιηγητή.
 {{% /alert %}}
 
-* [GroupDocs.Editor for .NET Tutorials](./editor/el/net/)
-* [GroupDocs.Editor for Java Tutorials](./editor/el/java/)
+* [GroupDocs.Editor for .NET Tutorials](../editor/el/net/)
+* [GroupDocs.Editor for Java Tutorials](../editor/el/java/)
 
 ---
 
@@ -154,40 +154,40 @@ url: /el/
 
 ### Διαχείριση Μεταδεδομένων
 
-#### [GroupDocs.Metadata](./metadata/el/)
+#### [GroupDocs.Metadata](../metadata/el/)
 {{% alert color="primary" %}}
 **Διαχείριση μεταδεδομένων εγγράφων και πολυμέσων**  
 Ανάγνωση, εγγραφή, επεξεργασία και αφαίρεση μεταδεδομένων σε διάφορους μορφότυπους αρχείων με υποστήριξη για τυπικές και προσαρμοσμένες ιδιότητες μεταδεδομένων για βελτιωμένη διαχείριση εγγράφων.
 {{% /alert %}}
 
-* [GroupDocs.Metadata for .NET Tutorials](./metadata/el/net/)
-* [GroupDocs.Metadata for Java Tutorials](./metadata/el/java/)
+* [GroupDocs.Metadata for .NET Tutorials](../metadata/el/net/)
+* [GroupDocs.Metadata for Java Tutorials](../metadata/el/java/)
 
 ---
 
 ### Αναζήτηση Εγγράφων
 
-#### [GroupDocs.Search](./search/el/)
+#### [GroupDocs.Search](../search/el/)
 {{% alert color="primary" %}}
 **Υλοποίηση ισχυρής λειτουργικότητας αναζήτησης εγγράφων**  
 Προσθήκη γρήγορης και ακριβούς αναζήτησης εγγράφων με υποστήριξη για πολύπλοκα ερωτήματα, ασαφή αναζήτηση, συνώνυμα και ευρετηρίαση πολλαπλών μορφότυπων αρχείων.
 {{% /alert %}}
 
-* [GroupDocs.Search for .NET Tutorials](./search/el/net/)
-* [GroupDocs.Search for Java Tutorials](./search/el/java/)
+* [GroupDocs.Search for .NET Tutorials](../search/el/net/)
+* [GroupDocs.Search for Java Tutorials](../search/el/java/)
 
 ---
 
 ### Εξαγωγή Περιεχομένου
 
-#### [GroupDocs.Parser](./parser/el/)
+#### [GroupDocs.Parser](../parser/el/)
 {{% alert color="primary" %}}
 **Εξαγωγή κειμένου και δεδομένων από έγγραφα**  
 Ανάλυση δομημένων και μη δομημένων δεδομένων από διάφορους μορφότυπους εγγράφων με υποστήριξη για εξαγωγή κειμένου, ανάκτηση μεταδεδομένων και ανάλυση εγγράφων.
 {{% /alert %}}
 
-* [GroupDocs.Parser for .NET Tutorials](./parser/el/net/)
-* [GroupDocs.Parser for Java Tutorials](./parser/el/java/)
+* [GroupDocs.Parser for .NET Tutorials](../parser/el/net/)
+* [GroupDocs.Parser for Java Tutorials](../parser/el/java/)
 
 ---
 

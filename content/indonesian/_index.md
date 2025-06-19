@@ -18,53 +18,53 @@ Selamat datang di pusat tutorial resmi untuk API manipulasi dokumen GroupDocs. S
 
 ### Tampilan Dokumen
 
-#### [GroupDocs.Viewer](./viewer/id/)
+#### [GroupDocs.Viewer](../viewer/id/)
 {{% alert color="primary" %}}
 **Tampilkan format dokumen apa pun dalam aplikasi Anda**  
 Render 170+ format dokumen termasuk PDF, file Office, gambar CAD, dan gambar dengan rendering fidelitas tinggi dan opsi UI yang dapat disesuaikan.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Viewer for .NET](./viewer/id/net/)
-* [Tutorial GroupDocs.Viewer for Java](./viewer/id/java/)
+* [Tutorial GroupDocs.Viewer for .NET](../viewer/id/net/)
+* [Tutorial GroupDocs.Viewer for Java](../viewer/id/java/)
 
 ---
 
 ### Konversi Dokumen
 
-#### [GroupDocs.Conversion](./conversion/id/)
+#### [GroupDocs.Conversion](../conversion/id/)
 {{% alert color="primary" %}}
 **Konversi mulus antar format dokumen**  
 Transformasi dokumen antar 50+ format dengan akurasi dan performa tinggi, mendukung pemrosesan batch dan opsi kustomisasi ekstensif.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Conversion for .NET](./conversion/id/net/)
-* [Tutorial GroupDocs.Conversion for Java](./conversion/id/java/)
+* [Tutorial GroupDocs.Conversion for .NET](../conversion/id/net/)
+* [Tutorial GroupDocs.Conversion for Java](../conversion/id/java/)
 
 ---
 
 ### Perbandingan Dokumen
 
-#### [GroupDocs.Comparison](./comparison/id/)
+#### [GroupDocs.Comparison](../comparison/id/)
 {{% alert color="primary" %}}
 **Deteksi dan sorot perubahan dokumen**  
 Bandingkan dokumen dalam berbagai format dengan presisi tingkat paragraf, sorot perbedaan, dan buat laporan perbandingan terperinci.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Comparison for .NET](./comparison/id/net/)
-* [Tutorial GroupDocs.Comparison for Java](./comparison/id/java/)
+* [Tutorial GroupDocs.Comparison for .NET](../comparison/id/net/)
+* [Tutorial GroupDocs.Comparison for Java](../comparison/id/java/)
 
 ---
 
 ### Anotasi Dokumen
 
-#### [GroupDocs.Annotation](./annotation/id/)
+#### [GroupDocs.Annotation](../annotation/id/)
 {{% alert color="primary" %}}
 **Aktifkan tinjauan dokumen kolaboratif**  
 Tambah, edit, dan kelola anotasi dengan dukungan untuk penyorotan teks, bentuk, penunjukan, penggantian teks, dan lainnya di berbagai format dokumen.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Annotation for .NET](./annotation/id/net/)
-* [Tutorial GroupDocs.Annotation for Java](./annotation/id/java/)
+* [Tutorial GroupDocs.Annotation for .NET](../annotation/id/net/)
+* [Tutorial GroupDocs.Annotation for Java](../annotation/id/java/)
 
 ---
 
@@ -72,40 +72,40 @@ Tambah, edit, dan kelola anotasi dengan dukungan untuk penyorotan teks, bentuk, 
 
 ### Tanda Tangan Digital
 
-#### [GroupDocs.Signature](./signature/id/)
+#### [GroupDocs.Signature](../signature/id/)
 {{% alert color="primary" %}}
 **Tambahkan tanda tangan digital ke dokumen**  
 Implementasikan tanda tangan elektronik dengan dukungan untuk teks, gambar, sertifikat digital, barcode, QR code, dan tanda tangan stempel di berbagai jenis dokumen.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Signature for .NET](./signature/id/net/)
-* [Tutorial GroupDocs.Signature for Java](./signature/id/java/)
+* [Tutorial GroupDocs.Signature for .NET](../signature/id/net/)
+* [Tutorial GroupDocs.Signature for Java](../signature/id/java/)
 
 ---
 
 ### Perlindungan Informasi
 
-#### [GroupDocs.Watermark](./watermark/id/)
+#### [GroupDocs.Watermark](../watermark/id/)
 {{% alert color="primary" %}}
 **Tambah dan kelola watermark dokumen**  
 Terapkan, temukan, dan hapus watermark dengan dukungan untuk watermark teks, gambar, dan bentuk di berbagai format dokumen untuk perlindungan konten.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Watermark for .NET](./watermark/id/net/)
-* [Tutorial GroupDocs.Watermark for Java](./watermark/id/java/)
+* [Tutorial GroupDocs.Watermark for .NET](../watermark/id/net/)
+* [Tutorial GroupDocs.Watermark for Java](../watermark/id/java/)
 
 ---
 
 ### Redaksi Konten
 
-#### [GroupDocs.Redaction](./redaction/id/)
+#### [GroupDocs.Redaction](../redaction/id/)
 {{% alert color="primary" %}}
 **Hapus informasi sensitif dari dokumen**  
 Redaksi informasi sensitif dengan aman dengan dukungan untuk redaksi teks, metadata, dan anotasi di berbagai format file untuk persyaratan kepatuhan.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Redaction for .NET](./redaction/id/net/)
-* [Tutorial GroupDocs.Redaction for Java](./redaction/id/java/)
+* [Tutorial GroupDocs.Redaction for .NET](../redaction/id/net/)
+* [Tutorial GroupDocs.Redaction for Java](../redaction/id/java/)
 
 ---
 
@@ -113,14 +113,14 @@ Redaksi informasi sensitif dengan aman dengan dukungan untuk redaksi teks, metad
 
 ### Manipulasi Dokumen
 
-#### [GroupDocs.Merger](./merger/id/)
+#### [GroupDocs.Merger](../merger/id/)
 {{% alert color="primary" %}}
 **Gabung, pisah, dan kelola halaman dokumen**  
 Kombinasikan beberapa dokumen, pisahkan file besar, susun ulang halaman, dan ekstrak bagian dokumen tertentu sambil mempertahankan integritas dokumen.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Merger for .NET](./merger/id/net/)
-* [Tutorial GroupDocs.Merger for Java](./merger/id/java/)
+* [Tutorial GroupDocs.Merger for .NET](../merger/id/net/)
+* [Tutorial GroupDocs.Merger for Java](../merger/id/java/)
 
 ---
 
@@ -139,14 +139,14 @@ Hasilkan laporan dinamis, invoice, dan dokumen yang dipersonalisasi dengan mengi
 
 ### Pengeditan Dokumen
 
-#### [GroupDocs.Editor](./editor/id/)
+#### [GroupDocs.Editor](../editor/id/)
 {{% alert color="primary" %}}
 **Edit dokumen dalam aplikasi web**  
 Implementasikan pengeditan dokumen WYSIWYG dengan dukungan untuk berbagai format dokumen dan integrasi mulus dengan editor HTML berbasis browser populer.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Editor for .NET](./editor/id/net/)
-* [Tutorial GroupDocs.Editor for Java](./editor/id/java/)
+* [Tutorial GroupDocs.Editor for .NET](../editor/id/net/)
+* [Tutorial GroupDocs.Editor for Java](../editor/id/java/)
 
 ---
 
@@ -154,40 +154,40 @@ Implementasikan pengeditan dokumen WYSIWYG dengan dukungan untuk berbagai format
 
 ### Manajemen Metadata
 
-#### [GroupDocs.Metadata](./metadata/id/)
+#### [GroupDocs.Metadata](../metadata/id/)
 {{% alert color="primary" %}}
 **Kelola metadata dokumen dan media**  
 Baca, tulis, edit, dan hapus metadata dalam berbagai format file dengan dukungan untuk properti metadata standar dan kustom untuk manajemen dokumen yang ditingkatkan.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Metadata for .NET](./metadata/id/net/)
-* [Tutorial GroupDocs.Metadata for Java](./metadata/id/java/)
+* [Tutorial GroupDocs.Metadata for .NET](../metadata/id/net/)
+* [Tutorial GroupDocs.Metadata for Java](../metadata/id/java/)
 
 ---
 
 ### Pencarian Dokumen
 
-#### [GroupDocs.Search](./search/id/)
+#### [GroupDocs.Search](../search/id/)
 {{% alert color="primary" %}}
 **Implementasikan fungsionalitas pencarian dokumen yang kuat**  
 Tambahkan pencarian dokumen yang cepat dan akurat dengan dukungan untuk query kompleks, pencarian fuzzy, sinonim, dan pengindeksan berbagai format file.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Search for .NET](./search/id/net/)
-* [Tutorial GroupDocs.Search for Java](./search/id/java/)
+* [Tutorial GroupDocs.Search for .NET](../search/id/net/)
+* [Tutorial GroupDocs.Search for Java](../search/id/java/)
 
 ---
 
 ### Ekstraksi Konten
 
-#### [GroupDocs.Parser](./parser/id/)
+#### [GroupDocs.Parser](../parser/id/)
 {{% alert color="primary" %}}
 **Ekstrak teks dan data dari dokumen**  
 Parse data terstruktur dan tidak terstruktur dari berbagai format dokumen dengan dukungan untuk ekstraksi teks, pengambilan metadata, dan analisis dokumen.
 {{% /alert %}}
 
-* [Tutorial GroupDocs.Parser for .NET](./parser/id/net/)
-* [Tutorial GroupDocs.Parser for Java](./parser/id/java/)
+* [Tutorial GroupDocs.Parser for .NET](../parser/id/net/)
+* [Tutorial GroupDocs.Parser for Java](../parser/id/java/)
 
 ---
 

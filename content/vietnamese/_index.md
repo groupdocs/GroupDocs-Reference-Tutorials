@@ -18,53 +18,53 @@ Chào mừng đến với trung tâm hướng dẫn chính thức cho các API t
 
 ### Xem Tài liệu
 
-#### [GroupDocs.Viewer](./viewer/vi/)
+#### [GroupDocs.Viewer](../viewer/vi/)
 {{% alert color="primary" %}}
 **Hiển thị bất kỳ định dạng tài liệu nào trong ứng dụng của bạn**  
 Render 170+ định dạng tài liệu bao gồm PDF, tệp Office, bản vẽ CAD và hình ảnh với chất lượng render cao và tùy chọn UI có thể tùy chỉnh.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Viewer for .NET](./viewer/vi/net/)
-* [Hướng dẫn GroupDocs.Viewer for Java](./viewer/vi/java/)
+* [Hướng dẫn GroupDocs.Viewer for .NET](../viewer/vi/net/)
+* [Hướng dẫn GroupDocs.Viewer for Java](../viewer/vi/java/)
 
 ---
 
 ### Chuyển đổi Tài liệu
 
-#### [GroupDocs.Conversion](./conversion/vi/)
+#### [GroupDocs.Conversion](../conversion/vi/)
 {{% alert color="primary" %}}
 **Chuyển đổi liền mạch giữa các định dạng tài liệu**  
 Chuyển đổi tài liệu giữa 50+ định dạng với độ chính xác và hiệu suất cao, hỗ trợ xử lý hàng loạt và tùy chọn tùy chỉnh mở rộng.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Conversion for .NET](./conversion/vi/net/)
-* [Hướng dẫn GroupDocs.Conversion for Java](./conversion/vi/java/)
+* [Hướng dẫn GroupDocs.Conversion for .NET](../conversion/vi/net/)
+* [Hướng dẫn GroupDocs.Conversion for Java](../conversion/vi/java/)
 
 ---
 
 ### So sánh Tài liệu
 
-#### [GroupDocs.Comparison](./comparison/vi/)
+#### [GroupDocs.Comparison](../comparison/vi/)
 {{% alert color="primary" %}}
 **Phát hiện và làm nổi bật thay đổi tài liệu**  
 So sánh tài liệu qua các định dạng khác nhau với độ chính xác cấp đoạn văn, làm nổi bật sự khác biệt và tạo báo cáo so sánh chi tiết.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Comparison for .NET](./comparison/vi/net/)
-* [Hướng dẫn GroupDocs.Comparison for Java](./comparison/vi/java/)
+* [Hướng dẫn GroupDocs.Comparison for .NET](../comparison/vi/net/)
+* [Hướng dẫn GroupDocs.Comparison for Java](../comparison/vi/java/)
 
 ---
 
 ### Chú thích Tài liệu
 
-#### [GroupDocs.Annotation](./annotation/vi/)
+#### [GroupDocs.Annotation](../annotation/vi/)
 {{% alert color="primary" %}}
 **Kích hoạt đánh giá tài liệu cộng tác**  
 Thêm, chỉnh sửa và quản lý chú thích với hỗ trợ làm nổi bật văn bản, hình dạng, chỉ ra, thay thế văn bản và nhiều hơn nữa qua nhiều định dạng tài liệu.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Annotation for .NET](./annotation/vi/net/)
-* [Hướng dẫn GroupDocs.Annotation for Java](./annotation/vi/java/)
+* [Hướng dẫn GroupDocs.Annotation for .NET](../annotation/vi/net/)
+* [Hướng dẫn GroupDocs.Annotation for Java](../annotation/vi/java/)
 
 ---
 
@@ -72,40 +72,40 @@ Thêm, chỉnh sửa và quản lý chú thích với hỗ trợ làm nổi bậ
 
 ### Chữ ký Số
 
-#### [GroupDocs.Signature](./signature/vi/)
+#### [GroupDocs.Signature](../signature/vi/)
 {{% alert color="primary" %}}
 **Thêm chữ ký số vào tài liệu**  
 Triển khai chữ ký điện tử với hỗ trợ văn bản, hình ảnh, chứng chỉ số, mã vạch, mã QR và chữ ký dấu ở các loại tài liệu khác nhau.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Signature for .NET](./signature/vi/net/)
-* [Hướng dẫn GroupDocs.Signature for Java](./signature/vi/java/)
+* [Hướng dẫn GroupDocs.Signature for .NET](../signature/vi/net/)
+* [Hướng dẫn GroupDocs.Signature for Java](../signature/vi/java/)
 
 ---
 
 ### Bảo vệ Thông tin
 
-#### [GroupDocs.Watermark](./watermark/vi/)
+#### [GroupDocs.Watermark](../watermark/vi/)
 {{% alert color="primary" %}}
 **Thêm và quản lý hình mờ tài liệu**  
 Áp dụng, tìm và loại bỏ hình mờ với hỗ trợ hình mờ văn bản, hình ảnh và hình dạng qua các định dạng tài liệu khác nhau để bảo vệ nội dung.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Watermark for .NET](./watermark/vi/net/)
-* [Hướng dẫn GroupDocs.Watermark for Java](./watermark/vi/java/)
+* [Hướng dẫn GroupDocs.Watermark for .NET](../watermark/vi/net/)
+* [Hướng dẫn GroupDocs.Watermark for Java](../watermark/vi/java/)
 
 ---
 
 ### Biên tập Nội dung
 
-#### [GroupDocs.Redaction](./redaction/vi/)
+#### [GroupDocs.Redaction](../redaction/vi/)
 {{% alert color="primary" %}}
 **Loại bỏ thông tin nhạy cảm khỏi tài liệu**  
 Biên tập thông tin nhạy cảm một cách an toàn với hỗ trợ biên tập văn bản, metadata và chú thích qua nhiều định dạng tệp cho yêu cầu tuân thủ.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Redaction for .NET](./redaction/vi/net/)
-* [Hướng dẫn GroupDocs.Redaction for Java](./redaction/vi/java/)
+* [Hướng dẫn GroupDocs.Redaction for .NET](../redaction/vi/net/)
+* [Hướng dẫn GroupDocs.Redaction for Java](../redaction/vi/java/)
 
 ---
 
@@ -113,14 +113,14 @@ Biên tập thông tin nhạy cảm một cách an toàn với hỗ trợ biên 
 
 ### Thao tác Tài liệu
 
-#### [GroupDocs.Merger](./merger/vi/)
+#### [GroupDocs.Merger](../merger/vi/)
 {{% alert color="primary" %}}
 **Kết hợp, tách và quản lý trang tài liệu**  
 Kết hợp nhiều tài liệu, tách tệp lớn, sắp xếp lại trang và trích xuất các phần tài liệu cụ thể trong khi duy trì tính toàn vẹn tài liệu.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Merger for .NET](./merger/vi/net/)
-* [Hướng dẫn GroupDocs.Merger for Java](./merger/vi/java/)
+* [Hướng dẫn GroupDocs.Merger for .NET](../merger/vi/net/)
+* [Hướng dẫn GroupDocs.Merger for Java](../merger/vi/java/)
 
 ---
 
@@ -139,14 +139,14 @@ Tạo báo cáo động, hóa đơn và tài liệu cá nhân hóa bằng cách 
 
 ### Chỉnh sửa Tài liệu
 
-#### [GroupDocs.Editor](./editor/vi/)
+#### [GroupDocs.Editor](../editor/vi/)
 {{% alert color="primary" %}}
 **Chỉnh sửa tài liệu trong ứng dụng web**  
 Triển khai chỉnh sửa tài liệu WYSIWYG với hỗ trợ các định dạng tài liệu khác nhau và tích hợp liền mạch với các trình chỉnh sửa HTML phổ biến dựa trên trình duyệt.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Editor for .NET](./editor/vi/net/)
-* [Hướng dẫn GroupDocs.Editor for Java](./editor/vi/java/)
+* [Hướng dẫn GroupDocs.Editor for .NET](../editor/vi/net/)
+* [Hướng dẫn GroupDocs.Editor for Java](../editor/vi/java/)
 
 ---
 
@@ -154,40 +154,40 @@ Triển khai chỉnh sửa tài liệu WYSIWYG với hỗ trợ các định d�
 
 ### Quản lý Metadata
 
-#### [GroupDocs.Metadata](./metadata/vi/)
+#### [GroupDocs.Metadata](../metadata/vi/)
 {{% alert color="primary" %}}
 **Quản lý metadata tài liệu và phương tiện**  
 Đọc, viết, chỉnh sửa và loại bỏ metadata trong các định dạng tệp khác nhau với hỗ trợ thuộc tính metadata tiêu chuẩn và tùy chỉnh cho quản lý tài liệu nâng cao.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Metadata for .NET](./metadata/vi/net/)
-* [Hướng dẫn GroupDocs.Metadata for Java](./metadata/vi/java/)
+* [Hướng dẫn GroupDocs.Metadata for .NET](../metadata/vi/net/)
+* [Hướng dẫn GroupDocs.Metadata for Java](../metadata/vi/java/)
 
 ---
 
 ### Tìm kiếm Tài liệu
 
-#### [GroupDocs.Search](./search/vi/)
+#### [GroupDocs.Search](../search/vi/)
 {{% alert color="primary" %}}
 **Triển khai chức năng tìm kiếm tài liệu mạnh mẽ**  
 Thêm tìm kiếm tài liệu nhanh chóng và chính xác với hỗ trợ truy vấn phức tạp, tìm kiếm mờ, từ đồng nghĩa và lập chỉ mục nhiều định dạng tệp.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Search for .NET](./search/vi/net/)
-* [Hướng dẫn GroupDocs.Search for Java](./search/vi/java/)
+* [Hướng dẫn GroupDocs.Search for .NET](../search/vi/net/)
+* [Hướng dẫn GroupDocs.Search for Java](../search/vi/java/)
 
 ---
 
 ### Trích xuất Nội dung
 
-#### [GroupDocs.Parser](./parser/vi/)
+#### [GroupDocs.Parser](../parser/vi/)
 {{% alert color="primary" %}}
 **Trích xuất văn bản và dữ liệu từ tài liệu**  
 Phân tích dữ liệu có cấu trúc và không có cấu trúc từ các định dạng tài liệu khác nhau với hỗ trợ trích xuất văn bản, truy xuất metadata và phân tích tài liệu.
 {{% /alert %}}
 
-* [Hướng dẫn GroupDocs.Parser for .NET](./parser/vi/net/)
-* [Hướng dẫn GroupDocs.Parser for Java](./parser/vi/java/)
+* [Hướng dẫn GroupDocs.Parser for .NET](../parser/vi/net/)
+* [Hướng dẫn GroupDocs.Parser for Java](../parser/vi/java/)
 
 ---
 
