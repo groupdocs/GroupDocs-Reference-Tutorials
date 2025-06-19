@@ -1,0 +1,66 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{/* Homepage sitemaps for each language */}}
+  {{ range .Site.Languages }}
+  {{ $lang := .Lang }}
+  {{ $langCode := cond (eq $lang "en") "" (printf "%s/" $lang) }}
+  <sitemap>
+    <loc>{{ $.Site.BaseURL }}{{ $langCode }}homepage-sitemap.xml</loc>
+    <lastmod>{{ $.Site.Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  {{ end }}
+  
+  {{/* GroupDocs tutorial sitemaps for each language */}}
+  {{ range .Site.Languages }}
+  {{ $lang := .Lang }}
+  {{ $langCode := cond (eq $lang "en") "" (printf "%s/" $lang) }}
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/viewer/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/conversion/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/comparison/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/annotation/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/signature/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/watermark/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/redaction/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/merger/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/editor/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/metadata/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/search/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://tutorials.groupdocs.com/parser/{{ $langCode }}sitemap.xml</loc>
+    <lastmod>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+  </sitemap>
+  {{ end }}
+</sitemapindex>
