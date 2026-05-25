@@ -2,7 +2,7 @@
 
 name: qa-tutorials.groupdocs.com(tutorials-home)(family)(Stage)
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
@@ -12,7 +12,7 @@ on:
   pull_request:
     branches: [ staging ]
     paths:
-      - 'content/**'    
+      - 'content/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -22,7 +22,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     # Steps represent a sequence of home that will be executed as part of the job
     steps:
@@ -39,12 +39,16 @@ jobs:
           token: ${{ secrets.REPO_TOKEN }}
           ref: beta
           fetch-depth: 0
-          path: themes/tutorials-theme      
+          path: themes/tutorials-theme
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
       # Step 2 - Sets up the latest version of Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-            hugo-version: '0.97.3'
+            hugo-version: 'latest'
             extended: true
       - name: Install Dependicies1
         run:  npm install -D --save autoprefixer
@@ -53,18 +57,22 @@ jobs:
       # Also specifies the theme we want to use
       - name: Build
         run: hugo --configDir config/home --environment staging --minify
-        
-      - name: Deploy apiqa-tutorials.groupdocs.com(tutorials-home)(family)(Stage) to S3
-        run: hugo --configDir config/home --environment staging deploy --target "Stage" --maxDeletes 0
+
+      - name: Sync to Ceph S3
+        run: |
+          aws s3 sync ./public/ s3://qa-tutorials-groupdocs-com/ \
+            --endpoint-url https://s3-qa.dynabic.com \
+            --acl public-read \
+            --delete
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
-      # Invalidate Cloudfront
-      - name: invalidate
-        uses: chetan/invalidate-cloudfront-action@v2
-        env:
-          DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
-          PATHS: /index.html
-          AWS_REGION: 'us-west-2'
-          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_ACCESS }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.CEPH_S3_QA_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CEPH_S3_QA_SECRET_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
+          AWS_ENDPOINT_URL: https://s3-admin-qa.dynabic.com
+
+      - name: Purge BunnyCDN Cache
+        run: |
+           curl -siG \
+            -H "X-Api-Key: ${{ secrets.BUNNY_API_KEY }}" \
+            --data-urlencode "url=https://qa-tutorials.groupdocs.com" \
+            "https://api.dynabic.com/bn/purge?async=true"
