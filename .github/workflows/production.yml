@@ -67,7 +67,6 @@ jobs:
           aws s3 sync ./public/ s3://tutorials-groupdocs-com/ \
             --endpoint-url https://s3.dynabic.com \
             --acl public-read \
-            --delete \
             --exclude "*.map" \
             --cache-control "public, max-age=3600"
         env:
