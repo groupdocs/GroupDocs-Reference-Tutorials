@@ -1,4 +1,5 @@
 ---
+type: docs
 title: GroupDocs API Oktatóanyagok és Kódrészletek
 additionalTitle: Teljes Fejlesztői Források
 description: Átfogó oktatóanyagok és kódrészletek minden GroupDocs dokumentumkezelő API-hoz. Tanulja meg a dokumentumnézés, konvertálás, összehasonlítás, annotáció és egyebek implementálását .NET és Java alkalmazásaiban.

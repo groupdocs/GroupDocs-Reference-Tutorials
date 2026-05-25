@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Tutorial GroupDocs API e Frammenti di Codice
 additionalTitle: Risorse Complete per Sviluppatori
 description: Tutorial completi e frammenti di codice per tutte le API di manipolazione documenti GroupDocs. Impara a implementare visualizzazione documenti, conversione, confronto, annotazione e altro nelle tue applicazioni .NET e Java.

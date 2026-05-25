@@ -1,4 +1,5 @@
 ---
+type: docs
 title: GroupDocs API 튜토리얼 및 코드 스니펫
 additionalTitle: 개발자를 위한 완전한 리소스
 description: 모든 GroupDocs 문서 조작 API를 위한 포괄적인 튜토리얼과 코드 스니펫. .NET 및 Java 애플리케이션에서 문서 보기, 변환, 비교, 주석 등을 구현하는 방법을 학습하세요.

@@ -1,4 +1,5 @@
 ---
+type: docs
 title: GroupDocs API Handledningar och Kodsnuttar
 additionalTitle: Kompletta Utvecklarresurser
 description: Omfattande handledningar och kodsnuttar för alla GroupDocs dokumentmanipulations-API:er. Lär dig implementera dokumentvisning, konvertering, jämförelse, annotering och mer i dina .NET och Java-applikationer.

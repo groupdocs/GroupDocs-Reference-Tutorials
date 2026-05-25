@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Hướng dẫn GroupDocs API và Đoạn mã
 additionalTitle: Tài nguyên Hoàn chỉnh cho Nhà phát triển
 description: Hướng dẫn toàn diện và đoạn mã cho tất cả API thao tác tài liệu GroupDocs. Học cách triển khai xem tài liệu, chuyển đổi, so sánh, chú thích và nhiều hơn nữa trong ứng dụng .NET và Java của bạn.

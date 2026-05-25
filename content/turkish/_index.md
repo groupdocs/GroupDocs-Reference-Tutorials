@@ -1,4 +1,5 @@
 ---
+type: docs
 title: GroupDocs API Eğitimleri ve Kod Parçacıkları
 additionalTitle: Geliştiriciler için Eksiksiz Kaynaklar
 description: Tüm GroupDocs belge manipülasyonu API'leri için kapsamlı eğitimler ve kod parçacıkları. .NET ve Java uygulamalarınızda belge görüntüleme, dönüştürme, karşılaştırma, açıklama ve daha fazlasını uygulamayı öğrenin.

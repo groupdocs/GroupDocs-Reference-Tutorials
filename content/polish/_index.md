@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Tutoriale GroupDocs API i Fragmenty Kodu
 additionalTitle: Kompleksowe Zasoby dla Programistów
 description: Kompleksowe tutoriale i fragmenty kodu dla wszystkich API manipulacji dokumentów GroupDocs. Naucz się implementować przeglądanie dokumentów, konwersję, porównywanie, adnotacje i więcej w aplikacjach .NET i Java.

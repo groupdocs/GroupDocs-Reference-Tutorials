@@ -1,4 +1,5 @@
 ---
+type: docs
 title: GroupDocs API 教程和代码片段
 additionalTitle: 完整开发者资源
 description: 全面的 GroupDocs 文档操作 API 教程和代码片段。学习在您的 .NET 和 Java 应用程序中实现文档查看、转换、比较、注释等功能。

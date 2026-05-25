@@ -1,4 +1,5 @@
 ---
+type: docs
 title: GroupDocs API Tutorials en Codefragmenten
 additionalTitle: Volledige Ontwikkelaarsbronnen
 description: Uitgebreide tutorials en codefragmenten voor alle GroupDocs document manipulatie API's. Leer hoe je documentweergave, conversie, vergelijking, annotatie en meer implementeert in je .NET en Java applicaties.

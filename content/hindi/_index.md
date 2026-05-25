@@ -1,4 +1,5 @@
 ---
+type: docs
 title: GroupDocs API Tutorials और Code Snippets
 additionalTitle: डेवलपर्स के लिए संपूर्ण संसाधन
 description: सभी GroupDocs दस्तावेज़ प्रबंधन APIs के लिए व्यापक tutorials और code snippets। अपने .NET और Java applications में दस्तावेज़ viewing, conversion, comparison, annotation और अधिक को implement करना सीखें।

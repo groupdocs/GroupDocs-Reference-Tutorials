@@ -1,4 +1,5 @@
 ---
+type: docs
 title: GroupDocs API Výukové programy a úryvky kódu
 additionalTitle: Kompletní zdroje pro vývojáře
 description: Komplexní výukové programy a úryvky kódu pro všechna GroupDocs API pro manipulaci s dokumenty. Naučte se implementovat zobrazení dokumentů, konverzi, porovnání, anotace a další ve vašich .NET a Java aplikacích.

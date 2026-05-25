@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Tutorial GroupDocs API dan Potongan Kode
 additionalTitle: Sumber Daya Lengkap untuk Developer
 description: Tutorial komprehensif dan potongan kode untuk semua API manipulasi dokumen GroupDocs. Pelajari cara mengimplementasikan tampilan dokumen, konversi, perbandingan, anotasi dan lainnya dalam aplikasi .NET dan Java Anda.

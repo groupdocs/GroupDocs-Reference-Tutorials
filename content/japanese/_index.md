@@ -1,4 +1,5 @@
 ---
+type: docs
 title: GroupDocs API チュートリアルとコードスニペット
 additionalTitle: 開発者向け完全リソース
 description: すべてのGroupDocsドキュメント操作APIの包括的なチュートリアルとコードスニペット。.NETおよびJavaアプリケーションでのドキュメント表示、変換、比較、注釈などの実装方法を学習できます。

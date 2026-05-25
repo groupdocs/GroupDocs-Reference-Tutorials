@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Tutoriais GroupDocs API e Trechos de Código
 additionalTitle: Recursos Completos para Desenvolvedores
 description: Tutoriais abrangentes e trechos de código para todas as APIs de manipulação de documentos GroupDocs. Aprenda a implementar visualização de documentos, conversão, comparação, anotação e muito mais em suas aplicações .NET e Java.

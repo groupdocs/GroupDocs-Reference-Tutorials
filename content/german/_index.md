@@ -1,4 +1,5 @@
 ---
+type: docs
 title: GroupDocs API Tutorials und Code-Snippets
 additionalTitle: Vollständige Entwicklerressourcen
 description: Umfassende Tutorials und Code-Snippets für alle GroupDocs Dokumentbearbeitungs-APIs. Lernen Sie, wie Sie Dokumentanzeige, Konvertierung, Vergleich, Annotation und mehr in Ihren .NET und Java Anwendungen implementieren.

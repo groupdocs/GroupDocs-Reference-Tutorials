@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Tutoriels GroupDocs API et Extraits de Code
 additionalTitle: Ressources Complètes pour Développeurs
 description: Tutoriels complets et extraits de code pour toutes les API de manipulation de documents GroupDocs. Apprenez à implémenter la visualisation de documents, la conversion, la comparaison, l'annotation et plus encore dans vos applications .NET et Java.
